@@ -182,24 +182,24 @@
 
 ### 3D Printing
 
-* [![Open-Source Software][oss icon]](https://github.com/prusa3d/PrusaSlicer) ⭐ 9,364 | 🐛 5,626 | 🌐 C++ | 📅 2026-09-21 [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) - A slicer based on Slic3r by Alessandro Ranellucci and the RepRap community.
-* [![Open-Source Software][oss icon]](https://github.com/Ultimaker/Cura) ⭐ 7,045 | 🐛 3,385 | 🌐 Python | 📅 2026-09-24 [Cura](https://ultimaker.com/software/ultimaker-cura/) - The world's most advanced 3D printer software.
-* [![Open-Source Software][oss icon]](https://github.com/slic3r/Slic3r) ⭐ 3,656 | 🐛 1,167 | 🌐 C++ | 📅 2024-06-18 [Slic3r](https://slic3r.org/) - Open Source toolpath generator for 3D printers.
+* [![Open-Source Software][oss icon]](https://github.com/prusa3d/PrusaSlicer) ⭐ 9,365 | 🐛 5,616 | 🌐 C++ | 📅 2026-09-21 [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) - A slicer based on Slic3r by Alessandro Ranellucci and the RepRap community.
+* [![Open-Source Software][oss icon]](https://github.com/Ultimaker/Cura) ⭐ 7,046 | 🐛 3,384 | 🌐 Python | 📅 2026-09-24 [Cura](https://ultimaker.com/software/ultimaker-cura/) - The world's most advanced 3D printer software.
+* [![Open-Source Software][oss icon]](https://github.com/slic3r/Slic3r) ⭐ 3,655 | 🐛 1,167 | 🌐 C++ | 📅 2024-06-18 [Slic3r](https://slic3r.org/) - Open Source toolpath generator for 3D printers.
 * [![Open-Source Software][oss icon]](https://github.com/FreeCAD) [FreeCAD](https://www.freecad.org/) - An open source parametric 3D CAD modeler.
 
 ### Audio
 
-*For a more comprehensive/advanced/better categorized/... list of Linux audio software, you may want to click [here](https://github.com/nodiscc/awesome-linuxaudio) ⭐ 1,788 | 🐛 4 | 🌐 Makefile | 📅 2026-07-31*
+*For a more comprehensive/advanced/better categorized/... list of Linux audio software, you may want to click [here](https://github.com/nodiscc/awesome-linuxaudio) ⭐ 1,787 | 🐛 4 | 🌐 Makefile | 📅 2026-07-31*
 
 #### Edit-Mix-Record
 
-* [![Open-Source Software][oss icon]](https://github.com/audacity/audacity) ⭐ 18,554 | 🐛 1,795 | 🌐 C++ | 📅 2026-09-24 [Audacity](https://www.audacityteam.org/download/linux/) - Free, open source, cross-platform software for recording and editing sounds.
-* [![Open-Source Software][oss icon]](https://github.com/musescore/MuseScore) ⭐ 15,132 | 🐛 4,263 | 🌐 C++ | 📅 2026-09-24 [MuseScore](https://musescore.org) - Create, play and print beautiful sheet music.
-* [![Open-Source Software][oss icon]](https://github.com/LMMS/lmms) ⭐ 10,383 | 🐛 1,458 | 🌐 C++ | 📅 2026-09-21 [LMMS](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.
-* [![Open-Source Software][oss icon]](https://github.com/wwmm/easyeffects) ⭐ 10,257 | 🐛 271 | 🌐 HTML | 📅 2026-09-23 [EasyEffects](https://github.com/wwmm/easyeffects) ⭐ 10,257 | 🐛 271 | 🌐 HTML | 📅 2026-09-23 - EasyEffects is an advanced audio manipulation tool. It includes an equalizer, limiter, compressor and a reverberation tool, just to mention a few. To complement this there is also a built in spectrum analyzer.
-* [![Open-Source Software][oss icon]](https://github.com/mixxxdj/mixxx) ⭐ 7,182 | 🐛 2,965 | 🌐 C++ | 📅 2026-09-24 [Mixxx](https://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes; veritable alternative to Traktor.
-* [![Open-Source Software][oss icon]](https://github.com/Ardour/ardour) ⭐ 5,297 | 🐛 51 | 🌐 C++ | 📅 2026-09-23 [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux.
-* [![Open-Source Software][oss icon]](https://github.com/VCVRack/Rack) ⭐ 4,423 | 🐛 307 | 🌐 C++ | 📅 2025-11-04 [VCV Rack](https://vcvrack.com/) - An open-source virtual modular synthesizer.
+* [![Open-Source Software][oss icon]](https://github.com/audacity/audacity) ⭐ 18,554 | 🐛 1,799 | 🌐 C++ | 📅 2026-09-24 [Audacity](https://www.audacityteam.org/download/linux/) - Free, open source, cross-platform software for recording and editing sounds.
+* [![Open-Source Software][oss icon]](https://github.com/musescore/MuseScore) ⭐ 15,133 | 🐛 4,267 | 🌐 C++ | 📅 2026-09-24 [MuseScore](https://musescore.org) - Create, play and print beautiful sheet music.
+* [![Open-Source Software][oss icon]](https://github.com/LMMS/lmms) ⭐ 10,385 | 🐛 1,458 | 🌐 C++ | 📅 2026-09-21 [LMMS](https://lmms.io/download/#linux) - Making music on your PC by creating melodies and beats, synthesizing and mixing sounds, arranging samples and much more.
+* [![Open-Source Software][oss icon]](https://github.com/wwmm/easyeffects) ⭐ 10,258 | 🐛 271 | 🌐 HTML | 📅 2026-09-23 [EasyEffects](https://github.com/wwmm/easyeffects) ⭐ 10,258 | 🐛 271 | 🌐 HTML | 📅 2026-09-23 - EasyEffects is an advanced audio manipulation tool. It includes an equalizer, limiter, compressor and a reverberation tool, just to mention a few. To complement this there is also a built in spectrum analyzer.
+* [![Open-Source Software][oss icon]](https://github.com/mixxxdj/mixxx) ⭐ 7,183 | 🐛 2,967 | 🌐 C++ | 📅 2026-09-24 [Mixxx](https://www.mixxx.org/download/) - Free DJ software that gives you everything you need to perform live mixes; veritable alternative to Traktor.
+* [![Open-Source Software][oss icon]](https://github.com/Ardour/ardour) ⭐ 5,297 | 🐛 51 | 🌐 C++ | 📅 2026-09-24 [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux.
+* [![Open-Source Software][oss icon]](https://github.com/VCVRack/Rack) ⭐ 4,424 | 🐛 307 | 🌐 C++ | 📅 2025-11-04 [VCV Rack](https://vcvrack.com/) - An open-source virtual modular synthesizer.
 * [![Open-Source Software][oss icon]](https://github.com/mtytel/helm) ⚠️ Archived [Helm](https://tytel.org/helm/) - A software synthesizer, that runs either standalone, or as an LV2, VST, VST3 or AU plugin.
 * [![Open-Source Software][oss icon]](https://github.com/hydrogen-music/hydrogen) ⭐ 1,335 | 🐛 131 | 🌐 C++ | 📅 2026-09-24 [Hydrogen](http://www.hydrogen-music.org/) - Advanced drum machine for GNU/Linux.
 * [![Open-Source Software][oss icon]](https://github.com/Audio4Linux/Viper4Linux-GUI) ⭐ 187 | 🐛 8 | 🌐 C++ | 📅 2025-10-30 [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux-GUI) ⭐ 187 | 🐛 8 | 🌐 C++ | 📅 2025-10-30 - An audio effect processor based on Viper4Android.
@@ -211,25 +211,25 @@
 
 #### Music Player
 
-* [![Open-Source Software][oss icon]](https://github.com/krtirtho/spotube) ⭐ 49,391 | 🐛 866 | 🌐 Dart | 📅 2026-09-12 [Spotube](https://spotube.krtirtho.dev/) - Spotube is a Flutter based lightweight spotify client. It utilizes the power of Spotify & Youtube's public API & creates a hazardless, performant & resource friendly User Experience.
-* [![Open-Source Software][oss icon]](https://github.com/th-ch/youtube-music) ⭐ 33,569 | 🐛 690 | 🌐 TypeScript | 📅 2026-09-24 [Youtube-Music](https://github.com/th-ch/youtube-music/) ⭐ 33,569 | 🐛 690 | 🌐 TypeScript | 📅 2026-09-24 - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-* [![Open-Source Software][oss icon]](https://github.com/nukeop/nuclear) ⭐ 18,507 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-24 [Nuclear](https://nuclearplayer.com/) - An Electron-based, multiplatform music player app that streams from multiple sources.
-* [![Open-Source Software][oss icon]](https://github.com/beetbox/beets) ⭐ 15,704 | 🐛 708 | 🌐 Python | 📅 2026-09-23 [beets](https://beets.io/) - Beets is the media library management system for obsessive-compulsive music geeks.
-* [![Open-Source Software][oss icon]](https://github.com/mopidy/mopidy) ⭐ 8,587 | 🐛 178 | 🌐 Python | 📅 2026-09-24 [Mopidy](https://www.mopidy.com/) - An extensible music server written in Python.
+* [![Open-Source Software][oss icon]](https://github.com/krtirtho/spotube) ⭐ 49,397 | 🐛 866 | 🌐 Dart | 📅 2026-09-12 [Spotube](https://spotube.krtirtho.dev/) - Spotube is a Flutter based lightweight spotify client. It utilizes the power of Spotify & Youtube's public API & creates a hazardless, performant & resource friendly User Experience.
+* [![Open-Source Software][oss icon]](https://github.com/th-ch/youtube-music) ⭐ 33,576 | 🐛 690 | 🌐 TypeScript | 📅 2026-09-24 [Youtube-Music](https://github.com/th-ch/youtube-music/) ⭐ 33,576 | 🐛 690 | 🌐 TypeScript | 📅 2026-09-24 - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+* [![Open-Source Software][oss icon]](https://github.com/nukeop/nuclear) ⭐ 18,508 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-24 [Nuclear](https://nuclearplayer.com/) - An Electron-based, multiplatform music player app that streams from multiple sources.
+* [![Open-Source Software][oss icon]](https://github.com/beetbox/beets) ⭐ 15,704 | 🐛 710 | 🌐 Python | 📅 2026-09-23 [beets](https://beets.io/) - Beets is the media library management system for obsessive-compulsive music geeks.
+* [![Open-Source Software][oss icon]](https://github.com/mopidy/mopidy) ⭐ 8,586 | 🐛 178 | 🌐 Python | 📅 2026-09-24 [Mopidy](https://www.mopidy.com/) - An extensible music server written in Python.
 * [![Open-Source Software][oss icon]](https://github.com/cmus/cmus) ⭐ 6,250 | 🐛 229 | 🌐 C | 📅 2026-08-12 [Cmus](https://cmus.github.io/#download) - A small, fast and powerful console music player for Unix-like operating systems.
-* [![Open-Source Software][oss icon]](https://github.com/harmonoid/harmonoid) ⭐ 4,757 | 🐛 92 | 🌐 Dart | 📅 2026-09-02 [Harmonoid](https://harmonoid.com/) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
-* [![Open-Source Software][oss icon]](https://github.com/clementine-player/Clementine) ⭐ 4,252 | 🐛 2,421 | 🌐 C++ | 📅 2026-09-24 [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats.
-* [![Open-Source Software][oss icon]](https://github.com/strawberrymusicplayer/strawberry) ⭐ 3,981 | 🐛 22 | 🌐 C++ | 📅 2026-09-23 [Strawberry](https://www.strawberrymusicplayer.org/) - Strawberry is a fork of Clementine aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit.
+* [![Open-Source Software][oss icon]](https://github.com/harmonoid/harmonoid) ⭐ 4,759 | 🐛 92 | 🌐 Dart | 📅 2026-09-02 [Harmonoid](https://harmonoid.com/) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+* [![Open-Source Software][oss icon]](https://github.com/clementine-player/Clementine) ⭐ 4,252 | 🐛 2,424 | 🌐 C++ | 📅 2026-09-24 [Clementine](https://www.clementine-player.org/) - Play numerous lossy and lossless audio formats.
+* [![Open-Source Software][oss icon]](https://github.com/strawberrymusicplayer/strawberry) ⭐ 3,980 | 🐛 23 | 🌐 C++ | 📅 2026-09-24 [Strawberry](https://www.strawberrymusicplayer.org/) - Strawberry is a fork of Clementine aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit.
 * [![Open-Source Software][oss icon]](https://github.com/xou816/spot) ⭐ 2,367 | 🐛 114 | 🌐 Rust | 📅 2025-10-13 [Spot](https://github.com/xou816/spot) ⭐ 2,367 | 🐛 114 | 🌐 Rust | 📅 2025-10-13 - Native Spotify client for the GNOME desktop.
-* [![Open-Source Software][oss icon]](https://github.com/staniel359/muffon) ⭐ 2,235 | 🐛 44 | 🌐 Vue | 📅 2026-09-20 [muffon](https://muffon.netlify.app/) - muffon is a cross-platform music streaming browser for desktop, which helps you find, listen and organize music in a way you've probably never experienced before.
+* [![Open-Source Software][oss icon]](https://github.com/staniel359/muffon) ⭐ 2,233 | 🐛 44 | 🌐 Vue | 📅 2026-09-20 [muffon](https://muffon.netlify.app/) - muffon is a cross-platform music streaming browser for desktop, which helps you find, listen and organize music in a way you've probably never experienced before.
 * [![Open-Source Software][oss icon]](https://github.com/martpie/museeks) ⭐ 2,136 | 🐛 73 | 🌐 TypeScript | 📅 2026-07-03 [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player.
 * [![Open-Source Software][oss icon]](https://github.com/DeaDBeeF-Player/deadbeef) ⭐ 1,970 | 🐛 380 | 🌐 C | 📅 2026-09-19 [DeaDBeeF](https://deadbeef.sourceforge.io/) - DeaDBeeF is a modular audio player for GNU/Linux, BSD, OpenSolaris, macOS, and other UNIX-like systems.
 * [![Open-Source Software][oss icon]](https://github.com/quodlibet/quodlibet) ⭐ 1,754 | 🐛 888 | 🌐 Python | 📅 2026-09-21 [Quod Libet](https://quodlibet.readthedocs.io) - GTK+ music player written with huge libraries in mind. Supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio.
 * [![Open-Source Software][oss icon]](https://github.com/Mastermindzh/tidal-hifi) ⭐ 1,727 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-31 [Tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) ⭐ 1,727 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-31 - The web version of Tidal running in electron with hifi support thanks to widevine.
-* [![Open-Source Software][oss icon]](https://github.com/gpodder/gpodder) ⭐ 1,454 | 🐛 350 | 🌐 Python | 📅 2026-09-20 [Gpodder](https://gpodder.github.io/) - Media aggregator and podcast client.
+* [![Open-Source Software][oss icon]](https://github.com/gpodder/gpodder) ⭐ 1,455 | 🐛 350 | 🌐 Python | 📅 2026-09-20 [Gpodder](https://gpodder.github.io/) - Media aggregator and podcast client.
 * [![Open-Source Software][oss icon]](https://github.com/LibreTime/libretime) ⭐ 937 | 🐛 174 | 🌐 PHP | 📅 2026-09-24 [Libretime](https://libretime.org/) - The open broadcast software for scheduling and remote station management; forked from Airtime.
 * [![Open-Source Software][oss icon]](https://github.com/pithos/pithos) ⭐ 522 | 🐛 95 | 🌐 Python | 📅 2026-09-17 [Pithos](https://pithos.github.io/) - A native Pandora client for Linux.
-* [![Open-Source Software][oss icon]](https://github.com/Moosync/Moosync) ⭐ 258 | 🐛 29 | 🌐 Rust | 📅 2026-09-19 [Moosync](https://moosync.app/) - Customizable Desktop Music Player with a clean interface for streaming local music as well as music from online sources such as YouTube and Spotify,.
+* [![Open-Source Software][oss icon]](https://github.com/Moosync/Moosync) ⭐ 259 | 🐛 29 | 🌐 Rust | 📅 2026-09-19 [Moosync](https://moosync.app/) - Customizable Desktop Music Player with a clean interface for streaming local music as well as music from online sources such as YouTube and Spotify,.
 * [![Open-Source Software][oss icon]](https://github.com/GNOME/rhythmbox) ⭐ 243 | 🐛 0 | 🌐 C | 📅 2026-09-10 [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME.
 * [![Open-Source Software][oss icon]](https://github.com/linuxdeepin/deepin-music) ⭐ 221 | 🐛 3 | 🌐 C++ | 📅 2026-09-23 [Deepin Music](https://www.deepin.org/en/original/deepin-music/) - An application, developed by Deepin Technology Team, which focused on local music playing.
 * [![Open-Source Software][oss icon]](https://github.com/nullobsi/cantata) ⭐ 196 | 🐛 37 | 🌐 C++ | 📅 2026-08-26 [Cantata](https://github.com/nullobsi/cantata) ⭐ 196 | 🐛 37 | 🌐 C++ | 📅 2026-08-26 - Qt6 Graphical MPD (Music Player Daemon) Client for Linux, Windows, MacOS.
@@ -259,12 +259,12 @@
 
 #### Utilities
 
-* [![Open-Source Software][oss icon]](https://github.com/spicetify/spicetify-cli) ⭐ 24,622 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-22 [Spicetify](https://spicetify.app/) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
-* [![Open-Source Software][oss icon]](https://github.com/karlstav/cava) ⭐ 6,433 | 🐛 18 | 🌐 C | 📅 2026-09-21 [cava](https://github.com/karlstav/cava) ⭐ 6,433 | 🐛 18 | 🌐 C | 📅 2026-09-21 - Cava is a Cross-platform Audio Visualizer.
-* [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard) ⭐ 5,226 | 🐛 6 | 🌐 Python | 📅 2026-09-24 [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
-* [![Open-Source Software][oss icon]](https://github.com/Soundux/Soundux) ⭐ 2,047 | 🐛 122 | 🌐 C++ | 📅 2026-01-01 [Soundux](https://soundux.rocks/) - A cross-platform soundboard.
+* [![Open-Source Software][oss icon]](https://github.com/spicetify/spicetify-cli) ⭐ 24,629 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-22 [Spicetify](https://spicetify.app/) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
+* [![Open-Source Software][oss icon]](https://github.com/karlstav/cava) ⭐ 6,436 | 🐛 18 | 🌐 C | 📅 2026-09-21 [cava](https://github.com/karlstav/cava) ⭐ 6,436 | 🐛 18 | 🌐 C | 📅 2026-09-21 - Cava is a Cross-platform Audio Visualizer.
+* [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard) ⭐ 5,227 | 🐛 7 | 🌐 Python | 📅 2026-09-24 [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
+* [![Open-Source Software][oss icon]](https://github.com/Soundux/Soundux) ⭐ 2,048 | 🐛 122 | 🌐 C++ | 📅 2026-01-01 [Soundux](https://soundux.rocks/) - A cross-platform soundboard.
 * [![Open-Source Software][oss icon]](https://github.com/enzo1982/freac) ⭐ 1,970 | 🐛 223 | 🌐 C++ | 📅 2026-08-22 [fre:ac](https://www.freac.org) - fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
-* [![Open-Source Software][oss icon]](https://github.com/SeaDve/Mousai) ⭐ 1,218 | 🐛 30 | 🌐 Rust | 📅 2026-09-23 [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/) - Mousai is a simple application that can identify songs similar to Shazam.
+* [![Open-Source Software][oss icon]](https://github.com/SeaDve/Mousai) ⭐ 1,218 | 🐛 31 | 🌐 Rust | 📅 2026-09-23 [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/) - Mousai is a simple application that can identify songs similar to Shazam.
 * [![Open-Source Software][oss icon]](https://github.com/orhun/linuxwave) ⭐ 665 | 🐛 17 | 🌐 Zig | 📅 2026-07-31 [linuxwave](https://orhun.dev/linuxwave/) - Generate music from the entropy of Linux
 * [![Open-Source Software][oss icon]](https://github.com/osdlyrics/osdlyrics) ⭐ 393 | 🐛 40 | 🌐 C | 📅 2026-05-04 [OSD Lyrics](https://github.com/osdlyrics/osdlyrics) ⭐ 393 | 🐛 40 | 🌐 C | 📅 2026-05-04 - Show lyrics with your favorite media player.
 * [![Open-Source Software][oss icon]](https://github.com/KDE/k3b) ⭐ 233 | 🐛 0 | 🌐 C++ | 📅 2026-09-23 [K3b](https://userbase.kde.org/K3b) - The CD/DVD Kreator for Linux, optimized for KDE.
@@ -279,11 +279,11 @@
 
 #### 3rd Party Client
 
-* [![Open-Source Software][oss icon]](https://github.com/Vencord/Vesktop) ⭐ 8,433 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-21 [Vesktop](https://github.com/Vencord/Vesktop) ⭐ 8,433 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-21 - Vesktop is a custom Discord App aiming to give you better performance and improve linux support.
+* [![Open-Source Software][oss icon]](https://github.com/Vencord/Vesktop) ⭐ 8,432 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-21 [Vesktop](https://github.com/Vencord/Vesktop) ⭐ 8,432 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-21 - Vesktop is a custom Discord App aiming to give you better performance and improve linux support.
 * [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) ⭐ 7,392 | 🐛 294 | 🌐 TypeScript | 📅 2026-01-02 [Caprine](https://github.com/sindresorhus/caprine) ⭐ 7,392 | 🐛 294 | 🌐 TypeScript | 📅 2026-01-02 - Elegant Facebook Messenger desktop app.
 * [![Open-Source Software][oss icon]](https://github.com/chatterino/chatterino2) ⭐ 2,557 | 🐛 345 | 🌐 C++ | 📅 2026-09-23 [Chatterino](https://chatterino.com/) - Chatterino is a chat client for Twitch chat. It aims to be an improved/extended version of the Twitch web chat.
-* [![Open-Source Software][oss icon]](https://github.com/Nheko-Reborn/nheko) ⭐ 2,496 | 🐛 556 | 🌐 C++ | 📅 2026-09-11 [nheko](https://nheko-reborn.github.io/) - Desktop client for Matrix using Qt and C++20.
-* [![Open-Source Software][oss icon]](https://github.com/SpacingBat3/WebCord) ⭐ 2,445 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-23 [WebCord](https://github.com/SpacingBat3/WebCord) ⭐ 2,445 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-23 - A Discord and Fosscord web-based client made with the electron.
+* [![Open-Source Software][oss icon]](https://github.com/Nheko-Reborn/nheko) ⭐ 2,497 | 🐛 556 | 🌐 C++ | 📅 2026-09-11 [nheko](https://nheko-reborn.github.io/) - Desktop client for Matrix using Qt and C++20.
+* [![Open-Source Software][oss icon]](https://github.com/SpacingBat3/WebCord) ⭐ 2,446 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-23 [WebCord](https://github.com/SpacingBat3/WebCord) ⭐ 2,446 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-23 - A Discord and Fosscord web-based client made with the electron.
 * [![Open-Source Software][oss icon]](https://github.com/chatty/chatty) ⭐ 896 | 🐛 196 | 🌐 Java | 📅 2026-09-24 [Chatty](https://chatty.github.io/) - Chatty is a Twitch chat client for everyone who wants to try something new and different from the webchat, but doesn't want the complexity of an IRC client or miss out on the Twitch specific features.
 * [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/fractal) [Fractal](https://wiki.gnome.org/Apps/Fractal) - Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimized for collaboration in large groups, such as free software projects.
 * [![Open-Source Software][oss icon]](https://invent.kde.org/network/neochat) [NeoChat](https://apps.kde.org/neochat/) - NeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol.
@@ -293,7 +293,7 @@
 #### All-in-One Client
 
 * [![Open-Source-Software][oss icon]](https://github.com/meetfranz/franz) ⭐ 4,722 | 🐛 390 | 🌐 JavaScript | 📅 2026-06-12 [Franz](https://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
-* [![Open-Source-Software][oss icon]](https://github.com/ferdium/ferdium-app) ⭐ 4,628 | 🐛 755 | 🌐 TypeScript | 📅 2026-09-13 [Ferdium](https://ferdium.org/) - Fork of Ferdi/Franz. Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.
+* [![Open-Source-Software][oss icon]](https://github.com/ferdium/ferdium-app) ⭐ 4,629 | 🐛 755 | 🌐 TypeScript | 📅 2026-09-13 [Ferdium](https://ferdium.org/) - Fork of Ferdi/Franz. Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.
 * [![Open-Source Software][oss icon]](https://github.com/sonnyp/Tangram) ⭐ 1,002 | 🐛 66 | 🌐 JavaScript | 📅 2026-08-10 [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Tangram is a new kind of browser. It is designed to organize and run your Web applications.
 * [![Open-Source Software][oss icon]](https://developer.pidgin.im/) [Pidgin](https://pidgin.im/) - A universal chat client.
 * [Rambox](https://rambox.app/) - Free and Cross Platform messaging and emailing app that combines common web applications into one.
@@ -301,15 +301,15 @@
 #### Chat Client Utilities
 
 * [![Open-Source Software][oss icon]](https://github.com/Vendicated/Vencord) ⭐ 14,137 | 🐛 313 | 🌐 TypeScript | 📅 2026-09-21 [Vencord](https://vencord.dev/) - The cutest Discord client mod.
-* [![Open-Source Software][oss icon]](https://github.com/BetterDiscord/BetterDiscord) ⭐ 9,247 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-11 [BetterDiscord](https://betterdiscord.app/) - BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.
-* [![Open-Source Software][oss icon]](https://github.com/jagrosh/MusicBot) ⭐ 5,764 | 🐛 223 | 🌐 Java | 📅 2024-11-16 [JMusicBot](https://jmusicbot.com/) - A Discord music bot that's easy to set up and run yourself.
+* [![Open-Source Software][oss icon]](https://github.com/BetterDiscord/BetterDiscord) ⭐ 9,249 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-24 [BetterDiscord](https://betterdiscord.app/) - BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.
+* [![Open-Source Software][oss icon]](https://github.com/jagrosh/MusicBot) ⭐ 5,765 | 🐛 223 | 🌐 Java | 📅 2024-11-16 [JMusicBot](https://jmusicbot.com/) - A Discord music bot that's easy to set up and run yourself.
 * [![Open-Source Software][oss icon]](https://github.com/Cog-Creators/Red-DiscordBot) ⭐ 5,715 | 🐛 303 | 🌐 Python | 📅 2026-09-07 [Red Discord Bot](https://index.discord.red/) - Red Discord Bot is a self-hosted music/chat/trivia bot that can run on a Raspberry Pi and a variety of OS's. It's extensible through a system of "Cogs" that allow it to do more.
 * [![Open-Source Software][oss icon]](https://github.com/trigg/Discover) ⭐ 749 | 🐛 29 | 🌐 Python | 📅 2026-08-06 [Discover](https://trigg.github.io/Discover/) - Yet another Discord overlay for Linux written in Python using GTK3.
 
 #### IRC Client
 
-* [![Open-Source Software][oss icon]](https://github.com/weechat/weechat) ⭐ 3,393 | 🐛 439 | 🌐 C | 📅 2026-09-23 [Weechat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client.
-* [![Open-Source Software][oss icon]](https://github.com/irssi/irssi) ⭐ 3,141 | 🐛 234 | 🌐 C | 📅 2026-09-23 [Irssi](https://irssi.org/) - Irssi is a modular chat client that is most commonly known for its text mode user interface.
+* [![Open-Source Software][oss icon]](https://github.com/weechat/weechat) ⭐ 3,394 | 🐛 439 | 🌐 C | 📅 2026-09-23 [Weechat](https://weechat.org/) - WeeChat is a fast, light and extensible chat client.
+* [![Open-Source Software][oss icon]](https://github.com/irssi/irssi) ⭐ 3,141 | 🐛 235 | 🌐 C | 📅 2026-09-23 [Irssi](https://irssi.org/) - Irssi is a modular chat client that is most commonly known for its text mode user interface.
 * [![Open-Source Software][oss icon]](https://github.com/kvirc/KVIrc) ⭐ 304 | 🐛 215 | 🌐 C++ | 📅 2026-06-13 [KVIrc](https://www.kvirc.net/) - KVIrc is a free portable IRC client based on the excellent Qt GUI toolkit.
 * [![Open-Source Software][oss icon]](https://github.com/hexchat) [HexChat](https://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like system.
 * [![Open-Source Software][oss icon]](https://invent.kde.org/network/konversation) [Konversation](https://konversation.kde.org/) - User-friendly and fully-featured IRC client.
@@ -317,10 +317,10 @@
 
 #### Official Client
 
-* [![Open-Source Software][oss icon]](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,164 | 🐛 4,104 | 🌐 TypeScript | 📅 2026-09-24 [Rocket.Chat](https://rocket.chat/) - Rocket.Chat is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection.
-* [![Open-Source Software][oss icon]](https://github.com/telegramdesktop/tdesktop) ⭐ 33,002 | 🐛 1,013 | 🌐 C++ | 📅 2026-09-23 [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
-* [![Open-Source Software][oss icon]](https://github.com/zulip/zulip) ⭐ 25,945 | 🐛 2,026 | 🌐 Python | 📅 2026-09-24 [Zulip](https://zulip.com/) - Zulip is a powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
-* [![Open-Source Software][oss icon]](https://github.com/vector-im/element-web) ⭐ 13,503 | 🐛 3,777 | 🌐 TypeScript | 📅 2026-09-24 [Element](https://element.io/) - A glossy Matrix collaboration client for the web.
+* [![Open-Source Software][oss icon]](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,168 | 🐛 4,109 | 🌐 TypeScript | 📅 2026-09-24 [Rocket.Chat](https://rocket.chat/) - Rocket.Chat is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection.
+* [![Open-Source Software][oss icon]](https://github.com/telegramdesktop/tdesktop) ⭐ 33,011 | 🐛 1,007 | 🌐 C++ | 📅 2026-09-24 [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
+* [![Open-Source Software][oss icon]](https://github.com/zulip/zulip) ⭐ 25,946 | 🐛 2,024 | 🌐 Python | 📅 2026-09-24 [Zulip](https://zulip.com/) - Zulip is a powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
+* [![Open-Source Software][oss icon]](https://github.com/vector-im/element-web) ⭐ 13,504 | 🐛 3,701 | 🌐 TypeScript | 📅 2026-09-24 [Element](https://element.io/) - A glossy Matrix collaboration client for the web.
 * [![Open-Source Software][oss icon]](https://github.com/qTox/qTox) ⚠️ Archived [qTox](https://qtox.github.io/) - A simple distributed, secure messenger with audio and video chat capabilities.
 * [![Open-Source Software][oss icon]](https://github.com/dino/dino) ⭐ 2,492 | 🐛 686 | 🌐 Vala | 📅 2026-08-21 [Dino](https://dino.im) - Clean and modern Jabber/XMPP chat client.
 * [![Open-Source Software][oss icon]](https://github.com/linagora/Twake) ⭐ 194 | 🐛 3 | 📅 2024-06-11 [Twake](https://twake.app/) - Open-source alternative to Microsoft Teams.
@@ -341,12 +341,12 @@
 
 ### Data Backup and Recovery
 
-* [![Open-Source Software][oss icon]](https://github.com/ncw/rclone) ⭐ 59,932 | 🐛 1,273 | 🌐 Go | 📅 2026-09-24 [rclone](https://rclone.org/) - Rclone is a command line program to sync files and directories to and from various cloud storage solutions. It also allows encrypted backups.
-* [![Open-Source Software][oss icon]](https://github.com/restic/restic) ⭐ 36,218 | 🐛 592 | 🌐 Go | 📅 2026-09-20 [restic](https://restic.net/) - restic is a backup program that is fast, efficient and secure. It supports the three major operating systems (Linux, macOS, Windows) and a few smaller ones (FreeBSD, OpenBSD).
-* [![Open-Source Software][oss icon]](https://github.com/kopia/kopia/) ⭐ 14,192 | 🐛 890 | 🌐 Go | 📅 2026-09-20 [Kopia](https://kopia.io/) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication.
+* [![Open-Source Software][oss icon]](https://github.com/ncw/rclone) ⭐ 59,935 | 🐛 1,276 | 🌐 Go | 📅 2026-09-24 [rclone](https://rclone.org/) - Rclone is a command line program to sync files and directories to and from various cloud storage solutions. It also allows encrypted backups.
+* [![Open-Source Software][oss icon]](https://github.com/restic/restic) ⭐ 36,229 | 🐛 593 | 🌐 Go | 📅 2026-09-20 [restic](https://restic.net/) - restic is a backup program that is fast, efficient and secure. It supports the three major operating systems (Linux, macOS, Windows) and a few smaller ones (FreeBSD, OpenBSD).
+* [![Open-Source Software][oss icon]](https://github.com/kopia/kopia/) ⭐ 14,195 | 🐛 891 | 🌐 Go | 📅 2026-09-20 [Kopia](https://kopia.io/) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication.
 * [![Open-Source Software][oss icon]](https://github.com/bup/bup) ⭐ 7,355 | 🐛 17 | 🌐 Python | 📅 2026-09-04 [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
 * [![Open-Source Software][oss icon]](https://github.com/gilbertchen/duplicacy) ⭐ 5,684 | 🐛 336 | 🌐 Go | 📅 2026-08-06 [Duplicacy](https://duplicacy.com/) - Duplicacy is a new generation cross-platform cloud backup tool based on the idea of Lock-Free Deduplication. CLI version is free for personal use and is open-source, GUI and commercial use require licensing.
-* [![Open-Source Software][oss icon]](https://github.com/linuxmint/timeshift) ⭐ 4,287 | 🐛 232 | 🌐 Vala | 📅 2026-09-21 [Timeshift](https://github.com/linuxmint/timeshift) ⭐ 4,287 | 🐛 232 | 🌐 Vala | 📅 2026-09-21 - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
+* [![Open-Source Software][oss icon]](https://github.com/linuxmint/timeshift) ⭐ 4,288 | 🐛 232 | 🌐 Vala | 📅 2026-09-21 [Timeshift](https://github.com/linuxmint/timeshift) ⭐ 4,288 | 🐛 232 | 🌐 Vala | 📅 2026-09-21 - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 * [![Open-Source Software][oss icon]](https://github.com/rsnapshot/rsnapshot) ⭐ 3,683 | 🐛 58 | 🌐 Perl | 📅 2026-08-13 [rsnapshot](https://rsnapshot.org/) - rsnapshot is a command line utility based on rsync to make periodic snapshots of local/remote machines. The code makes extensive use of hard links whenever possible to greatly reduce the disk space required.
 * [![Open-Source Software][oss icon]](https://github.com/bit-team/backintime/) ⭐ 2,669 | 🐛 136 | 🌐 Python | 📅 2026-09-23 [Back In Time](https://github.com/bit-team/backintime/) ⭐ 2,669 | 🐛 136 | 🌐 Python | 📅 2026-09-23 - A simple backup tool for Linux, inspired by "flyback project".
 * [![Open-Source Software][oss icon]](https://github.com/cgsecurity/testdisk) ⭐ 2,603 | 🐛 92 | 🌐 C | 📅 2026-08-19 [Photorec](https://www.cgsecurity.org/wiki/PhotoRec) - PhotoRec is file data recovery software designed to recover lost files including video, documents and archives from hard disks, CD-ROMs, and lost pictures (thus the Photo Recovery name) from digital camera memory.
@@ -364,22 +364,22 @@
 
 #### Desktop Icon Packs
 
-* [![Open-Source Software][oss icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,104 | 🐛 589 | 🌐 Shell | 📅 2026-09-21 [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,104 | 🐛 589 | 🌐 Shell | 📅 2026-09-21 - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes, ...) and other modifications. The theme is available for GTK and KDE.
-* [![Open-Source Software][oss icon]](https://github.com/vinceliuice/WhiteSur-icon-theme) ⭐ 2,074 | 🐛 160 | 🌐 Shell | 📅 2026-09-10 [WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme) ⭐ 2,074 | 🐛 160 | 🌐 Shell | 📅 2026-09-10 - MacOS Big Sur style icon theme for linux desktops.
+* [![Open-Source Software][oss icon]](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,103 | 🐛 588 | 🌐 Shell | 📅 2026-09-21 [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,103 | 🐛 588 | 🌐 Shell | 📅 2026-09-21 - SVG icon theme for Linux systems, based on Paper with a few extras like (hardcode-tray support, kde-color-scheme support, libreoffice icon theme, filezilla theme, smplayer themes, ...) and other modifications. The theme is available for GTK and KDE.
+* [![Open-Source Software][oss icon]](https://github.com/vinceliuice/WhiteSur-icon-theme) ⭐ 2,073 | 🐛 160 | 🌐 Shell | 📅 2026-09-10 [WhiteSur Icon Theme](https://github.com/vinceliuice/WhiteSur-icon-theme) ⭐ 2,073 | 🐛 160 | 🌐 Shell | 📅 2026-09-10 - MacOS Big Sur style icon theme for linux desktops.
 * [![Open-Source Software][oss icon]](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,997 | 🐛 112 | 🌐 Shell | 📅 2021-11-25 [La Capitaine Icon Theme](https://github.com/keeferrourke/la-capitaine-icon-theme) ⭐ 1,997 | 🐛 112 | 🌐 Shell | 📅 2021-11-25 - A macOS and Material design inspired icon theme designed to fit into most desktop environments.
-* [![Open-Source Software][oss icon]](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,881 | 🐛 104 | 🌐 Shell | 📅 2026-08-10 [Tela Icon Theme](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,881 | 🐛 104 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
+* [![Open-Source Software][oss icon]](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,882 | 🐛 104 | 🌐 Shell | 📅 2026-08-10 [Tela Icon Theme](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,882 | 🐛 104 | 🌐 Shell | 📅 2026-08-10 - A flat colorful Design icon theme.
 * [![Open-Source Software][oss icon]](https://github.com/daniruiz/Flat-Remix) ⭐ 1,764 | 🐛 6 | 🌐 Makefile | 📅 2025-11-19 [Flat Remix](https://github.com/daniruiz/Flat-Remix) ⭐ 1,764 | 🐛 6 | 🌐 Makefile | 📅 2025-11-19 - Flat Remix is an icon theme inspired by material design. It is mostly flat using a colorful palette with some shadows, highlights, and gradients for some depth.
-* [![Open-Source Software][oss icon]](https://github.com/EliverLara/candy-icons) ⭐ 1,316 | 🐛 154 | 📅 2026-03-06 [Candy Icons](https://github.com/EliverLara/candy-icons) ⭐ 1,316 | 🐛 154 | 📅 2026-03-06 - An icon theme colored with sweet gradients.
+* [![Open-Source Software][oss icon]](https://github.com/EliverLara/candy-icons) ⭐ 1,317 | 🐛 154 | 📅 2026-03-06 [Candy Icons](https://github.com/EliverLara/candy-icons) ⭐ 1,317 | 🐛 154 | 📅 2026-03-06 - An icon theme colored with sweet gradients.
 * [![Open-Source Software][oss icon]](https://github.com/vinceliuice/Qogir-icon-theme) ⭐ 932 | 🐛 49 | 🌐 Shell | 📅 2025-11-04 [Qogir Icon Theme](https://github.com/vinceliuice/Qogir-icon-theme) ⭐ 932 | 🐛 49 | 🌐 Shell | 📅 2025-11-04 - A flat colorful design icon theme for linux desktops.
 * [![Open-Source Software][oss icon]](https://github.com/vinceliuice/Fluent-icon-theme) ⭐ 875 | 🐛 39 | 🌐 Shell | 📅 2026-08-30 [Fluent Icon Theme](https://github.com/vinceliuice/Fluent-icon-theme) ⭐ 875 | 🐛 39 | 🌐 Shell | 📅 2026-08-30 - Fluent icon theme for linux desktops.
-* [![Open-Source Software][oss icon]](https://github.com/numixproject/numix-icon-theme) ⭐ 800 | 🐛 85 | 📅 2026-01-11 [Numix Icon Theme](https://numixproject.github.io/) - A flat icon theme that comes in two varieties, Numix Main, and Numix circle.
+* [![Open-Source Software][oss icon]](https://github.com/numixproject/numix-icon-theme) ⭐ 800 | 🐛 86 | 📅 2026-01-11 [Numix Icon Theme](https://numixproject.github.io/) - A flat icon theme that comes in two varieties, Numix Main, and Numix circle.
 * [![Open-Source Software][oss icon]](https://github.com/yeyushengfan258/Reversal-icon-theme) ⭐ 720 | 🐛 84 | 🌐 Shell | 📅 2026-03-17 [Reversal Icon Theme](https://github.com/yeyushengfan258/Reversal-icon-theme) ⭐ 720 | 🐛 84 | 🌐 Shell | 📅 2026-03-17 - A colorful design icon theme for linux desktops.
 * [![Open-Source Software][oss icon]](https://github.com/snwh/moka-icon-theme) ⚠️ Archived [Moka Icon Theme](https://snwh.org/moka) - Moka was created with simplicity in mind. With the use simple geometry & bright colours.
 * [![Open-Source Software][oss icon]](https://github.com/zayronxio/Zafiro-icons) ⭐ 464 | 🐛 21 | 🌐 Shell | 📅 2024-11-05 [Zafiro Icons](https://github.com/zayronxio/Zafiro-icons) ⭐ 464 | 🐛 21 | 🌐 Shell | 📅 2024-11-05 - Minimalist icons created with the flat-desing technique, utilizing washed out colors and always accompanied by white.
 
 #### Desktop Themes
 
-* [![Open-Source Software][oss icon]](https://github.com/vinceliuice/WhiteSur-gtk-theme) ⭐ 9,292 | 🐛 552 | 🌐 CSS | 📅 2026-09-11 [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) ⭐ 9,292 | 🐛 552 | 🌐 CSS | 📅 2026-09-11 - MacOS Big Sur like theme for GNOME desktops.
+* [![Open-Source Software][oss icon]](https://github.com/vinceliuice/WhiteSur-gtk-theme) ⭐ 9,291 | 🐛 552 | 🌐 CSS | 📅 2026-09-11 [WhiteSur GTK Theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) ⭐ 9,291 | 🐛 552 | 🌐 CSS | 📅 2026-09-11 - MacOS Big Sur like theme for GNOME desktops.
 * [![Open-Source Software][oss icon]](https://github.com/vinceliuice/Orchis-theme) ⭐ 4,102 | 🐛 248 | 🌐 SCSS | 📅 2026-09-14 [Orchis theme](https://github.com/vinceliuice/Orchis-theme) ⭐ 4,102 | 🐛 248 | 🌐 SCSS | 📅 2026-09-14 - Orchis is a Material Design theme for GNOME/GTK based desktop environments.
 * [![Open-Source Software][oss icon]](https://github.com/EliverLara/Nordic) ⭐ 2,734 | 🐛 79 | 🌐 CSS | 📅 2026-07-23 [Nordic](https://github.com/EliverLara/Nordic) ⭐ 2,734 | 🐛 79 | 🌐 CSS | 📅 2026-07-23 - Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 * [![Open-Source Software][oss icon]](https://github.com/EliverLara/Sweet) ⭐ 1,705 | 🐛 80 | 🌐 CSS | 📅 2026-08-13 [Sweet](https://github.com/EliverLara/Sweet) ⭐ 1,705 | 🐛 80 | 🌐 CSS | 📅 2026-08-13 - Light and dark colorful Gtk3.20+ theme.
@@ -398,15 +398,15 @@
 
 #### Desktop Widgets and Theme Utilities
 
-* [![Open-Source Software][oss icon]](https://github.com/jaagr/polybar) ⭐ 15,345 | 🐛 236 | 🌐 C++ | 📅 2025-09-24 [Polybar](https://polybar.github.io/) - Fast and easy-to-use status bar.
+* [![Open-Source Software][oss icon]](https://github.com/jaagr/polybar) ⭐ 15,346 | 🐛 236 | 🌐 C++ | 📅 2025-09-24 [Polybar](https://polybar.github.io/) - Fast and easy-to-use status bar.
 * [![Open-Source Software][oss icon]](https://github.com/brndnmtthws/conky) ⭐ 8,524 | 🐛 97 | 🌐 C++ | 📅 2026-08-07 [Conky](https://conky.cc/) - Conky is a free, light-weight system monitor for X, that displays any kind of information on your desktop.
-* [![Open-Source Software][oss icon]](https://github.com/kando-menu/kando) ⭐ 6,372 | 🐛 70 | 🌐 TypeScript | 📅 2026-09-23 [Kando](https://kando.menu/) - A cross-platform pie menu for your desktop, offering an unconventional, fast, and highly efficient way of interacting with your computer using mouse, stylus, touch, or controller input.
+* [![Open-Source Software][oss icon]](https://github.com/kando-menu/kando) ⭐ 6,373 | 🐛 70 | 🌐 TypeScript | 📅 2026-09-23 [Kando](https://kando.menu/) - A cross-platform pie menu for your desktop, offering an unconventional, fast, and highly efficient way of interacting with your computer using mouse, stylus, touch, or controller input.
 * [![Open-Source Software][oss icon]](https://github.com/themix-project/themix-gui) ⭐ 2,317 | 🐛 24 | 🌐 Python | 📅 2026-09-08 [Themix GUI designer](https://github.com/themix-project/themix-gui) ⭐ 2,317 | 🐛 24 | 🌐 Python | 📅 2026-09-08 - A Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes.
 * [![Open-Source Software][oss icon]](https://github.com/deviantfero/wpgtk) ⭐ 2,193 | 🐛 22 | 🌐 Python | 📅 2026-08-25 [Wpgtk](https://deviantfero.github.io/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it's core for colorscheme generation.
 * [![Open-Source Software][oss icon]](https://github.com/LemonBoy/bar) ⭐ 1,688 | 🐛 21 | 🌐 C | 📅 2024-09-02 [Lemonbar](https://github.com/LemonBoy/bar) ⭐ 1,688 | 🐛 21 | 🌐 C | 📅 2024-09-02 - Super fast, lightweight, and mnml status bar for Linux.
 * [![Open-Source Software][oss icon]](https://github.com/mjakeman/extension-manager) ⭐ 1,370 | 🐛 29 | 🌐 C | 📅 2026-09-23 [Extension Manager](https://github.com/mjakeman/extension-manager) ⭐ 1,370 | 🐛 29 | 🌐 C | 📅 2026-09-23 - A utility for browsing and installing GNOME Shell Extensions.
 * [![Open-Source Software][oss icon]](https://github.com/bilelmoussaoui/Hardcode-Tray) ⭐ 889 | 🐛 65 | 🌐 Python | 📅 2024-07-10 [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) ⭐ 889 | 🐛 65 | 🌐 Python | 📅 2024-07-10 - This script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them.
-* [![Open-Source Software][oss icon]](https://github.com/realmazharhussain/gdm-settings) ⭐ 871 | 🐛 34 | 🌐 Python | 📅 2026-09-23 [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) - A settings app for GNOME's Login Manager, GDM.
+* [![Open-Source Software][oss icon]](https://github.com/realmazharhussain/gdm-settings) ⭐ 869 | 🐛 34 | 🌐 Python | 📅 2026-09-23 [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) - A settings app for GNOME's Login Manager, GDM.
 * [GNOME Extensions](https://extensions.gnome.org/) - Extensions for the GNOME Desktop Environment.
 * [GNOME Look](https://www.gnome-look.org/) - A website that hosts a Large amounts of community created icons, shell themes, fonts, and many more assets that can be used to customize your GNOME desktop environment.
 * [![Open-Source Software][oss icon]](https://www.opencode.net/dfn2/pling-store-development) [Pling Store](https://www.pling.com/) - Desktop app of openDesktop.org, which is one of the largest communities where developers and artists share applications, themes and other content.
@@ -415,7 +415,7 @@
 
 #### Android
 
-* [![Open-Source Software][oss icon]](https://github.com/waydroid/waydroid) ⭐ 12,257 | 🐛 957 | 🌐 Python | 📅 2026-09-06 [Waydroid](https://waydro.id/) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+* [![Open-Source Software][oss icon]](https://github.com/waydroid/waydroid) ⭐ 12,258 | 🐛 958 | 🌐 Python | 📅 2026-09-06 [Waydroid](https://waydro.id/) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 * [![Open-Source Software][oss icon]](https://android.googlesource.com/platform/tools/base/+/studio-master-dev/source.md) [Android Studio](https://developer.android.com/studio/) - The Official IDE for Android: Android Studio provides the fastest tools for building apps on every type of Android device.
 
 #### C++
@@ -427,18 +427,18 @@
 
 #### Database
 
-* [![Open-Source Software][oss icon]](https://github.com/dbeaver/dbeaver) ⭐ 51,862 | 🐛 3,353 | 🌐 Java | 📅 2026-09-24 [DBeaver](https://dbeaver.io/) - A universal database client supporting multiple platforms and databases.
+* [![Open-Source Software][oss icon]](https://github.com/dbeaver/dbeaver) ⭐ 51,864 | 🐛 3,340 | 🌐 Java | 📅 2026-09-24 [DBeaver](https://dbeaver.io/) - A universal database client supporting multiple platforms and databases.
 * [![Open-Source Software][oss icon]](https://github.com/mongodb/mongo) ⭐ 28,576 | 🐛 36 | 🌐 C++ | 📅 2026-09-24 [MongoDB](https://www.mongodb.com/) - MongoDB is a free and open-source cross-platform document-oriented database program, uses JSON-like documents with schemas.
-* [![Open-Source Software][oss icon]](https://github.com/sqlitebrowser/sqlitebrowser) ⭐ 24,623 | 🐛 839 | 🌐 C++ | 📅 2026-09-23 [Sqlite Browser](https://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files.
-* [![Open-Source Software][oss icon]](https://github.com/postgres/postgres) ⭐ 22,183 | 🐛 0 | 🌐 C | 📅 2026-09-24 [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system with more than 15 year development. PostgreSQL is not controlled by any corporation or other private entity and the source code is available free of charge.
-* [![Open-Source Software][oss icon]](https://github.com/dbcli/pgcli) ⭐ 13,399 | 🐛 49 | 🌐 Python | 📅 2026-09-20 [pgcli](https://www.pgcli.com/) - Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting.
-* [![Open-Source Software][oss icon]](https://github.com/mysql/mysql-server) ⭐ 12,437 | 🐛 72 | 🌐 C++ | 📅 2026-09-24 [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL is the world's leading open source database thanks to its proven performance, reliability and ease-of-use. It is used by high profile web properties including Facebook, Twitter, YouTube, Yahoo! and many more.
+* [![Open-Source Software][oss icon]](https://github.com/sqlitebrowser/sqlitebrowser) ⭐ 24,624 | 🐛 839 | 🌐 C++ | 📅 2026-09-23 [Sqlite Browser](https://sqlitebrowser.org/) - Visually create, manage, and view sqlite database files.
+* [![Open-Source Software][oss icon]](https://github.com/postgres/postgres) ⭐ 22,185 | 🐛 0 | 🌐 C | 📅 2026-09-24 [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL is a powerful, open source object-relational database system with more than 15 year development. PostgreSQL is not controlled by any corporation or other private entity and the source code is available free of charge.
+* [![Open-Source Software][oss icon]](https://github.com/dbcli/pgcli) ⭐ 13,400 | 🐛 49 | 🌐 Python | 📅 2026-09-20 [pgcli](https://www.pgcli.com/) - Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting.
+* [![Open-Source Software][oss icon]](https://github.com/mysql/mysql-server) ⭐ 12,438 | 🐛 72 | 🌐 C++ | 📅 2026-09-24 [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL is the world's leading open source database thanks to its proven performance, reliability and ease-of-use. It is used by high profile web properties including Facebook, Twitter, YouTube, Yahoo! and many more.
 * [![Open-Source Software][oss icon]](https://github.com/dbcli/mycli) ⭐ 11,978 | 🐛 0 | 🌐 Python | 📅 2026-09-23 [MyCLI](https://www.mycli.net/) - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
 * [![Open-Source Software][oss icon]](https://github.com/oceanbase/oceanbase) ⭐ 10,291 | 🐛 602 | 🌐 C++ | 📅 2026-09-24 [OceanBase](https://github.com/oceanbase/oceanbase) ⭐ 10,291 | 🐛 602 | 🌐 C++ | 📅 2026-09-24 - Distributed relational database. Based on the Paxos protocol and its distributed structure, it provides high availability and linear scalability.
-* [![Open-Source Software][oss icon]](https://github.com/apache/cassandra) ⭐ 10,102 | 🐛 543 | 🌐 Java | 📅 2026-09-24 [Cassandra](https://cassandra.apache.org/) - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
-* [![Open-Source Software][oss icon]](https://github.com/apache/couchdb) ⭐ 6,962 | 🐛 382 | 🌐 Erlang | 📅 2026-09-24 [CouchDB](https://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
+* [![Open-Source Software][oss icon]](https://github.com/apache/cassandra) ⭐ 10,102 | 🐛 544 | 🌐 Java | 📅 2026-09-24 [Cassandra](https://cassandra.apache.org/) - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
+* [![Open-Source Software][oss icon]](https://github.com/apache/couchdb) ⭐ 6,963 | 🐛 379 | 🌐 Erlang | 📅 2026-09-24 [CouchDB](https://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
 * [![Open-Source Software][oss icon]](https://github.com/OmniDB/OmniDB) ⭐ 3,284 | 🐛 330 | 🌐 JavaScript | 📅 2023-02-01 [OmniDB](https://github.com/OmniDB/OmniDB) ⭐ 3,284 | 🐛 330 | 🌐 JavaScript | 📅 2023-02-01 - Browser-based tool that visually create, manage, and view databases.
-* [![Open-Source Software][oss icon]](https://github.com/percona/percona-server) ⭐ 1,274 | 🐛 76 | 🌐 C++ | 📅 2026-09-24 [Percona MySQL](https://www.percona.com/software/mysql-database/percona-server) - Percona Server for MySQL is a free, fully compatible, enhanced, open source drop-in replacement for MySQL that provides superior performance, scalability and instrumentation.
+* [![Open-Source Software][oss icon]](https://github.com/percona/percona-server) ⭐ 1,275 | 🐛 76 | 🌐 C++ | 📅 2026-09-24 [Percona MySQL](https://www.percona.com/software/mysql-database/percona-server) - Percona Server for MySQL is a free, fully compatible, enhanced, open source drop-in replacement for MySQL that provides superior performance, scalability and instrumentation.
 * [![Open-Source Software][oss icon]](https://github.com/mysql/mysql-workbench) ⭐ 999 | 🐛 3 | 🌐 C++ | 📅 2026-04-23 [MySQL Workbench](https://www.mysql.com/products/workbench/) - MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more.
 * [![Open-Source Software][oss icon]](https://github.com/percona/percona-xtradb-cluster) ⭐ 389 | 🐛 14 | 🌐 C++ | 📅 2026-09-23 [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) - Percona XtraDB Cluster is an active/active high availability and high scalability open source solution for MySQL clustering. It integrates Percona Server and Percona XtraBackup with the Codership Galera library of MySQL high availability solutions in a single package that enables you to create a cost-effective MySQL high availability cluster.
 * [![Open-Source Software][oss icon]](https://github.com/WebDB-App/app) ⭐ 332 | 🐛 25 | 🌐 TypeScript | 📅 2025-06-10 [WebDB](https://webdb.app/) - Open Source and Efficient Database IDE. Easy server connection, Modern ERD, Intelligent data generator, IA assistant, NoSQL structure manager, Time machine and Powerful query editor.
@@ -453,14 +453,14 @@
 
 #### Game Engines
 
-* [![Open-Source Software][oss icon]](https://github.com/bevyengine/bevy) ⭐ 48,353 | 🐛 3,419 | 🌐 Rust | 📅 2026-09-24 [Bevy Engine](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust.
-* [![Open-Source Software][oss icon]](https://github.com/4ian/GDevelop) ⭐ 26,798 | 🐛 628 | 🌐 JavaScript | 📅 2026-09-23 [GDevelop](https://gdevelop.io/) - Open-source, cross-platform game engine designed to be used by everyone.
-* [![Open-Source Software][oss icon]](https://github.com/o3de/o3de/) ⭐ 9,704 | 🐛 3,492 | 🌐 C++ | 📅 2026-09-23 [Open 3D Engine](https://www.o3de.org/) - Open 3D Engine (O3DE) is a modular, open source, cross-platform 3D engine built to power anything from AAA games to cinema-quality 3D worlds to high-fidelity simulations.
-* [![Open-Source Software][oss icon]](https://github.com/stride3d/stride) ⭐ 7,828 | 🐛 677 | 🌐 C# | 📅 2026-09-24 [Stride](https://www.stride3d.net/) - Stride is an open-source C# game engine for realistic rendering and VR.
-* [![Open-Source Software][oss icon]](https://github.com/turanszkij/WickedEngine) ⭐ 7,244 | 🐛 117 | 🌐 C++ | 📅 2026-09-24 [Wicked Engine](https://wickedengine.net/) - 3D engine with modern graphics.
-* [![Open-Source Software][oss icon]](https://github.com/FlaxEngine/FlaxEngine) ⭐ 7,017 | 🐛 754 | 🌐 C++ | 📅 2026-09-23 [Flax Engine](https://flaxengine.com/) - Flax Engine – multi-platform 3D game engine.
-* [![Open-Source Software][oss icon]](https://github.com/defold/defold) ⭐ 6,311 | 🐛 959 | 🌐 C++ | 📅 2026-09-24 [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
-* [![Open-Source Software][oss icon]](https://github.com/HeapsIO/heaps) ⭐ 3,504 | 🐛 187 | 🌐 Haxe | 📅 2026-09-24 [Heaps](https://heaps.io/) - Heaps is a cross platform graphics engine designed for high performance games. It's designed to leverage modern GPUs that are commonly available on desktop, mobile and consoles.
+* [![Open-Source Software][oss icon]](https://github.com/bevyengine/bevy) ⭐ 48,362 | 🐛 3,409 | 🌐 Rust | 📅 2026-09-24 [Bevy Engine](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust.
+* [![Open-Source Software][oss icon]](https://github.com/4ian/GDevelop) ⭐ 26,816 | 🐛 630 | 🌐 JavaScript | 📅 2026-09-24 [GDevelop](https://gdevelop.io/) - Open-source, cross-platform game engine designed to be used by everyone.
+* [![Open-Source Software][oss icon]](https://github.com/o3de/o3de/) ⭐ 9,706 | 🐛 3,491 | 🌐 C++ | 📅 2026-09-24 [Open 3D Engine](https://www.o3de.org/) - Open 3D Engine (O3DE) is a modular, open source, cross-platform 3D engine built to power anything from AAA games to cinema-quality 3D worlds to high-fidelity simulations.
+* [![Open-Source Software][oss icon]](https://github.com/stride3d/stride) ⭐ 7,826 | 🐛 676 | 🌐 C# | 📅 2026-09-24 [Stride](https://www.stride3d.net/) - Stride is an open-source C# game engine for realistic rendering and VR.
+* [![Open-Source Software][oss icon]](https://github.com/turanszkij/WickedEngine) ⭐ 7,244 | 🐛 116 | 🌐 C++ | 📅 2026-09-24 [Wicked Engine](https://wickedengine.net/) - 3D engine with modern graphics.
+* [![Open-Source Software][oss icon]](https://github.com/FlaxEngine/FlaxEngine) ⭐ 7,019 | 🐛 754 | 🌐 C++ | 📅 2026-09-23 [Flax Engine](https://flaxengine.com/) - Flax Engine – multi-platform 3D game engine.
+* [![Open-Source Software][oss icon]](https://github.com/defold/defold) ⭐ 6,313 | 🐛 958 | 🌐 C++ | 📅 2026-09-24 [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+* [![Open-Source Software][oss icon]](https://github.com/HeapsIO/heaps) ⭐ 3,505 | 🐛 187 | 🌐 Haxe | 📅 2026-09-24 [Heaps](https://heaps.io/) - Heaps is a cross platform graphics engine designed for high performance games. It's designed to leverage modern GPUs that are commonly available on desktop, mobile and consoles.
 * [![Open-Source Software][oss icon]](https://github.com/haxeflixel/flixel) ⭐ 2,212 | 🐛 304 | 🌐 Haxe | 📅 2026-08-23 [Haxeflixel](https://haxeflixel.com/) - 2D game engine written in [Haxe](https://github.com/HaxeFoundation/haxe) ⭐ 6,939 | 🐛 1,162 | 🌐 Haxe | 📅 2026-09-23.
 * [![Open-Source Software][oss icon]](https://github.com/AchetaGames/Epic-Asset-Manager) ⭐ 524 | 🐛 91 | 🌐 Rust | 📅 2026-03-23 [Epic Asset Manager](https://github.com/AchetaGames/Epic-Asset-Manager) ⭐ 524 | 🐛 91 | 🌐 Rust | 📅 2026-03-23 - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 * [GameMaker](https://gamemaker.io/en) - The Ultimate 2D Game Development Environment.
@@ -470,12 +470,12 @@
 
 #### Git
 
-* [![Open-Source Software][oss icon]](https://github.com/jesseduffield/lazygit) ⭐ 82,639 | 🐛 1,053 | 🌐 Go | 📅 2026-09-24 [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 82,639 | 🐛 1,053 | 🌐 Go | 📅 2026-09-24 - A simple terminal UI for git commands, written in Go with the gocui library.
-* [![Open-Source Software][oss icon]](https://github.com/git/git) ⭐ 63,297 | 🐛 396 | 🌐 C | 📅 2026-09-23 [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-* [![Open-Source Software][oss icon]](https://github.com/gogs/gogs) ⭐ 47,828 | 🐛 1,013 | 🌐 Go | 📅 2026-09-12 [Gogs](https://gogs.io/) - A painless self-hosted Git service.
-* [![Open-Source Software][oss icon]](https://github.com/gitlabhq/gitlabhq) ⭐ 24,547 | 🐛 36 | 🌐 Ruby | 📅 2026-09-24 [GitLab](https://github.com/gitlabhq/gitlabhq) ⭐ 24,547 | 🐛 36 | 🌐 Ruby | 📅 2026-09-24 - GitLab is a web-based Git repository manager with wiki and issue tracking features.
+* [![Open-Source Software][oss icon]](https://github.com/jesseduffield/lazygit) ⭐ 82,646 | 🐛 1,053 | 🌐 Go | 📅 2026-09-24 [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 82,646 | 🐛 1,053 | 🌐 Go | 📅 2026-09-24 - A simple terminal UI for git commands, written in Go with the gocui library.
+* [![Open-Source Software][oss icon]](https://github.com/git/git) ⭐ 63,302 | 🐛 396 | 🌐 C | 📅 2026-09-23 [Git](https://git-scm.com/) - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+* [![Open-Source Software][oss icon]](https://github.com/gogs/gogs) ⭐ 47,830 | 🐛 1,013 | 🌐 Go | 📅 2026-09-12 [Gogs](https://gogs.io/) - A painless self-hosted Git service.
+* [![Open-Source Software][oss icon]](https://github.com/gitlabhq/gitlabhq) ⭐ 24,548 | 🐛 36 | 🌐 Ruby | 📅 2026-09-24 [GitLab](https://github.com/gitlabhq/gitlabhq) ⭐ 24,548 | 🐛 36 | 🌐 Ruby | 📅 2026-09-24 - GitLab is a web-based Git repository manager with wiki and issue tracking features.
 * [![Open-Source Software][oss icon]](https://github.com/sitaramc/gitolite) ⭐ 8,593 | 🐛 6 | 🌐 Perl | 📅 2026-08-08 [Gitolite](https://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features.
-* [![Open-Source Software][oss icon]](https://github.com/sourcegit-scm/sourcegit) ⭐ 6,020 | 🐛 188 | 🌐 C# | 📅 2026-09-24 [SourceGit](https://sourcegit-scm.github.io/) - SourceGit is a simple graphical git client available for Windows, macOS and Linux.
+* [![Open-Source Software][oss icon]](https://github.com/sourcegit-scm/sourcegit) ⭐ 6,024 | 🐛 188 | 🌐 C# | 📅 2026-09-24 [SourceGit](https://sourcegit-scm.github.io/) - SourceGit is a simple graphical git client available for Windows, macOS and Linux.
 * [![Open-Source Software][oss icon]](https://github.com/git-cola/git-cola) ⭐ 2,575 | 🐛 8 | 🌐 Python | 📅 2026-09-06 [GitCola](https://git-cola.github.io/) - Git Cola is a sleek and powerful graphical Git client. Written in Python and GPL-licensed.
 * [![Open-Source Software][oss icon]](https://github.com/Murmele/Gittyup) ⭐ 2,281 | 🐛 365 | 🌐 C++ | 📅 2026-09-24 [Gittyup](https://murmele.github.io/Gittyup/) - Gittyup is a graphical Git client designed to help you understand and manage your source code history.
 * [![Open-Source Software][oss icon]](https://github.com/Gisto/Gisto) ⭐ 1,168 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-10 [Gisto](https://www.gistoapp.com/) - Gisto is a code snippet manager that runs on GitHub Gists and adds additional features such as searching, tagging and sharing gists while including a rich code editor.
@@ -506,7 +506,7 @@
 #### Microcomputer and Embedded Devices
 
 * [![Open-Source Software][oss icon]](https://github.com/fritzing/fritzing-app) ⭐ 4,812 | 🐛 497 | 🌐 C++ | 📅 2026-08-12 [Fritzing](https://fritzing.org/) - Fritzing is an open-source hardware initiative that makes electronics accessible as a creative material for anyone.
-* [![Open-Source Software][oss icon]](https://github.com/arduino/arduino-ide) ⭐ 3,270 | 🐛 630 | 🌐 TypeScript | 📅 2026-09-23 [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board.
+* [![Open-Source Software][oss icon]](https://github.com/arduino/arduino-ide) ⭐ 3,269 | 🐛 629 | 🌐 TypeScript | 📅 2026-09-23 [Arduino IDE](https://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board.
 * [![Open-Source Software][oss icon]](https://github.com/Sloeber/arduino-eclipse-plugin) ⭐ 433 | 🐛 47 | 🌐 Java | 📅 2026-09-12 [Sloeber IDE](https://eclipse.baeyens.it/) - Sloeber IDE. The Arduino IDE for Eclipse.
 
 #### Multiple Languages Support
@@ -536,11 +536,11 @@
 
 #### Shell
 
-* [![Open-Source Software][oss icon]](https://github.com/robbyrussell/oh-my-zsh) ⭐ 189,899 | 🐛 299 | 🌐 Shell | 📅 2026-09-23 [Oh-my-zsh](https://ohmyz.sh/) - A delightful community-driven framework for managing your zsh configuration.
-* [![Open-Source Software][oss icon]](https://github.com/nushell/nushell) ⭐ 40,562 | 🐛 1,434 | 🌐 Rust | 📅 2026-09-24 [nushell](https://www.nushell.sh/) - A new type of shell.
+* [![Open-Source Software][oss icon]](https://github.com/robbyrussell/oh-my-zsh) ⭐ 189,910 | 🐛 299 | 🌐 Shell | 📅 2026-09-23 [Oh-my-zsh](https://ohmyz.sh/) - A delightful community-driven framework for managing your zsh configuration.
+* [![Open-Source Software][oss icon]](https://github.com/nushell/nushell) ⭐ 40,566 | 🐛 1,435 | 🌐 Rust | 📅 2026-09-24 [nushell](https://www.nushell.sh/) - A new type of shell.
 * [![Open-Source Software][oss icon]](https://github.com/koalaman/shellcheck) ⭐ 40,083 | 🐛 1,135 | 🌐 Haskell | 📅 2026-09-21 [Shellcheck](https://www.shellcheck.net/) - ShellCheck, a static analysis tool for shell scripts.
-* [![Open-Source Software][oss icon]](https://github.com/fish-shell/fish-shell) ⭐ 34,229 | 🐛 559 | 🌐 Rust | 📅 2026-09-23 [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell.
-* [![Open-Source Software][oss icon]](https://github.com/ipython/ipython) ⭐ 16,785 | 🐛 1,294 | 🌐 Python | 📅 2026-09-14 [Ipython](https://ipython.org/) - Powerful Python shell.
+* [![Open-Source Software][oss icon]](https://github.com/fish-shell/fish-shell) ⭐ 34,233 | 🐛 556 | 🌐 Rust | 📅 2026-09-24 [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell.
+* [![Open-Source Software][oss icon]](https://github.com/ipython/ipython) ⭐ 16,786 | 🐛 1,294 | 🌐 Python | 📅 2026-09-14 [Ipython](https://ipython.org/) - Powerful Python shell.
 * [![Open-Source Software][oss icon]](https://github.com/oh-my-fish/oh-my-fish) ⭐ 11,394 | 🐛 4 | 🌐 Shell | 📅 2026-09-09 [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) ⭐ 11,394 | 🐛 4 | 🌐 Shell | 📅 2026-09-09 - Provides various packages and themes to extend the functionality of your fish shell.
 * [![Open-Source Software][oss icon]](https://github.com/jorgebucaran/fisher) ⭐ 9,425 | 🐛 15 | 🌐 Shell | 📅 2026-01-31 [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 9,425 | 🐛 15 | 🌐 Shell | 📅 2026-01-31 - A plugin manager for fish shell.
 * [![Open-Source Software][oss icon]](https://github.com/zimfw/zimfw) ⭐ 4,696 | 🐛 24 | 🌐 Shell | 📅 2026-08-17 [Zim](https://zimfw.sh/) - Modular, customizable, and blazing fast Zsh framework.
@@ -549,22 +549,22 @@
 
 #### Supporting Tools
 
-* [![Open-Source Software][oss icon]](https://github.com/jesseduffield/lazydocker) ⭐ 52,942 | 🐛 301 | 🌐 Go | 📅 2026-04-19 [lazydocker](https://github.com/jesseduffield/lazydocker) ⭐ 52,942 | 🐛 301 | 🌐 Go | 📅 2026-04-19 - A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
-* [![Open-Source Software][oss icon]](https://github.com/usebruno/bruno) ⭐ 47,160 | 🐛 1,835 | 🌐 JavaScript | 📅 2026-09-24 [Bruno](https://www.usebruno.com/) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia).
-* [![Open-Source Software][oss icon]](https://github.com/Kong/insomnia) ⭐ 40,033 | 🐛 896 | 🌐 TypeScript | 📅 2026-09-24 [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client.
-* [![Open-Source Software][oss icon]](https://github.com/qarmin/czkawka) ⭐ 33,704 | 🐛 328 | 🌐 Fluent | 📅 2026-09-16 [Czkawka](https://github.com/qarmin/czkawka) ⭐ 33,704 | 🐛 328 | 🌐 Fluent | 📅 2026-09-16 - Multi functional app to find duplicates, empty folders, similar images etc.
-* [![Open-Source Software][oss icon]](https://github.com/containers/podman) ⭐ 32,920 | 🐛 1,017 | 🌐 Go | 📅 2026-09-24 [Podman](https://podman.io/) - Podman: A tool for managing OCI containers and pods.
+* [![Open-Source Software][oss icon]](https://github.com/jesseduffield/lazydocker) ⭐ 52,945 | 🐛 301 | 🌐 Go | 📅 2026-04-19 [lazydocker](https://github.com/jesseduffield/lazydocker) ⭐ 52,945 | 🐛 301 | 🌐 Go | 📅 2026-04-19 - A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
+* [![Open-Source Software][oss icon]](https://github.com/usebruno/bruno) ⭐ 47,172 | 🐛 1,840 | 🌐 JavaScript | 📅 2026-09-24 [Bruno](https://www.usebruno.com/) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia).
+* [![Open-Source Software][oss icon]](https://github.com/Kong/insomnia) ⭐ 40,030 | 🐛 895 | 🌐 TypeScript | 📅 2026-09-24 [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client.
+* [![Open-Source Software][oss icon]](https://github.com/qarmin/czkawka) ⭐ 33,711 | 🐛 328 | 🌐 Fluent | 📅 2026-09-16 [Czkawka](https://github.com/qarmin/czkawka) ⭐ 33,711 | 🐛 328 | 🌐 Fluent | 📅 2026-09-16 - Multi functional app to find duplicates, empty folders, similar images etc.
+* [![Open-Source Software][oss icon]](https://github.com/containers/podman) ⭐ 32,922 | 🐛 1,017 | 🌐 Go | 📅 2026-09-24 [Podman](https://podman.io/) - Podman: A tool for managing OCI containers and pods.
 * [![Open-Source Software][oss icon]](https://github.com/CoatiSoftware/Sourcetrail) ⚠️ Archived [Sourcetrail](https://www.sourcetrail.com/) - Sourcetrail is a free and open-source cross-platform source explorer that helps you get productive on unfamiliar source code.
-* [![Open-Source Software][oss icon]](https://github.com/zealdocs/zeal) ⭐ 12,805 | 🐛 109 | 🌐 C++ | 📅 2026-09-09 [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers.
+* [![Open-Source Software][oss icon]](https://github.com/zealdocs/zeal) ⭐ 12,804 | 🐛 109 | 🌐 C++ | 📅 2026-09-09 [Zeal](https://zealdocs.org/) - Zeal is an offline documentation browser for software developers.
 * [![Open-Source Software][oss icon]](https://github.com/evolus/pencil) ⭐ 9,869 | 🐛 533 | 🌐 JavaScript | 📅 2026-06-02 [Pencil](https://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.
 * [![Open-Source Software][oss icon]](https://github.com/cytopia/devilbox) ⭐ 4,470 | 🐛 90 | 🌐 PHP | 📅 2024-04-19 [Devilbox](https://github.com/cytopia/devilbox) ⭐ 4,470 | 🐛 90 | 🌐 PHP | 📅 2024-04-19 - The devilbox is a modern and highly customisable dockerized PHP stack supporting full LAMP and MEAN and running on all major platforms. The main goal is to easily switch and combine any version required for local development.
-* [![Open-Source Software][oss icon]](https://github.com/flox/flox) ⭐ 4,140 | 🐛 442 | 🌐 Rust | 📅 2026-09-24 [Flox](https://flox.dev) - Flox is a virtual environment and package manager all-in-one.
+* [![Open-Source Software][oss icon]](https://github.com/flox/flox) ⭐ 4,141 | 🐛 442 | 🌐 Rust | 📅 2026-09-24 [Flox](https://flox.dev) - Flox is a virtual environment and package manager all-in-one.
 * [![Open-Source Software][oss icon]](https://github.com/uncrustify/uncrustify) ⭐ 3,068 | 🐛 397 | 🌐 C++ | 📅 2026-09-22 [Uncrustify](https://uncrustify.sourceforge.net/) - Source Code Beautifier for C/C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below.
 * [![Open-Source Software][oss icon]](https://github.com/gaphor/gaphor) ⭐ 2,273 | 🐛 206 | 🌐 Python | 📅 2026-09-23 [Gaphor](https://gaphor.org) - A simple and fast software and systems modeling tool.
-* [![Open-Source Software][oss icon]](https://github.com/kspalaiologos/bzip3) ⭐ 1,514 | 🐛 8 | 🌐 C | 📅 2026-09-09 [bzip3](https://github.com/kspalaiologos/bzip3) ⭐ 1,514 | 🐛 8 | 🌐 C | 📅 2026-09-09 - A versatile statistical compressor with better compression ratio than standard Linux tools (gzip, bzip2, etc...).
+* [![Open-Source Software][oss icon]](https://github.com/kspalaiologos/bzip3) ⭐ 1,515 | 🐛 8 | 🌐 C | 📅 2026-09-09 [bzip3](https://github.com/kspalaiologos/bzip3) ⭐ 1,515 | 🐛 8 | 🌐 C | 📅 2026-09-09 - A versatile statistical compressor with better compression ratio than standard Linux tools (gzip, bzip2, etc...).
 * [![Open-Source Software][oss icon]](https://github.com/sonnyp/Workbench) ⭐ 846 | 🐛 98 | 🌐 JavaScript | 📅 2026-09-04 [Workbench](https://apps.gnome.org/app/re.sonny.Workbench/) - Workbench goal is to let you experiment with GNOME technologies, no matter if tinkering for the first time or building and testing a custom GTK widget.
 * [![Open-Source Software][oss icon]](https://github.com/dialect-app/dialect/) ⭐ 675 | 🐛 40 | 🌐 Python | 📅 2026-05-12 [Dialect](https://apps.gnome.org/app/app.drey.Dialect/) - A translation app for GNOME.
-* [![Open-Source Software][oss icon]](https://github.com/Huluti/Curtail) ⭐ 497 | 🐛 26 | 🌐 Python | 📅 2026-09-06 [Curtail](https://apps.gnome.org/app/com.github.huluti.Curtail/) - Curtail is an useful image compressor, supporting PNG, JPEG and WEBP file types.
+* [![Open-Source Software][oss icon]](https://github.com/Huluti/Curtail) ⭐ 498 | 🐛 26 | 🌐 Python | 📅 2026-09-06 [Curtail](https://apps.gnome.org/app/com.github.huluti.Curtail/) - Curtail is an useful image compressor, supporting PNG, JPEG and WEBP file types.
 * [![Open-Source Software][oss icon]](https://github.com/rabbitvcs/rabbitvcs) ⭐ 399 | 🐛 157 | 🌐 Python | 📅 2026-08-02 [Rabbit VCS](http://rabbitvcs.org/) - RabbitVCS is a set of graphical tools written to provide simple and straightforward access to the version control systems you use.
 * [![Open-Source Software][oss icon]](https://github.com/stuartlangridge/ColourPicker) ⭐ 289 | 🐛 43 | 🌐 Python | 📅 2024-05-26 [Pick](https://kryogenix.org/code/pick/) - Simple color picker.
 * [![Open-Source Software][oss icon]](https://github.com/WindSoilder/hors) ⭐ 248 | 🐛 9 | 🌐 Rust | 📅 2024-04-05 [hors](https://github.com/WindSoilder/hors) ⭐ 248 | 🐛 9 | 🌐 Rust | 📅 2024-04-05 - Instant coding answers via the command line.
@@ -590,13 +590,13 @@
 
 ### E-Book Utilities
 
-* [![Open-Source Software][oss icon]](https://github.com/kovidgoyal/calibre) ⭐ 26,003 | 🐛 7 | 🌐 Python | 📅 2026-09-24 [Calibre](https://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion.
-* [![Open-Source Software][oss icon]](https://github.com/janeczku/calibre-web) ⭐ 18,236 | 🐛 411 | 🌐 Fluent | 📅 2026-09-20 [Calibre-web](https://github.com/janeczku/calibre-web) ⭐ 18,236 | 🐛 411 | 🌐 Fluent | 📅 2026-09-20 - Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.
-* [![Open-Source Software][oss icon]](https://github.com/johnfactotum/foliate) ⭐ 8,758 | 🐛 320 | 🌐 JavaScript | 📅 2026-04-08 [Foliate](https://johnfactotum.github.io/foliate/) - Foliate is a simple and modern GTK eBook viewer.
-* [![Open-Source Software][oss icon]](https://github.com/Sigil-Ebook/Sigil) ⭐ 6,965 | 🐛 3 | 🌐 C++ | 📅 2026-09-24 [Sigil](https://sigil-ebook.com/) - Sigil is a multi-platform EPUB ebook editor.
-* [![Open-Source Software][oss icon]](https://github.com/pdfarranger/pdfarranger) ⭐ 5,921 | 🐛 87 | 🌐 Python | 📅 2026-09-01 [PDF Arranger](https://github.com/pdfarranger/pdfarranger) ⭐ 5,921 | 🐛 87 | 🌐 Python | 📅 2026-09-01 - PDF Arranger is a small application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
-* [![Open-Source Software][oss icon]](https://github.com/torakiki/pdfsam) ⭐ 4,577 | 🐛 123 | 🌐 Java | 📅 2026-08-10 [PDFsam](https://www.pdfsam.org/) - A desktop application to split, extract pages, rotate, mix and merge PDF files.
-* [![Open-Source Software][oss icon]](https://github.com/pwmt/zathura) ⭐ 3,315 | 🐛 167 | 🌐 C | 📅 2026-09-22 [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer.
+* [![Open-Source Software][oss icon]](https://github.com/kovidgoyal/calibre) ⭐ 26,005 | 🐛 6 | 🌐 Python | 📅 2026-09-24 [Calibre](https://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion.
+* [![Open-Source Software][oss icon]](https://github.com/janeczku/calibre-web) ⭐ 18,239 | 🐛 411 | 🌐 Fluent | 📅 2026-09-20 [Calibre-web](https://github.com/janeczku/calibre-web) ⭐ 18,239 | 🐛 411 | 🌐 Fluent | 📅 2026-09-20 - Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.
+* [![Open-Source Software][oss icon]](https://github.com/johnfactotum/foliate) ⭐ 8,760 | 🐛 320 | 🌐 JavaScript | 📅 2026-04-08 [Foliate](https://johnfactotum.github.io/foliate/) - Foliate is a simple and modern GTK eBook viewer.
+* [![Open-Source Software][oss icon]](https://github.com/Sigil-Ebook/Sigil) ⭐ 6,967 | 🐛 3 | 🌐 C++ | 📅 2026-09-24 [Sigil](https://sigil-ebook.com/) - Sigil is a multi-platform EPUB ebook editor.
+* [![Open-Source Software][oss icon]](https://github.com/pdfarranger/pdfarranger) ⭐ 5,922 | 🐛 87 | 🌐 Python | 📅 2026-09-01 [PDF Arranger](https://github.com/pdfarranger/pdfarranger) ⭐ 5,922 | 🐛 87 | 🌐 Python | 📅 2026-09-01 - PDF Arranger is a small application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
+* [![Open-Source Software][oss icon]](https://github.com/torakiki/pdfsam) ⭐ 4,579 | 🐛 123 | 🌐 Java | 📅 2026-08-10 [PDFsam](https://www.pdfsam.org/) - A desktop application to split, extract pages, rotate, mix and merge PDF files.
+* [![Open-Source Software][oss icon]](https://github.com/pwmt/zathura) ⭐ 3,316 | 🐛 167 | 🌐 C | 📅 2026-09-22 [Zathura](https://pwmt.org/projects/zathura/) - Zathura is a highly customizable and functional document viewer.
 * [![Open-Source Software][oss icon]](https://github.com/KDE/okular) ⭐ 1,517 | 🐛 0 | 🌐 C++ | 📅 2026-09-24 [Okular](https://okular.kde.org/) - Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, BSD, etc.
 * [![Open-Source Software][oss icon]](https://github.com/babluboy/bookworm) ⭐ 1,386 | 🐛 145 | 🌐 Vala | 📅 2026-08-13 [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader.
 * [![Open-Source Software][oss icon]](https://github.com/oguzhaninan/Buka) ⭐ 1,115 | 🐛 38 | 🌐 JavaScript | 📅 2023-02-04 [Buka](https://github.com/oguzhaninan/Buka/) ⭐ 1,115 | 🐛 38 | 🌐 JavaScript | 📅 2023-02-04 - A program for EBook Management.
@@ -618,19 +618,19 @@
 
 ### Electronic
 
-* [![Open-Source Software][oss icon]](https://github.com/logisim-evolution/logisim-evolution) ⭐ 7,645 | 🐛 108 | 🌐 Java | 📅 2026-09-22 [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution) ⭐ 7,645 | 🐛 108 | 🌐 Java | 📅 2026-09-22 - Graphical tool for designing and simulating digital logic curcuits. Successor of LogiSim.
+* [![Open-Source Software][oss icon]](https://github.com/logisim-evolution/logisim-evolution) ⭐ 7,648 | 🐛 109 | 🌐 Java | 📅 2026-09-22 [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution) ⭐ 7,648 | 🐛 109 | 🌐 Java | 📅 2026-09-22 - Graphical tool for designing and simulating digital logic curcuits. Successor of LogiSim.
 * [![Open-Source Software][oss icon]](https://github.com/KiCad) [KiCAD](https://www.kicad.org/) - An EDA suite for schematic and circuit board design.
 
 ### Education
 
-* [![Open-Source Software][oss icon]](https://github.com/scipy/scipy) ⭐ 15,037 | 🐛 1,844 | 🌐 Python | 📅 2026-09-24 [Scipy](https://scipy.org/install.html) - SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
-* [![Open-Source Software][oss icon]](https://github.com/moodle/moodle) ⭐ 7,429 | 🐛 1 | 🌐 PHP | 📅 2026-09-16 [Moodle](https://download.moodle.org/) - Course management system for online learning.
-* [![Open-Source Software][oss icon]](https://github.com/sagemath/sage) ⭐ 2,563 | 🐛 5,691 | 🌐 Python | 📅 2026-09-21 [SageMath](https://www.sagemath.org/) - A mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.
+* [![Open-Source Software][oss icon]](https://github.com/scipy/scipy) ⭐ 15,037 | 🐛 1,848 | 🌐 Python | 📅 2026-09-24 [Scipy](https://scipy.org/install.html) - SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
+* [![Open-Source Software][oss icon]](https://github.com/moodle/moodle) ⭐ 7,430 | 🐛 1 | 🌐 PHP | 📅 2026-09-16 [Moodle](https://download.moodle.org/) - Course management system for online learning.
+* [![Open-Source Software][oss icon]](https://github.com/sagemath/sage) ⭐ 2,565 | 🐛 5,687 | 🌐 Python | 📅 2026-09-21 [SageMath](https://www.sagemath.org/) - A mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.
 * [![Open-Source Software][oss icon]](https://github.com/CelestiaProject/Celestia) ⭐ 2,367 | 🐛 146 | 🌐 C++ | 📅 2026-09-24 [Celestia](https://github.com/CelestiaProject/Celestia) ⭐ 2,367 | 🐛 146 | 🌐 C++ | 📅 2026-09-24 - The free space simulation that lets you explore our universe in three dimensions.
 * [![Open-Source Software][oss icon]](https://github.com/geogebra/geogebra) ⭐ 2,335 | 🐛 0 | 🌐 Java | 📅 2026-09-23 [Geogebra](https://www.geogebra.org/download) - The graphing calculator for functions, geometry, algebra, calculus, statistics and 3D mathematics.
-* [![Open-Source Software][oss icon]](https://github.com/veyon/veyon) ⭐ 1,971 | 🐛 228 | 🌐 C++ | 📅 2026-09-18 [Veyon](https://veyon.io/) - Veyon is a computer management software for classrooms, it allows a teacher to control student computers and guide students over a computer network.
+* [![Open-Source Software][oss icon]](https://github.com/veyon/veyon) ⭐ 1,972 | 🐛 230 | 🌐 C++ | 📅 2026-09-18 [Veyon](https://veyon.io/) - Veyon is a computer management software for classrooms, it allows a teacher to control student computers and guide students over a computer network.
 * [![Open-Source Software][oss icon]](https://github.com/LLK/scratch-flash) ⚠️ Archived [Scratch](https://scratch.mit.edu/) - With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.
-* [![Open-Source Software][oss icon]](https://github.com/gap-system/gap) ⭐ 1,009 | 🐛 512 | 🌐 GAP | 📅 2026-09-24 [GAP](https://www.gap-system.org/) - A computer algebra system for computational discrete algebra with particular emphasis on computational group theory.
+* [![Open-Source Software][oss icon]](https://github.com/gap-system/gap) ⭐ 1,009 | 🐛 513 | 🌐 GAP | 📅 2026-09-24 [GAP](https://www.gap-system.org/) - A computer algebra system for computational discrete algebra with particular emphasis on computational group theory.
 * [![Open-Source Software][oss icon]](https://github.com/bibletime/bibletime) ⭐ 411 | 🐛 99 | 🌐 C++ | 📅 2026-06-29 [BibleTime](http://bibletime.info/) - BibleTime is a Bible study application based on the Sword library and Qt toolkit.
 * [![Open-Source Software][oss icon]](https://github.com/sugarlabs/sugar) ⭐ 312 | 🐛 107 | 🌐 Python | 📅 2026-09-18 [Sugar Desktop Environment](https://sugarlabs.org/) - Sugar is a learning platform that reinvents how computers are used for education. Collaboration, reflection, and discovery are integrated directly into the user interface.
 * [![Open-Source Software][oss icon]](https://github.com/ugeneunipro/ugene) ⭐ 284 | 🐛 35 | 🌐 C++ | 📅 2026-09-17 [UGENE](https://ugene.net/) - UGENE is free open-source cross-platform integrated GUI-based bioinformatics software.
@@ -667,7 +667,7 @@
 
 * [Mailspring](https://getmailspring.com/) - A beautiful, fast and maintained fork of Nylas Mail ([dead](https://github.com/nylas/nylas-mail) ⚠️ Archived) by one of the original authors.
 * [![Open-Source Software][oss icon]](https://github.com/vladimiry/ElectronMail) ⭐ 1,679 | 🐛 82 | 🌐 TypeScript | 📅 2026-09-21 [ElectronMail](https://github.com/vladimiry/ElectronMail) ⭐ 1,679 | 🐛 82 | 🌐 TypeScript | 📅 2026-09-21 - ElectronMail is an Electron-based unofficial desktop client for ProtonMail and Tutanota end-to-end encrypted email providers.
-* [![Open-Source Software][oss icon]](https://github.com/Betterbird/thunderbird-patches) ⭐ 983 | 🐛 30 | 🌐 Shell | 📅 2026-09-23 [Betterbird](https://www.betterbird.eu/) - Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will.
+* [![Open-Source Software][oss icon]](https://github.com/Betterbird/thunderbird-patches) ⭐ 983 | 🐛 30 | 🌐 Shell | 📅 2026-09-24 [Betterbird](https://www.betterbird.eu/) - Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will.
 * [![Open-Source Software][oss icon]](https://github.com/danchoi/vmail) ⭐ 787 | 🐛 85 | 🌐 Ruby | 📅 2020-11-13 [Vmail](https://danielchoi.com/software/vmail.html) - Vim-like Gmail client.
 * [![Open-Source Software][oss icon]](https://github.com/pulb/mailnag) ⭐ 260 | 🐛 89 | 🌐 Python | 📅 2024-07-18 [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail.
 * [![Open-Source Software][oss icon]](https://github.com/KDE/trojita) ⭐ 41 | 🐛 0 | 🌐 C++ | 📅 2026-09-24 [Trojita](https://apps.kde.org/trojita/) - A super fast desktop email client for Linux.
@@ -682,13 +682,13 @@
 
 ### File Manager
 
-* [![Open-Source Software][oss icon]](https://github.com/jarun/nnn) ⭐ 22,003 | 🐛 1 | 🌐 C | 📅 2026-09-21 [nnn](https://github.com/jarun/nnn) ⭐ 22,003 | 🐛 1 | 🌐 C | 📅 2026-09-21 - A very lightweight and fast terminal file browser with excellent desktop integration.
-* [![Open-Source Software][oss icon]](https://github.com/ranger/ranger) ⭐ 17,413 | 🐛 897 | 🌐 Python | 📅 2026-09-09 [Ranger](https://ranger.github.io/) - Ranger is a console file manager with VI key bindings.
+* [![Open-Source Software][oss icon]](https://github.com/jarun/nnn) ⭐ 22,006 | 🐛 1 | 🌐 C | 📅 2026-09-21 [nnn](https://github.com/jarun/nnn) ⭐ 22,006 | 🐛 1 | 🌐 C | 📅 2026-09-21 - A very lightweight and fast terminal file browser with excellent desktop integration.
+* [![Open-Source Software][oss icon]](https://github.com/ranger/ranger) ⭐ 17,414 | 🐛 897 | 🌐 Python | 📅 2026-09-09 [Ranger](https://ranger.github.io/) - Ranger is a console file manager with VI key bindings.
 * [![Open-Source Software][oss icon]](https://github.com/gokcehan/lf) ⭐ 9,521 | 🐛 85 | 🌐 Go | 📅 2026-09-15 [lf](https://github.com/gokcehan/lf) ⭐ 9,521 | 🐛 85 | 🌐 Go | 📅 2026-09-15 - lf as in "list files" is a modern and minimal terminal file manager with VI key bindings inspired by ranger.
 * [![Open-Source Software][oss icon]](https://github.com/vifm/vifm) ⭐ 3,273 | 🐛 146 | 🌐 C | 📅 2026-09-07 [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with VI like keybindings, which also borrows some useful ideas from mutt.
-* [![Open-Source Software][oss icon]](https://github.com/shundhammer/qdirstat) ⭐ 2,595 | 🐛 0 | 🌐 C++ | 📅 2026-09-20 [QDirStat](https://github.com/shundhammer/qdirstat) ⭐ 2,595 | 🐛 0 | 🌐 C++ | 📅 2026-09-20 - Qt-based directory statistics - KDirStat without any KDE, from the original KDirStat author.
+* [![Open-Source Software][oss icon]](https://github.com/shundhammer/qdirstat) ⭐ 2,595 | 🐛 0 | 🌐 C++ | 📅 2026-09-24 [QDirStat](https://github.com/shundhammer/qdirstat) ⭐ 2,595 | 🐛 0 | 🌐 C++ | 📅 2026-09-24 - Qt-based directory statistics - KDirStat without any KDE, from the original KDirStat author.
 * [![Open-Source Software][oss icon]](https://github.com/leo-arch/clifm) ⭐ 1,725 | 🐛 26 | 🌐 C | 📅 2026-09-19 [CliFM](https://github.com/leo-arch/clifm) ⭐ 1,725 | 🐛 26 | 🌐 C | 📅 2026-09-19 - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
-* [![Open-Source Software][oss icon]](https://github.com/linuxmint/nemo) ⭐ 1,562 | 🐛 328 | 🌐 C | 📅 2026-09-22 [Nemo](https://github.com/linuxmint/nemo) ⭐ 1,562 | 🐛 328 | 🌐 C | 📅 2026-09-22 - Nemo is the file manager for the Cinnamon desktop environment.
+* [![Open-Source Software][oss icon]](https://github.com/linuxmint/nemo) ⭐ 1,561 | 🐛 326 | 🌐 C | 📅 2026-09-24 [Nemo](https://github.com/linuxmint/nemo) ⭐ 1,561 | 🐛 326 | 🌐 C | 📅 2026-09-24 - Nemo is the file manager for the Cinnamon desktop environment.
 * [![Open-Source Software][oss icon]](https://github.com/MidnightCommander/mc) ⭐ 987 | 🐛 696 | 🌐 C | 📅 2026-09-24 [Midnight Commander](https://www.midnight-commander.org/) - A feature rich full-screen file manager that allows you to copy, move and delete files and whole directory trees.
 * [![Open-Source Software][oss icon]](https://github.com/IgnorantGuru/spacefm) ⭐ 526 | 🐛 236 | 🌐 C | 📅 2024-04-21 [SpaceFM](https://ignorantguru.github.io/spacefm/) - Multi-panel tabbed file and desktop manager with built-in VFS, udev- or HAL-based device manager, customisable menu system and bash-GTK integration.
 * [![Open-Source Software][oss icon]](https://github.com/GNOME/nautilus) ⭐ 420 | 🐛 0 | 🌐 C | 📅 2026-09-23 [Nautilus](https://wiki.gnome.org/Apps/Files) - Nautilus (Files) is a file manager designed to fit the GNOME desktop design and behaviour, giving the user a simple way to navigate and manage its files.
@@ -705,7 +705,7 @@
 #### City Building Simulation
 
 * [![Open-Source Software][oss icon]](https://github.com/OpenTTD/OpenTTD) ⭐ 8,296 | 🐛 396 | 🌐 C++ | 📅 2026-09-24 [OpenTTD](https://www.openttd.org/) - An open-source clone of Transport Tycoon Plus with major improvements.
-* [![Open-Source Software][oss icon]](https://github.com/unknown-horizons/unknown-horizons) ⭐ 1,545 | 🐛 224 | 🌐 Python | 📅 2026-04-14 [Unknown Horizons](https://unknown-horizons.org/) - A 2D realtime strategy simulation with an emphasis on economy and city building. Multiplayer currently broken.
+* [![Open-Source Software][oss icon]](https://github.com/unknown-horizons/unknown-horizons) ⭐ 1,546 | 🐛 224 | 🌐 Python | 📅 2026-04-14 [Unknown Horizons](https://unknown-horizons.org/) - A 2D realtime strategy simulation with an emphasis on economy and city building. Multiplayer currently broken.
 * [![Open-Source Software][oss icon]](https://github.com/aburch/simutrans) ⭐ 449 | 🐛 10 | 🌐 C++ | 📅 2026-08-01 [Simutrans](https://www.simutrans.com) - Simutrans is a freeware and open-source transportation simulator.
 * [Dwarf Fortress](http://www.bay12games.com/dwarves/) - A famously complex simulation of a High Fantasy Dwarf Fortress, fight goblins, and slay massive legendary beasts. Strike the earth!
 
@@ -721,16 +721,16 @@
 
 #### Engine Re-creations (require the actual game)
 
-* [![Open-Source Software][oss icon]](https://github.com/OpenRA/OpenRA) ⭐ 17,428 | 🐛 1,598 | 🌐 C# | 📅 2026-09-14 [OpenRA](https://www.openra.net/) - Classic strategy games, rebuilt for the modern era. Open source.
-* [![Open-Source Software][oss icon]](https://github.com/OpenRCT2/OpenRCT2) ⭐ 16,250 | 🐛 1,445 | 🌐 C++ | 📅 2026-09-23 [OpenRCT2](https://openrct2.io/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests.
-* [![Open-Source Software][oss icon]](https://github.com/OpenMW/openmw) ⭐ 6,582 | 🐛 0 | 🌐 C++ | 📅 2026-09-24 [OpenMW](https://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game.
+* [![Open-Source Software][oss icon]](https://github.com/OpenRA/OpenRA) ⭐ 17,433 | 🐛 1,598 | 🌐 C# | 📅 2026-09-14 [OpenRA](https://www.openra.net/) - Classic strategy games, rebuilt for the modern era. Open source.
+* [![Open-Source Software][oss icon]](https://github.com/OpenRCT2/OpenRCT2) ⭐ 16,251 | 🐛 1,434 | 🌐 C++ | 📅 2026-09-24 [OpenRCT2](https://openrct2.io/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests.
+* [![Open-Source Software][oss icon]](https://github.com/OpenMW/openmw) ⭐ 6,583 | 🐛 0 | 🌐 C++ | 📅 2026-09-24 [OpenMW](https://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game.
 * [![Open-Source Software][oss icon]](https://github.com/nxengine/nxengine-evo) ⭐ 549 | 🐛 47 | 🌐 C | 📅 2026-03-04 [NXEngine-evo](https://github.com/nxengine/nxengine-evo) ⭐ 549 | 🐛 47 | 🌐 C | 📅 2026-03-04 - A somewhat upgraded/refactored version of NXEngine by Caitlin Shaw.
 * [![Open-Source Software][oss icon]](https://nxengine.sourceforge.io/) [NXEngine](https://nxengine.sourceforge.io/) - A source port of Cave Story that runs natively on Linux, source needs to be built.
 
 #### FPS
 
 * [![Open-Source Software][oss icon]](https://github.com/coelckers/gzdoom) ⭐ 3,107 | 🐛 184 | 🌐 C++ | 📅 2026-08-10 [Zdoom](https://zdoom.org/index) - ZDoom is a source port for the modern era, supporting current hardware and operating systems and sporting a vast array of user options.
-* [![Open-Source Software][oss icon]](https://github.com/freedoom/freedoom) ⭐ 1,348 | 🐛 101 | 🌐 Python | 📅 2026-06-22 [Freedoom](https://freedoom.github.io/) - Free version of the original Doom games, with newly created free-licensed assets.
+* [![Open-Source Software][oss icon]](https://github.com/freedoom/freedoom) ⭐ 1,348 | 🐛 102 | 🌐 Python | 📅 2026-06-22 [Freedoom](https://freedoom.github.io/) - Free version of the original Doom games, with newly created free-licensed assets.
 * [![Open-Source Software][oss icon]](https://github.com/red-eclipse/base) ⭐ 534 | 🐛 239 | 🌐 C++ | 📅 2026-04-08 [Red Eclipse](https://redeclipse.net/) - Red Eclipse is a fun-filled new take on the first person arena shooter, which lends itself toward a balanced gameplay, with a general theme of agility in a variety of environments.
 * [![Open-Source Software][oss icon]](https://gitlab.com/xonotic) [ChaosEsqueAnthology Disc 1](https://sourceforge.net/projects/chaosesqueanthology/) [ChaosEsqueAnthology Disc 2](https://sourceforge.net/projects/chaosesqueanthologyvolume2/) - A modification of Xonotic which included extended weapons, maps, vehicles, buildable buildings, mounted weapons, spell casting, monsters, player characters, textures, and game mode (such as colorwar (think liquidwar)).
 * [![Open-Source Software][oss icon]](https://sourceforge.net/projects/oarena/) [OpenArena](https://sourceforge.net/projects/oarena/) - Free and open-source clone of Quake III Arena, based on the realeased source code, with newly created assets.
@@ -740,7 +740,7 @@
 
 #### Miscellaneous
 
-* [![Open-Source Software][oss icon]](https://github.com/SuperTux/supertux/) ⭐ 3,153 | 🐛 372 | 🌐 C++ | 📅 2026-09-24 [SuperTux](https://www.supertux.org/) - Clone of the popular sidescrolling Super Mario games.
+* [![Open-Source Software][oss icon]](https://github.com/SuperTux/supertux/) ⭐ 3,154 | 🐛 372 | 🌐 C++ | 📅 2026-09-24 [SuperTux](https://www.supertux.org/) - Clone of the popular sidescrolling Super Mario games.
 * [![Open-Source Software][oss icon]](https://github.com/Mudlet/Mudlet) ⭐ 913 | 🐛 884 | 🌐 C++ | 📅 2026-09-24 [Mudlet](https://www.mudlet.org/) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
 * [![Open-Source Software][oss icon]](https://github.com/alemart/opensurge) ⭐ 478 | 🐛 1 | 🌐 C | 📅 2026-07-29 [Open Surge](https://opensurge2d.org/) - A 2D platformer and game creation engine inspired by the 16-bit Sonic the Hedgehog games.
 * [![Open-Source Software][oss icon]](https://github.com/Neverball/neverball) ⭐ 442 | 🐛 77 | 🌐 C | 📅 2026-09-21 [Neverball](https://neverball.org/) - Addictive ball-rolling game with many levels, avatars and an ability to record replays.
@@ -750,7 +750,7 @@
 
 #### Puzzle
 
-* [![Open-Source Software][oss icon]](https://github.com/Cockatrice/Cockatrice) ⭐ 1,836 | 🐛 464 | 🌐 C++ | 📅 2026-09-23 [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network.
+* [![Open-Source Software][oss icon]](https://github.com/Cockatrice/Cockatrice) ⭐ 1,836 | 🐛 459 | 🌐 C++ | 📅 2026-09-24 [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network.
 * [![Open-Source Software][oss icon]](https://github.com/drwhut/tabletop-club) ⭐ 1,458 | 🐛 87 | 🌐 GDScript | 📅 2026-08-30 [Tabletop Club](https://drwhut.itch.io/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
 * [![Open-Source Software][oss icon]](https://github.com/Pingus/pingus) ⭐ 214 | 🐛 99 | 🌐 C++ | 📅 2026-08-13 [Pingus](https://pingus.seul.org/) - 2D puzzle game that clones the popular Lemmings. Your goal is to guide a group of penguins safely across the game map.
 * [![Open-Source Software][oss icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](https://www.nongnu.org/galois/) - Galois is a Falling Blocks type game that isn't limited to the standard tetrominoes that most games in it's genre are limited to.
@@ -758,7 +758,7 @@
 
 #### Racing
 
-* [![Open-Source Software][oss icon]](https://github.com/supertuxkart/stk-code) ⭐ 5,373 | 🐛 532 | 🌐 C++ | 📅 2026-09-23 [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play.
+* [![Open-Source Software][oss icon]](https://github.com/supertuxkart/stk-code) ⭐ 5,373 | 🐛 532 | 🌐 C++ | 📅 2026-09-24 [SuperTuxKart](https://supertuxkart.net) - SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play.
 * [![Open-Source Software][oss icon]](https://github.com/KartKrewDev/RingRacers/) ⭐ 341 | 🐛 1 | 🌐 C | 📅 2026-08-31 [Dr. Robotnik's Ring Racers](https://www.kartkrew.org/) - A technical kart racer, drawing inspiration from “antigrav” racers, fighting games, and traditional-style kart racing.
 * [![Open-Source Software][oss icon]](https://motogt.sourceforge.net/) [MotoGT](https://motogt.sourceforge.net/) - 2D top-viewed game where you drive a MotoGP bike.
 * [![Open-Source Software][oss icon]](https://xmoto.tuxfamily.org/index.php) [XMoto](https://xmoto.tuxfamily.org/) - 2D motocross physics-based game requiring a lot of skill to master, with a built-in replay-recording and sharing system.
@@ -766,7 +766,7 @@
 #### RPG
 
 * [![Open-Source Software][oss icon]](https://github.com/flareteam/flare-engine) ⭐ 1,300 | 🐛 89 | 🌐 C++ | 📅 2026-09-24 [FLARE](https://flarerpg.org/) - Singleplayer Diablo clone with beautiful original graphics.
-* [![Open-Source Software][oss icon]](https://github.com/ryzom/ryzomcore) ⭐ 460 | 🐛 104 | 🌐 C++ | 📅 2026-09-24 [Ryzom](https://ryzom.com/) - Free and open-source 3D MMORPG with unique features and deep lore. The official servers allow free accounts as well as paid subscriptions with extra features.
+* [![Open-Source Software][oss icon]](https://github.com/ryzom/ryzomcore) ⭐ 460 | 🐛 103 | 🌐 C++ | 📅 2026-09-24 [Ryzom](https://ryzom.com/) - Free and open-source 3D MMORPG with unique features and deep lore. The official servers allow free accounts as well as paid subscriptions with extra features.
 * [![Open-Source Software][oss icon]](https://gitlab.com/freedroid/freedroid-src) [FreedroidRPG](https://www.freedroid.org/) - Sci-fi 2D top-down RPG inspired by Diablo games.
 * [![Open-Source Software][oss icon]](https://te4.org/) [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) is a free, open source roguelike RPG, featuring tactical turn-based combat and advanced character building.
 * [![Open-Source Software][oss icon]](https://gitlab.com/veloren/veloren) [Veloren](https://veloren.net/) - Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
@@ -775,7 +775,7 @@
 
 #### RTS
 
-* [![Open-Source Software][oss icon]](https://github.com/Anuken/Mindustry) ⭐ 29,095 | 🐛 22 | 🌐 Java | 📅 2026-09-24 [Mindustry](https://mindustrygame.github.io/) - The automation tower defense RTS, written in Java.
+* [![Open-Source Software][oss icon]](https://github.com/Anuken/Mindustry) ⭐ 29,100 | 🐛 21 | 🌐 Java | 📅 2026-09-24 [Mindustry](https://mindustrygame.github.io/) - The automation tower defense RTS, written in Java.
 * [![Open-Source Software][oss icon]](https://github.com/Warzone2100/warzone2100) ⭐ 3,965 | 🐛 602 | 🌐 C++ | 📅 2026-09-22 [Warzone 2100](https://wz2100.net/) - Open-source real-time strategy game that takes place after a nuclear war.
 * [![Open-Source Software][oss icon]](https://github.com/triplea-game/triplea/) ⭐ 1,579 | 🐛 233 | 🌐 Java | 📅 2026-09-22 [TripleA](https://triplea-game.org) - Open source grand strategy game with "Axis and Allies" game rules.
 * [![Open-Source Software][oss icon]](https://releases.wildfiregames.com/) [0 A.D.](https://play0ad.com/) - Age of Empires like RTS game of ancient warfare.
@@ -784,11 +784,11 @@
 
 #### Sandbox
 
-* [![Open-Source Software][oss icon]](https://github.com/minetest/minetest/) ⭐ 13,636 | 🐛 1,509 | 🌐 C++ | 📅 2026-09-22 [Luanti](https://www.luanti.org/) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation.
-* [![Open-Source Software][oss icon]](https://github.com/PrismLauncher/PrismLauncher) ⭐ 10,482 | 🐛 761 | 🌐 C++ | 📅 2026-09-23 [Prism Launcher](https://prismlauncher.org/) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC and PolyMC).
-* [![Open-Source Software][oss icon]](https://github.com/MultiMC/Launcher/) ⭐ 4,673 | 🐛 324 | 🌐 C++ | 📅 2026-07-28 [MultiMC](https://multimc.org/) - MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface.
-* [![Open-Source Software][oss icon]](https://github.com/modrinth/code) ⭐ 2,388 | 🐛 934 | 🌐 Rust | 📅 2026-09-24 [Modrinth App](https://modrinth.com/app) - The Modrinth App is a unique, open source launcher that allows you to play your favorite mods, and keep them up to date, all in one neat little package.
-* [![Open-Source Software][oss icon]](https://github.com/minecraft-linux/mcpelauncher-manifest) ⭐ 1,656 | 🐛 1,135 | 🌐 CMake | 📅 2026-09-17 [Mcpelauncher](https://mcpelauncher.readthedocs.io/en/latest/) - Unofficial Open-source launcher for Minecraft: Bedrock edition.
+* [![Open-Source Software][oss icon]](https://github.com/minetest/minetest/) ⭐ 13,637 | 🐛 1,509 | 🌐 C++ | 📅 2026-09-22 [Luanti](https://www.luanti.org/) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation.
+* [![Open-Source Software][oss icon]](https://github.com/PrismLauncher/PrismLauncher) ⭐ 10,482 | 🐛 742 | 🌐 C++ | 📅 2026-09-24 [Prism Launcher](https://prismlauncher.org/) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC and PolyMC).
+* [![Open-Source Software][oss icon]](https://github.com/MultiMC/Launcher/) ⭐ 4,671 | 🐛 324 | 🌐 C++ | 📅 2026-07-28 [MultiMC](https://multimc.org/) - MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface.
+* [![Open-Source Software][oss icon]](https://github.com/modrinth/code) ⭐ 2,390 | 🐛 934 | 🌐 Rust | 📅 2026-09-24 [Modrinth App](https://modrinth.com/app) - The Modrinth App is a unique, open source launcher that allows you to play your favorite mods, and keep them up to date, all in one neat little package.
+* [![Open-Source Software][oss icon]](https://github.com/minecraft-linux/mcpelauncher-manifest) ⭐ 1,657 | 🐛 1,135 | 🌐 CMake | 📅 2026-09-17 [Mcpelauncher](https://mcpelauncher.readthedocs.io/en/latest/) - Unofficial Open-source launcher for Minecraft: Bedrock edition.
 * ![Nonfree][money icon] [Factorio](https://www.factorio.com/) - A factory building sandbox game.
 * ![Nonfree][money icon] [Minecraft](https://minecraft.net) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.
 
@@ -799,8 +799,8 @@
 
 #### Turn Based Strategy
 
-* [![Open-Source Software][oss icon]](https://github.com/wesnoth/wesnoth) ⭐ 6,884 | 🐛 1,489 | 🌐 C++ | 📅 2026-09-23 [Battle for Wesnoth](https://wesnoth.org/) - The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.
-* [![Open-Source Software][oss icon]](https://github.com/freeciv/freeciv) ⭐ 1,600 | 🐛 7 | 🌐 C | 📅 2026-09-24 [FreeCiv](http://www.freeciv.org/) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
+* [![Open-Source Software][oss icon]](https://github.com/wesnoth/wesnoth) ⭐ 6,884 | 🐛 1,490 | 🌐 C++ | 📅 2026-09-23 [Battle for Wesnoth](https://wesnoth.org/) - The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.
+* [![Open-Source Software][oss icon]](https://github.com/freeciv/freeciv) ⭐ 1,601 | 🐛 7 | 🌐 C | 📅 2026-09-24 [FreeCiv](http://www.freeciv.org/) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
 * [![Open-Source Software][oss icon]](https://github.com/P1X-in/tanks-of-freedom-ii) ⭐ 428 | 🐛 9 | 🌐 GDScript | 📅 2025-10-02  [Tanks of Freedom II](https://czlowiekimadlo.itch.io/tanks-of-freedom-ii) - Pixel-art military strategy implemented in Godot game engine.
 * [![Open-Source Software][oss icon]](https://www.hedgewars.org/download/releases/)  [HedgeWars](https://www.hedgewars.org/) - 2D game where teams compete in the style of the popular Worms games.
 
@@ -808,9 +808,9 @@
 
 ##### Launchers
 
-* [![Open-Source Software][oss icon]](https://github.com/lutris/lutris) ⭐ 10,258 | 🐛 319 | 🌐 Python | 📅 2026-09-24 [Lutris](https://lutris.net/) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface.
-* [![Open-Source Software][oss icon]](https://github.com/itchio/itch) ⭐ 2,835 | 🐛 350 | 🌐 TypeScript | 📅 2026-09-14 [itch](https://itch.io/) - The itch.io app. All of your downloads are kept in a single place and are automatically updated. Plenty of free games.
-* [![Open-Source Software][oss icon]](https://github.com/sharkwouter/minigalaxy) ⭐ 1,327 | 🐛 96 | 🌐 Python | 📅 2026-09-23 [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - A simple GOG client for Linux.
+* [![Open-Source Software][oss icon]](https://github.com/lutris/lutris) ⭐ 10,259 | 🐛 319 | 🌐 Python | 📅 2026-09-24 [Lutris](https://lutris.net/) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface.
+* [![Open-Source Software][oss icon]](https://github.com/itchio/itch) ⭐ 2,835 | 🐛 351 | 🌐 TypeScript | 📅 2026-09-14 [itch](https://itch.io/) - The itch.io app. All of your downloads are kept in a single place and are automatically updated. Plenty of free games.
+* [![Open-Source Software][oss icon]](https://github.com/sharkwouter/minigalaxy) ⭐ 1,328 | 🐛 96 | 🌐 Python | 📅 2026-09-23 [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - A simple GOG client for Linux.
 * [![Open-Source Software][oss icon]](https://github.com/kra-mo/cartridges) ⭐ 831 | 🐛 29 | 🌐 Python | 📅 2026-09-03 [Cartridges](https://apps.gnome.org/Cartridges/) - A GTK4 + Libadwaita game launcher.
 * [![Open-Source Software][oss icon]](https://github.com/bottlesdevs/) [Bottles](https://usebottles.com/) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux.
 * [![Open-Source Software][oss icon]](https://github.com/Heroic-Games-Launcher) [Heroic Games Launcher](https://heroicgameslauncher.com/) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
@@ -819,17 +819,17 @@
 
 ##### Tools
 
-* [![Open-Source Software][oss icon]](https://github.com/flightlessmango/MangoHud) ⭐ 9,066 | 🐛 340 | 🌐 C | 📅 2026-09-24 [MangoHud](https://github.com/flightlessmango/MangoHud) ⭐ 9,066 | 🐛 340 | 🌐 C | 📅 2026-09-24 - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
-* [![Open-Source Software][oss icon]](https://github.com/SteamDeckHomebrew/decky-loader) ⭐ 7,289 | 🐛 121 | 🌐 TypeScript | 📅 2026-09-21 [Decky Loader](https://decky.xyz/) - A plugin loader for the Steam Deck.
-* [![Open-Source Software][oss icon]](https://github.com/FeralInteractive/gamemode) ⭐ 6,021 | 🐛 219 | 🌐 C | 📅 2026-06-15 [GameMode](https://github.com/FeralInteractive/gamemode) ⭐ 6,021 | 🐛 219 | 🌐 C | 📅 2026-06-15 - Optimise Linux system performance on demand.
+* [![Open-Source Software][oss icon]](https://github.com/flightlessmango/MangoHud) ⭐ 9,067 | 🐛 341 | 🌐 C | 📅 2026-09-24 [MangoHud](https://github.com/flightlessmango/MangoHud) ⭐ 9,067 | 🐛 341 | 🌐 C | 📅 2026-09-24 - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+* [![Open-Source Software][oss icon]](https://github.com/SteamDeckHomebrew/decky-loader) ⭐ 7,291 | 🐛 121 | 🌐 TypeScript | 📅 2026-09-21 [Decky Loader](https://decky.xyz/) - A plugin loader for the Steam Deck.
+* [![Open-Source Software][oss icon]](https://github.com/FeralInteractive/gamemode) ⭐ 6,023 | 🐛 219 | 🌐 C | 📅 2026-06-15 [GameMode](https://github.com/FeralInteractive/gamemode) ⭐ 6,023 | 🐛 219 | 🌐 C | 📅 2026-06-15 - Optimise Linux system performance on demand.
 * [![Open-Source Software][oss icon]](https://github.com/CryoByte33/steam-deck-utilities) ⭐ 3,536 | 🐛 68 | 🌐 Go | 📅 2024-02-04 [CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) ⭐ 3,536 | 🐛 68 | 🌐 Go | 📅 2024-02-04 - A utility to improve performance and help manage storage on Steam Deck.
 * [![Open-Source Software][oss icon]](https://github.com/sonic2kk/steamtinkerlaunch) ⭐ 2,839 | 🐛 98 | 🌐 Shell | 📅 2025-12-27 [SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) ⭐ 2,839 | 🐛 98 | 🌐 Shell | 📅 2025-12-27 - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs.
 * [![Open-Source Software][oss icon]](https://github.com/scummvm/scummvm) ⭐ 2,816 | 🐛 45 | 🌐 C++ | 📅 2026-09-24 [ScummVM](https://www.scummvm.org/) - ScummVM allows you to play classic graphic point-and-click adventure games, text adventure games, and RPGs, as long as you already have the game data files. ScummVM replaces the executable files shipped with the games, which means you can now play your favorite games on all your favorite devices.
 * [![Open-Source Software][oss icon]](https://github.com/SteamGridDB/steam-rom-manager) ⭐ 2,569 | 🐛 71 | 🌐 TypeScript | 📅 2026-09-24 [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) - An app for managing ROMs in Steam.
 * [![Open-Source Software][oss icon]](https://github.com/PhilipK/BoilR) ⭐ 1,884 | 🐛 116 | 🌐 Rust | 📅 2026-04-23 [BoilR](https://github.com/PhilipK/BoilR) ⭐ 1,884 | 🐛 116 | 🌐 Rust | 📅 2026-04-23 - Synchronize games from other platforms into your Steam library.
-* [![Open-Source Software][oss icon]](https://github.com/dosbox-staging/dosbox-staging) ⭐ 1,788 | 🐛 207 | 🌐 C++ | 📅 2026-09-24 [DOSBox Staging](https://www.dosbox-staging.org/) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
+* [![Open-Source Software][oss icon]](https://github.com/dosbox-staging/dosbox-staging) ⭐ 1,788 | 🐛 208 | 🌐 C++ | 📅 2026-09-24 [DOSBox Staging](https://www.dosbox-staging.org/) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 * [![Open-Source Software][oss icon]](https://github.com/kozec/sc-controller) ⭐ 1,641 | 🐛 191 | 🌐 Python | 📅 2023-10-03 [SC Controller](https://github.com/kozec/sc-controller) ⭐ 1,641 | 🐛 191 | 🌐 Python | 📅 2023-10-03 - User-mode driver, mapper and GTK3 based GUI for Steam Controller, DualShock 4, and similar controllers.
-* [![Open-Source Software][oss icon]](https://github.com/benjamimgois/goverlay) ⭐ 1,498 | 🐛 83 | 🌐 Pascal | 📅 2026-09-24 [GOverlay](https://github.com/benjamimgois/goverlay) ⭐ 1,498 | 🐛 83 | 🌐 Pascal | 📅 2026-09-24 - GOverlay is an open source project that aims to create a Graphical UI to help manage Linux overlays.
+* [![Open-Source Software][oss icon]](https://github.com/benjamimgois/goverlay) ⭐ 1,501 | 🐛 83 | 🌐 Pascal | 📅 2026-09-24 [GOverlay](https://github.com/benjamimgois/goverlay) ⭐ 1,501 | 🐛 83 | 🌐 Pascal | 📅 2026-09-24 - GOverlay is an open source project that aims to create a Graphical UI to help manage Linux overlays.
 * [![Open-Source Software][oss icon]](https://github.com/Merrit/nyrna) ⭐ 1,281 | 🐛 19 | 🌐 Dart | 📅 2026-05-26 [Nyrna](https://nyrna.merritt.codes/) - Suspend games and applications.
 * [![Open-Source Software][oss icon]](https://github.com/luxtorpeda-dev/luxtorpeda) ⚠️ Archived [Luxtorpeda](https://luxtorpeda.gitlab.io/) - Suite of Steam Play compatibility tools to run games using native Linux engines.
 * [![Open-Source Software][oss icon]](https://github.com/dreamer/boxtron) ⭐ 457 | 🐛 19 | 🌐 Python | 📅 2023-04-05 [Boxtron](https://github.com/dreamer/boxtron) ⭐ 457 | 🐛 19 | 🌐 Python | 📅 2023-04-05 - Steam Play compatibility tool to run DOS games using native Linux DOSBox. It is a sister project of Luxtorpeda and DOSBox Staging.
@@ -839,15 +839,15 @@
 
 ##### W\.I.N.E.
 
-* [![Open-Source Software][oss icon]](https://github.com/ValveSoftware/Proton) ⭐ 32,873 | 🐛 5,202 | 🌐 C++ | 📅 2026-09-24 [Proton](https://github.com/ValveSoftware/Proton) ⭐ 32,873 | 🐛 5,202 | 🌐 C++ | 📅 2026-09-24 - Compatibility tool for Steam Play based on Wine and additional components, primarily developed by Valve and CodeWeavers.
-* [![Open-Source Software][oss icon]](https://github.com/GloriousEggroll/proton-ge-custom) ⭐ 15,068 | 🐛 97 | 🌐 C++ | 📅 2026-09-22 [GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom) ⭐ 15,068 | 🐛 97 | 🌐 C++ | 📅 2026-09-22 - Compatibility tool for Steam Play based on Wine and additional components.
+* [![Open-Source Software][oss icon]](https://github.com/ValveSoftware/Proton) ⭐ 32,872 | 🐛 5,199 | 🌐 C++ | 📅 2026-09-24 [Proton](https://github.com/ValveSoftware/Proton) ⭐ 32,872 | 🐛 5,199 | 🌐 C++ | 📅 2026-09-24 - Compatibility tool for Steam Play based on Wine and additional components, primarily developed by Valve and CodeWeavers.
+* [![Open-Source Software][oss icon]](https://github.com/GloriousEggroll/proton-ge-custom) ⭐ 15,073 | 🐛 95 | 🌐 C++ | 📅 2026-09-22 [GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom) ⭐ 15,073 | 🐛 95 | 🌐 C++ | 📅 2026-09-22 - Compatibility tool for Steam Play based on Wine and additional components.
 * [![Open-Source Software][oss icon]](https://github.com/Winetricks/winetricks) ⭐ 3,536 | 🐛 188 | 🌐 Shell | 📅 2026-08-27 [Winetricks](https://github.com/Winetricks/winetricks) ⭐ 3,536 | 🐛 188 | 🌐 Shell | 📅 2026-08-27 - Winetricks is an easy way to work around problems in Wine.
-* [![Open-Source Software][oss icon]](https://github.com/Matoking/protontricks) ⭐ 2,313 | 🐛 91 | 🌐 Python | 📅 2026-08-18 [Protontricks](https://github.com/Matoking/protontricks) ⭐ 2,313 | 🐛 91 | 🌐 Python | 📅 2026-08-18 - This is a wrapper script that allows you to easily run Winetricks commands for Steam Play/Proton games among other common Wine features, such as launching external Windows executables.
+* [![Open-Source Software][oss icon]](https://github.com/Matoking/protontricks) ⭐ 2,313 | 🐛 91 | 🌐 Python | 📅 2026-09-24 [Protontricks](https://github.com/Matoking/protontricks) ⭐ 2,313 | 🐛 91 | 🌐 Python | 📅 2026-09-24 - This is a wrapper script that allows you to easily run Winetricks commands for Steam Play/Proton games among other common Wine features, such as launching external Windows executables.
 * [![Open-Source Software][oss icon]](https://github.com/GloriousEggroll/wine-ge-custom) ⚠️ Archived [Wine-GE-Custom](https://github.com/GloriousEggroll/wine-ge-custom) ⚠️ Archived - Custom build of wine, made to use with lutris. Built with lutris's buildbot.
-* [![Open-Source Software][oss icon]](https://github.com/DavidoTek/ProtonUp-Qt) ⭐ 2,039 | 🐛 74 | 🌐 Python | 📅 2026-09-14 [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage GE-Proton and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface.
-* [![Open-Source Software][oss icon]](https://github.com/Vysp3r/ProtonPlus) ⭐ 1,800 | 🐛 50 | 🌐 Vala | 📅 2026-09-23 [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) ⭐ 1,800 | 🐛 50 | 🌐 Vala | 📅 2026-09-23 - A simple Wine and Proton manager for GNOME.
+* [![Open-Source Software][oss icon]](https://github.com/DavidoTek/ProtonUp-Qt) ⭐ 2,038 | 🐛 74 | 🌐 Python | 📅 2026-09-14 [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage GE-Proton and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface.
+* [![Open-Source Software][oss icon]](https://github.com/Vysp3r/ProtonPlus) ⭐ 1,803 | 🐛 50 | 🌐 Vala | 📅 2026-09-23 [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) ⭐ 1,803 | 🐛 50 | 🌐 Vala | 📅 2026-09-23 - A simple Wine and Proton manager for GNOME.
 * [![Open-Source Software][oss icon]](https://github.com/Kron4ek/Wine-Builds) ⭐ 1,284 | 🐛 0 | 🌐 Shell | 📅 2026-09-19 [Kron4ek Wine Builds](https://github.com/Kron4ek/Wine-Builds) ⭐ 1,284 | 🐛 0 | 🌐 Shell | 📅 2026-09-19 - Custom Wine builds and build scripts for Vanilla, Wine Staging, Wine-tkg and Proton.
-* [![Open-Source Software][oss icon]](https://github.com/Frogging-Family/wine-tkg-git) ⭐ 1,140 | 🐛 276 | 🌐 Shell | 📅 2026-09-21 [Wine-tkg](https://github.com/Frogging-Family/wine-tkg-git) ⭐ 1,140 | 🐛 276 | 🌐 Shell | 📅 2026-09-21 - The wine-tkg build systems, to create custom Wine and Proton builds.
+* [![Open-Source Software][oss icon]](https://github.com/Frogging-Family/wine-tkg-git) ⭐ 1,140 | 🐛 277 | 🌐 Shell | 📅 2026-09-21 [Wine-tkg](https://github.com/Frogging-Family/wine-tkg-git) ⭐ 1,140 | 🐛 277 | 🌐 Shell | 📅 2026-09-21 - The wine-tkg build systems, to create custom Wine and Proton builds.
 * [![Open-Source Software][oss icon]](https://github.com/varmd/wine-wayland) ⭐ 854 | 🐛 3 | 🌐 C | 📅 2026-05-12 [Wine-Wayland](https://github.com/varmd/wine-wayland) ⭐ 854 | 🐛 3 | 🌐 C | 📅 2026-05-12 - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
 * [![Open-Source Software][oss icon]](https://github.com/AUNaseef/protonup) ⭐ 602 | 🐛 17 | 🌐 Python | 📅 2026-08-31 [ProtonUp](https://github.com/AUNaseef/protonup) ⭐ 602 | 🐛 17 | 🌐 Python | 📅 2026-08-31 - CLI program and API to automate the installation and update of GE-Proton.
 * [![Open-Source Software][oss icon]](https://dl.winehq.org/wine/source/) [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on Linux, quality depends from game to game.
@@ -856,9 +856,9 @@
 
 ##### All-in-One
 
-* [![Open-Source Software][oss icon]](https://github.com/libretro/RetroArch) ⭐ 14,098 | 🐛 3,001 | 🌐 C | 📅 2026-09-24 [RetroArch](https://www.retroarch.com/) - A front-end for a lot of game emulators.
-* [![Open-Source Software][oss icon]](https://github.com/mamedev/mame) ⭐ 10,525 | 🐛 889 | 🌐 C++ | 📅 2026-09-24 [MAME](https://mamedev.org/) - MAME is an Arcade Cabinet emulator that strives for accuracy, and can play a huge number of different arcade games.
-* [![Open-Source Software][oss icon]](https://github.com/ares-emulator/ares) ⭐ 1,804 | 🐛 602 | 🌐 C++ | 📅 2026-09-23 [ares](https://ares-emu.net/) - A multi-system console emulation suite.
+* [![Open-Source Software][oss icon]](https://github.com/libretro/RetroArch) ⭐ 14,099 | 🐛 3,004 | 🌐 C | 📅 2026-09-24 [RetroArch](https://www.retroarch.com/) - A front-end for a lot of game emulators.
+* [![Open-Source Software][oss icon]](https://github.com/mamedev/mame) ⭐ 10,525 | 🐛 890 | 🌐 C++ | 📅 2026-09-24 [MAME](https://mamedev.org/) - MAME is an Arcade Cabinet emulator that strives for accuracy, and can play a huge number of different arcade games.
+* [![Open-Source Software][oss icon]](https://github.com/ares-emulator/ares) ⭐ 1,806 | 🐛 603 | 🌐 C++ | 📅 2026-09-23 [ares](https://ares-emu.net/) - A multi-system console emulation suite.
 * [![Open-Source Software][oss icon]](https://github.com/qmc2/qmc2-mame-fe) ⭐ 54 | 🐛 10 | 🌐 C++ | 📅 2024-07-20 [qmc2](https://github.com/qmc2/qmc2-mame-fe) ⭐ 54 | 🐛 10 | 🌐 C++ | 📅 2024-07-20 - QMC2 is the successor to QMamecat, it is a gui for MAME and a ROM manager.
 * [![Open-Source Software][oss icon]](https://github.com/byuu/higan) ⚠️ Archived [Higan](https://github.com/higan-emu/higan) ⭐ 1,356 | 🐛 76 | 🌐 GLSL | 📅 2025-09-01 - Higan is a multi-system emulator that supports emulating a huge number of different systems including: NES, SNES, GameBoy, GameBoy Color, Gameboy Advance, NEC PC Engine, Sega Master System, and more. Here is a guide to install it on Linux [Higan Installation](https://higan.readthedocs.io/en/stable/install/linux/).
 * [![Open-Source Software][oss icon]](https://gitlab.gnome.org/Archive/gnome-video-arcade) [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade) - GNOME Video Arcade is a simple Mame frontend for any freedesktop.org compliant desktop environment.
@@ -869,7 +869,7 @@
 
 ##### Emulation Frontends/Configurators
 
-* [![Open-Source Software][oss icon]](https://github.com/dragoonDorise/EmuDeck) ⭐ 3,500 | 🐛 83 | 🌐 Shell | 📅 2026-09-23 [EmuDeck](https://www.emudeck.com/) - Emulator configurator for Steam Deck.
+* [![Open-Source Software][oss icon]](https://github.com/dragoonDorise/EmuDeck) ⭐ 3,501 | 🐛 83 | 🌐 Shell | 📅 2026-09-24 [EmuDeck](https://www.emudeck.com/) - Emulator configurator for Steam Deck.
 * [![Open-Source Software][oss icon]](https://github.com/XargonWan/RetroDECK) ⭐ 1,266 | 🐛 303 | 🌐 Shell | 📅 2026-09-20 [RetroDECK](https://retrodeck.net/) - Everything you need for emulation on Steam Deck.
 
 ##### Microsoft
@@ -878,11 +878,11 @@
 
 ##### Nintendo
 
-* [![Open-Source Software][oss icon]](https://github.com/dolphin-emu/dolphin) ⭐ 15,560 | 🐛 485 | 🌐 C++ | 📅 2026-09-24 [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-* [![Open-Source Software][oss icon]](https://github.com/cemu-project/Cemu) ⭐ 9,867 | 🐛 400 | 🌐 C++ | 📅 2026-09-23 [Cemu](https://cemu.info/) - Software to emulate Wii U games and applications on PC.
-* [![Open-Source Software][oss icon]](https://github.com/Arisotura/melonDS) ⭐ 5,053 | 🐛 1,063 | 🌐 C++ | 📅 2026-08-23 [melonDS](https://melonds.kuribo64.net/) - melonDS aims at providing fast and accurate Nintendo DS emulation.
-* [![Open-Source Software][oss icon]](https://github.com/visualboyadvance-m/visualboyadvance-m) ⭐ 3,924 | 🐛 216 | 🌐 C++ | 📅 2026-09-24 [Visual Boy Advance-M](https://www.visualboyadvance-m.org/) - A Gameboy and Gameboy Advance Emulator that is still undergoing active development and can even emulate a system link between two gameboys.
-* [![Open-Source Software][oss icon]](https://github.com/TASEmulators/desmume) ⭐ 3,641 | 🐛 92 | 🌐 C++ | 📅 2026-09-11 [DeSmuME](https://desmume.org/) - DeSmuME is a Nintendo DS emulator.
+* [![Open-Source Software][oss icon]](https://github.com/dolphin-emu/dolphin) ⭐ 15,562 | 🐛 484 | 🌐 C++ | 📅 2026-09-24 [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+* [![Open-Source Software][oss icon]](https://github.com/cemu-project/Cemu) ⭐ 9,868 | 🐛 400 | 🌐 C++ | 📅 2026-09-24 [Cemu](https://cemu.info/) - Software to emulate Wii U games and applications on PC.
+* [![Open-Source Software][oss icon]](https://github.com/Arisotura/melonDS) ⭐ 5,054 | 🐛 1,063 | 🌐 C++ | 📅 2026-08-23 [melonDS](https://melonds.kuribo64.net/) - melonDS aims at providing fast and accurate Nintendo DS emulation.
+* [![Open-Source Software][oss icon]](https://github.com/visualboyadvance-m/visualboyadvance-m) ⭐ 3,924 | 🐛 215 | 🌐 C++ | 📅 2026-09-24 [Visual Boy Advance-M](https://www.visualboyadvance-m.org/) - A Gameboy and Gameboy Advance Emulator that is still undergoing active development and can even emulate a system link between two gameboys.
+* [![Open-Source Software][oss icon]](https://github.com/TASEmulators/desmume) ⭐ 3,642 | 🐛 92 | 🌐 C++ | 📅 2026-09-11 [DeSmuME](https://desmume.org/) - DeSmuME is a Nintendo DS emulator.
 * [![Open-Source Software][oss icon]](https://github.com/snes9xgit/snes9x) ⭐ 3,342 | 🐛 224 | 🌐 C++ | 📅 2026-09-21 [Snes9x](http://www.snes9x.com/) - Is a multiplatform Super Nintendo Entertainment System emulator that has gone through many incarnations, but is still being actively developed.
 * [![Open-Source Software][oss icon]](https://github.com/0ldsk00l/nestopia) ⭐ 934 | 🐛 15 | 🌐 C++ | 📅 2026-09-13 [nestopia](http://0ldsk00l.ca/nestopia/) - nestopia is a Nintendo Entertainment System/Famicon emulator.
 * [![Open-Source Software][oss icon]](https://github.com/mgba-emu) [mGBA](https://mgba.io/) - mGBA is an open-source Game Boy Advance emulator.
@@ -890,15 +890,15 @@
 
 ##### Sega
 
-* [![Open-Source Software][oss icon]](https://github.com/flyinghead/flycast) ⭐ 2,550 | 🐛 304 | 🌐 C++ | 📅 2026-09-24 [Flycast](https://github.com/flyinghead/flycast) ⭐ 2,550 | 🐛 304 | 🌐 C++ | 📅 2026-09-24 - A multiplatform Sega Dreamcast emulator. Available for Windows, macOS, Linux, Android and various home consoles.
+* [![Open-Source Software][oss icon]](https://github.com/flyinghead/flycast) ⭐ 2,551 | 🐛 304 | 🌐 C++ | 📅 2026-09-24 [Flycast](https://github.com/flyinghead/flycast) ⭐ 2,551 | 🐛 304 | 🌐 C++ | 📅 2026-09-24 - A multiplatform Sega Dreamcast emulator. Available for Windows, macOS, Linux, Android and various home consoles.
 
 ##### Sony
 
-* [![Open-Source Software][oss icon]](https://github.com/shadps4-emu/shadps4) ⭐ 32,954 | 🐛 234 | 🌐 C++ | 📅 2026-09-24 [ShadPS4](https://github.com/shadps4-emu/shadps4) ⭐ 32,954 | 🐛 234 | 🌐 C++ | 📅 2026-09-24 -  A PS4 emulator in active development. Available on Windows, macOS and Linux.
-* [![Open-Source Software][oss icon]](https://github.com/hrydgard/ppsspp) ⭐ 14,521 | 🐛 1,295 | 🌐 C++ | 📅 2026-09-24 [PPSSPP](https://www.ppsspp.org/) - PPSSPP is a PSP emulator that can run games full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.
+* [![Open-Source Software][oss icon]](https://github.com/shadps4-emu/shadps4) ⭐ 32,957 | 🐛 232 | 🌐 C++ | 📅 2026-09-24 [ShadPS4](https://github.com/shadps4-emu/shadps4) ⭐ 32,957 | 🐛 232 | 🌐 C++ | 📅 2026-09-24 -  A PS4 emulator in active development. Available on Windows, macOS and Linux.
+* [![Open-Source Software][oss icon]](https://github.com/hrydgard/ppsspp) ⭐ 14,521 | 🐛 1,294 | 🌐 C++ | 📅 2026-09-24 [PPSSPP](https://www.ppsspp.org/) - PPSSPP is a PSP emulator that can run games full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.
 * [![Open-Source Software][oss icon]](https://github.com/stenzek/duckstation) ⭐ 10,735 | 🐛 77 | 🌐 C++ | 📅 2026-09-24 [DuckStation](https://www.duckstation.org/) - DuckStation is a multiplatform PSX emulator for Windows, macOS, Linux and Android.
-* [![Open-Source Software][oss icon]](https://github.com/Vita3K/Vita3K) ⭐ 5,748 | 🐛 222 | 🌐 C++ | 📅 2026-09-21 [Vita3K](https://vita3k.org/) - Vita3K is an experimental PlayStation Vita emulator for Windows and Linux.
-* [![Open-Source Software][oss icon]](https://github.com/jpd002/Play-) ⭐ 2,687 | 🐛 270 | 🌐 C++ | 📅 2026-09-03 [Play!](https://purei.org/) - Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms.
+* [![Open-Source Software][oss icon]](https://github.com/Vita3K/Vita3K) ⭐ 5,747 | 🐛 222 | 🌐 C++ | 📅 2026-09-21 [Vita3K](https://vita3k.org/) - Vita3K is an experimental PlayStation Vita emulator for Windows and Linux.
+* [![Open-Source Software][oss icon]](https://github.com/jpd002/Play-) ⭐ 2,686 | 🐛 270 | 🌐 C++ | 📅 2026-09-03 [Play!](https://purei.org/) - Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms.
 * [![Open-Source Software][oss icon]](https://github.com/PCSX2) [PCSX2](https://pcsx2.net/) - PCSX2 is a free and open-source PlayStation 2 (PS2) emulator.
 * [![Open-Source Software][oss icon]](https://github.com/rpcs3) [RPCS3](https://rpcs3.net/) - RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD.
 
@@ -910,11 +910,11 @@
 
 #### Graphic Creation
 
-* [![Open-Source Software][oss icon]](https://github.com/Orama-Interactive/Pixelorama) ⭐ 10,366 | 🐛 86 | 🌐 GDScript | 📅 2026-09-20 [Pixelorama](https://orama-interactive.itch.io/pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine!
+* [![Open-Source Software][oss icon]](https://github.com/Orama-Interactive/Pixelorama) ⭐ 10,368 | 🐛 86 | 🌐 GDScript | 📅 2026-09-20 [Pixelorama](https://orama-interactive.itch.io/pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine!
 
-* [![Open-Source Software][oss icon]](https://github.com/LibreSprite/LibreSprite) ⭐ 8,439 | 🐛 103 | 🌐 C++ | 📅 2026-09-18 [LibreSprite](https://libresprite.github.io/#!/) - LibreSprite is a free and open source program for creating and animating your sprites.
+* [![Open-Source Software][oss icon]](https://github.com/LibreSprite/LibreSprite) ⭐ 8,443 | 🐛 103 | 🌐 C++ | 📅 2026-09-18 [LibreSprite](https://libresprite.github.io/#!/) - LibreSprite is a free and open source program for creating and animating your sprites.
 
-* [![Open-Source Software][oss icon]](https://github.com/inkscape/inkscape) ⭐ 3,949 | 🐛 1 | 📅 2022-03-03 [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
+* [![Open-Source Software][oss icon]](https://github.com/inkscape/inkscape) ⭐ 3,951 | 🐛 1 | 📅 2022-03-03 [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
 
 * [![Open-Source Software][oss icon]](https://github.com/mypaint/mypaint) ⭐ 2,981 | 🐛 227 | 🌐 Python | 📅 2026-09-13 [Mypaint](https://github.com/mypaint/mypaint) ⭐ 2,981 | 🐛 227 | 🌐 Python | 📅 2026-09-13) - Mypaint is a paint program for use with graphics tablets.
 
@@ -964,10 +964,10 @@
 
 #### Image Editor
 
-* [![Open-Source Software][oss icon]](https://github.com/ImageMagick/ImageMagick) ⭐ 17,504 | 🐛 163 | 🌐 C | 📅 2026-09-24 [ImageMagik](https://www.imagemagick.org/script/index.php) - ImageMagick is a suite of command-line utilities for modifying and working with images.
-* [![Open-Source Software][oss icon]](https://github.com/darktable-org/darktable) ⭐ 13,124 | 🐛 689 | 🌐 C | 📅 2026-09-24 [Darktable](https://www.darktable.org/) - Darktable is an open source photography workflow application and RAW developer.
+* [![Open-Source Software][oss icon]](https://github.com/ImageMagick/ImageMagick) ⭐ 17,507 | 🐛 163 | 🌐 C | 📅 2026-09-24 [ImageMagik](https://www.imagemagick.org/script/index.php) - ImageMagick is a suite of command-line utilities for modifying and working with images.
+* [![Open-Source Software][oss icon]](https://github.com/darktable-org/darktable) ⭐ 13,124 | 🐛 677 | 🌐 C | 📅 2026-09-24 [Darktable](https://www.darktable.org/) - Darktable is an open source photography workflow application and RAW developer.
 * [![Open-Source Software][oss icon]](https://github.com/piskelapp/piskel) ⭐ 12,806 | 🐛 93 | 🌐 JavaScript | 📅 2026-09-20 [Piskel](https://www.piskelapp.com/) - Browser-based editor for animated sprites and pixel art. Available as offline application.
-* [![Open-Source Software][oss icon]](https://github.com/Beep6581/RawTherapee) ⭐ 4,184 | 🐛 1,038 | 🌐 C++ | 📅 2026-09-21 [RawTherapee](https://rawtherapee.com/) - A good looking but lesser known photo editing app.
+* [![Open-Source Software][oss icon]](https://github.com/Beep6581/RawTherapee) ⭐ 4,182 | 🐛 1,038 | 🌐 C++ | 📅 2026-09-21 [RawTherapee](https://rawtherapee.com/) - A good looking but lesser known photo editing app.
 * [![Open-Source Software][oss icon]](https://github.com/jarun/imgp) ⭐ 1,091 | 🐛 0 | 🌐 Python | 📅 2026-08-16 [imgp](https://github.com/jarun/imgp) ⭐ 1,091 | 🐛 0 | 🌐 Python | 📅 2026-08-16 - Blazing fast terminal image resizer and rotator.
 * [![Open-Source Software][oss icon]](https://github.com/LuminanceHDR/LuminanceHDR) ⭐ 670 | 🐛 100 | 🌐 C++ | 📅 2026-05-20 [Luminance HDR](https://sourceforge.net/projects/qtpfsgui/) - Luminance HDR is an open source graphical user interface application that aims to provide a workflow for HDR imaging.
 * [![Open-Source Software][oss icon]](https://github.com/lbalazscs/Pixelitor) ⭐ 263 | 🐛 8 | 🌐 Java | 📅 2026-09-10 [Pixelitor](https://pixelitor.sourceforge.io/) - Pixelitor is a free and open source image editing software that supports layers, layer masks, text layers, filters, multiple undo etc.
@@ -980,12 +980,12 @@
 #### Image Management
 
 * [![Open-Source Software][oss icon]](https://github.com/meowtec/Imagine) ⭐ 4,422 | 🐛 59 | 🌐 TypeScript | 📅 2026-09-19 [Imagine](https://github.com/meowtec/Imagine) ⭐ 4,422 | 🐛 59 | 🌐 TypeScript | 📅 2026-09-19 - An open source image optimizer that can shrink the size of images with a minimal loss of quality.
-* [![Open-Source Software][oss icon]](https://github.com/nomacs/nomacs/tree/master) ⭐ 3,182 | 🐛 333 | 🌐 C++ | 📅 2026-09-20 [nomacs](https://nomacs.org/) - nomacs is an image viewer that is able to view nearly any image format, and has powerful renaming and sorting tools.
-* [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner) ⭐ 2,700 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-24 [ExifCleaner](https://exifcleaner.com) - Remove image metadata with drag and drop. Supports multi-core batch processing.
+* [![Open-Source Software][oss icon]](https://github.com/nomacs/nomacs/tree/master) ⭐ 3,183 | 🐛 334 | 🌐 C++ | 📅 2026-09-20 [nomacs](https://nomacs.org/) - nomacs is an image viewer that is able to view nearly any image format, and has powerful renaming and sorting tools.
+* [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner) ⭐ 2,701 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-24 [ExifCleaner](https://exifcleaner.com) - Remove image metadata with drag and drop. Supports multi-core batch processing.
 * [![Open-Source Software][oss icon]](https://github.com/ivandokov/phockup) ⭐ 1,012 | 🐛 30 | 🌐 Python | 📅 2024-05-06 [Phockup](https://github.com/ivandokov/phockup) ⭐ 1,012 | 🐛 30 | 🌐 Python | 📅 2024-05-06 - Command line sorting tool to organize photos and videos from your camera in folders by year, month and day.
-* [![Open-Source Software][oss icon]](https://github.com/yurijmikhalevich/rclip) ⭐ 1,007 | 🐛 15 | 🌐 Python | 📅 2026-09-23 [rclip](https://github.com/yurijmikhalevich/rclip) ⭐ 1,007 | 🐛 15 | 🌐 Python | 📅 2026-09-23 - AI-Powered Command-Line Photo Search Tool.
+* [![Open-Source Software][oss icon]](https://github.com/yurijmikhalevich/rclip) ⭐ 1,008 | 🐛 15 | 🌐 Python | 📅 2026-09-23 [rclip](https://github.com/yurijmikhalevich/rclip) ⭐ 1,008 | 🐛 15 | 🌐 Python | 📅 2026-09-23 - AI-Powered Command-Line Photo Search Tool.
 * [![Open-Source Software][oss icon]](https://github.com/kanryu/quickviewer) ⭐ 666 | 🐛 71 | 🌐 C++ | 📅 2025-12-27 [quickviewer](https://kanryu.github.io/quickviewer/) - Very fast image/comic viewer by using OpenGL.
-* [![Open-Source Software][oss icon]](https://github.com/BestImageViewer/geeqie) ⭐ 618 | 🐛 311 | 🌐 C++ | 📅 2026-09-24 [geeqie](http://www.geeqie.org/) - Image viewer / photo collection browser. Successor of GQview.
+* [![Open-Source Software][oss icon]](https://github.com/BestImageViewer/geeqie) ⭐ 618 | 🐛 312 | 🌐 C++ | 📅 2026-09-24 [geeqie](http://www.geeqie.org/) - Image viewer / photo collection browser. Successor of GQview.
 * [![Open-Source Software][oss icon]](https://github.com/oferkv/phototonic) ⭐ 164 | 🐛 46 | 🌐 C++ | 📅 2025-01-13 [Photonic](https://github.com/oferkv/phototonic) ⭐ 164 | 🐛 46 | 🌐 C++ | 📅 2025-01-13 - Phototonic is image viewer and organizer.
 * [![Open-Source Software][oss icon]](https://github.com/peterlevi/ojo) ⭐ 42 | 🐛 14 | 🌐 Python | 📅 2025-01-26 [Ojo](https://github.com/peterlevi/ojo) ⭐ 42 | 🐛 14 | 🌐 Python | 📅 2025-01-26 - A fast and pretty image viewer.
 * [Aspect](https://aspect.bildhuus.com/) - Photo organization application with support for peer-to-peer based synchronization across devices.
@@ -998,9 +998,9 @@
 
 #### Miscellaneous
 
-* [![Open-Source Software][oss icon]](https://github.com/FreeCAD/FreeCAD) ⭐ 33,740 | 🐛 3,992 | 🌐 C++ | 📅 2026-09-24 [FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐ 33,740 | 🐛 3,992 | 🌐 C++ | 📅 2026-09-24 - FreeCAD is a free and opensource multiplatform 3D parametric modeler.
-* [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake) ⭐ 24,481 | 🐛 293 | 🌐 C | 📅 2026-09-24 [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
-* [![Open-Source Software][oss icon]](https://github.com/Diolinux/PhotoGIMP) ⭐ 18,115 | 🐛 42 | 🌐 Python | 📅 2026-09-05 [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) ⭐ 18,115 | 🐛 42 | 🌐 Python | 📅 2026-09-05 - A patch for optimizing GIMP 2.10+ for Adobe Photoshop users.
+* [![Open-Source Software][oss icon]](https://github.com/FreeCAD/FreeCAD) ⭐ 33,744 | 🐛 3,989 | 🌐 C++ | 📅 2026-09-24 [FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐ 33,744 | 🐛 3,989 | 🌐 C++ | 📅 2026-09-24 - FreeCAD is a free and opensource multiplatform 3D parametric modeler.
+* [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake) ⭐ 24,488 | 🐛 293 | 🌐 C | 📅 2026-09-24 [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+* [![Open-Source Software][oss icon]](https://github.com/Diolinux/PhotoGIMP) ⭐ 18,111 | 🐛 42 | 🌐 Python | 📅 2026-09-05 [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) ⭐ 18,111 | 🐛 42 | 🌐 Python | 📅 2026-09-05 - A patch for optimizing GIMP 2.10+ for Adobe Photoshop users.
 * [![Open-Source Software][oss icon]](https://github.com/Gictorbit/photoshopCClinux) ⭐ 4,511 | 🐛 96 | 🌐 Shell | 📅 2024-07-08 [Photoshop CCv19](https://github.com/Gictorbit/photoshopCClinux) ⭐ 4,511 | 🐛 96 | 🌐 Shell | 📅 2024-07-08 - Photoshop CC v19 installer for Gnu/Linux.
 * [![Open-Source Software][oss icon]](https://github.com/MiMillieuh/Photoshop-CC2022-Linux) ⭐ 1,174 | 🐛 22 | 🌐 Shell | 📅 2024-04-23 [Photoshop-CC2022-Linux](https://github.com/MiMillieuh/Photoshop-CC2022-Linux) ⭐ 1,174 | 🐛 22 | 🌐 Shell | 📅 2024-04-23 - Installer for Photoshop CC 2022 on linux with a GUI.
 * [![Open-Source Software][oss icon]](https://potrace.sourceforge.net/#downloading) [Potrace](https://potrace.sourceforge.net/) - Potrace is a tool for tracing a bitmap, which means, transforming a bitmap into a smooth, scalable image.
@@ -1013,11 +1013,11 @@
 
 #### Screen Recorder
 
-* [![Open-Source Software][oss icon]](https://github.com/obsproject/obs-studio) ⭐ 76,578 | 🐛 1,131 | 🌐 C | 📅 2026-09-24 [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux. Share your gaming, art and entertainment with the world.
-* [![Open-Source Software][oss icon]](https://github.com/asciinema/asciinema) ⭐ 17,824 | 🐛 11 | 🌐 Rust | 📅 2026-08-14 [asciinema](https://asciinema.org) - Terminal session recorder.
+* [![Open-Source Software][oss icon]](https://github.com/obsproject/obs-studio) ⭐ 76,584 | 🐛 1,129 | 🌐 C | 📅 2026-09-24 [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux. Share your gaming, art and entertainment with the world.
+* [![Open-Source Software][oss icon]](https://github.com/asciinema/asciinema) ⭐ 17,826 | 🐛 11 | 🌐 Rust | 📅 2026-08-14 [asciinema](https://asciinema.org) - Terminal session recorder.
 * [![Open-Source Software][oss icon]](https://github.com/phw/peek) ⚠️ Archived [Peek](https://github.com/phw/peek) ⚠️ Archived - Simple animated GIF screen recorder with an easy to use interface.
 * [![Open-Source Software][oss icon]](https://github.com/SeaDve/Kooha) ⭐ 3,514 | 🐛 100 | 🌐 Rust | 📅 2026-09-23 [Kooha](https://flathub.org/apps/io.github.seadve.Kooha) - A simple screen recorder written with GTK. It allows you to record your screen and also audio from your microphone or desktop.
-* [![Open-Source Software][oss icon]](https://github.com/MaartenBaert/ssr) ⭐ 2,894 | 🐛 527 | 🌐 C++ | 📅 2026-08-14 [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/) - SimpleScreenRecorder is a feature-rich screen recorder that supports X11 and OpenGL. It has a Qt-based graphical user interface.
+* [![Open-Source Software][oss icon]](https://github.com/MaartenBaert/ssr) ⭐ 2,895 | 🐛 528 | 🌐 C++ | 📅 2026-08-14 [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/) - SimpleScreenRecorder is a feature-rich screen recorder that supports X11 and OpenGL. It has a Qt-based graphical user interface.
 * [![Open-Source Software][oss icon]](https://github.com/orhun/menyoki) ⭐ 670 | 🐛 21 | 🌐 Rust | 📅 2026-08-29 [menyoki](https://menyoki.cli.rs/) - Screen{shot,cast} and perform ImageOps on the command line.
 * [![Open-Source Software][oss icon]](https://github.com/colinkeenan/silentcast) ⭐ 514 | 🐛 17 | 🌐 C | 📅 2022-09-03 [Silentcast](https://github.com/colinkeenan/silentcast) ⭐ 514 | 🐛 17 | 🌐 C | 📅 2022-09-03 - Silentcast can create MKV screencasts and also output to an animated GIF.
 * [![Open-Source Software][oss icon]](https://github.com/dvershinin/green-recorder) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2024-03-15 [Green Recorder](https://github.com/dvershinin/green-recorder) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2024-03-15 - A simple desktop recorder for Linux systems, supports recording audio and video on almost all Linux interfaces and Wayland display server on GNOME session.
@@ -1028,8 +1028,8 @@
 
 #### Screenshot
 
-* [![Open-Source Software][oss icon]](https://github.com/lupoDharkael/flameshot) ⭐ 30,921 | 🐛 731 | 🌐 C++ | 📅 2026-09-17 [Flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software.
-* [![Open-Source Software][oss icon]](https://github.com/ksnip/ksnip) ⭐ 3,330 | 🐛 340 | 🌐 C++ | 📅 2026-09-07 [Ksnip](https://github.com/ksnip/ksnip#ksnip) ⭐ 3,330 | 🐛 340 | 🌐 C++ | 📅 2026-09-07 - Ksnip is a Qt-based cross-platform screenshot tool that provides many annotation features for your screenshots.
+* [![Open-Source Software][oss icon]](https://github.com/lupoDharkael/flameshot) ⭐ 30,922 | 🐛 731 | 🌐 C++ | 📅 2026-09-17 [Flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software.
+* [![Open-Source Software][oss icon]](https://github.com/ksnip/ksnip) ⭐ 3,331 | 🐛 340 | 🌐 C++ | 📅 2026-09-07 [Ksnip](https://github.com/ksnip/ksnip#ksnip) ⭐ 3,331 | 🐛 340 | 🌐 C++ | 📅 2026-09-07 - Ksnip is a Qt-based cross-platform screenshot tool that provides many annotation features for your screenshots.
 * [![Open-Source Software][oss icon]](https://github.com/olav-st/screencloud) ⭐ 647 | 🐛 1 | 🌐 C++ | 📅 2026-05-31 [ScreenCloud](https://screencloud.net/) - ScreenCloud is an easy to use screenshot sharing tool consisting of a cross-platform client and a sharing website.
 * [![Open-Source Software][oss icon]](https://github.com/shutter-project/shutter) ⭐ 644 | 🐛 314 | 🌐 Perl | 📅 2026-08-27 [Shutter](https://shutter-project.org/) - Shutter is a feature-rich screenshot program for Linux based operating systems such as Ubuntu.
 * [![Open-Source Software][oss icon]](https://invent.kde.org/graphics/spectacle) [Spectacle](https://apps.kde.org/spectacle/) - Spectacle is a simple application for capturing desktop screenshots.
@@ -1042,9 +1042,9 @@
 
 #### Video Editor
 
-* [![Open-Source Software][oss icon]](https://github.com/mltframework/shotcut) ⭐ 15,272 | 🐛 49 | 🌐 C++ | 📅 2026-09-22 [Shotcut](https://www.shotcut.org/) - Shotcut is a free, open source, cross-platform video editor with support for hundreds of audio and video formats and codecs and a sleek, intuitive interface.
+* [![Open-Source Software][oss icon]](https://github.com/mltframework/shotcut) ⭐ 15,272 | 🐛 49 | 🌐 C++ | 📅 2026-09-24 [Shotcut](https://www.shotcut.org/) - Shotcut is a free, open source, cross-platform video editor with support for hundreds of audio and video formats and codecs and a sleek, intuitive interface.
 * [![Open-Source Software][oss icon]](https://github.com/olive-editor/olive) ⭐ 9,130 | 🐛 159 | 🌐 C++ | 📅 2024-12-05 [Olive](https://www.olivevideoeditor.org/) - Olive is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
-* [![Open-Source Software][oss icon]](https://github.com/OpenShot/openshot-qt) ⭐ 6,542 | 🐛 428 | 🌐 Python | 📅 2026-09-24 [OpenShot](https://www.openshot.org/) - OpenShot is a free, simple-to-use, feature-rich video editor for Linux.
+* [![Open-Source Software][oss icon]](https://github.com/OpenShot/openshot-qt) ⭐ 6,544 | 🐛 428 | 🌐 Python | 📅 2026-09-24 [OpenShot](https://www.openshot.org/) - OpenShot is a free, simple-to-use, feature-rich video editor for Linux.
 * [![Open-Source Software][oss icon]](https://github.com/jliljebl/flowblade) ⭐ 3,090 | 🐛 56 | 🌐 Python | 📅 2026-09-23 [Flowblade](https://github.com/jliljebl/flowblade) ⭐ 3,090 | 🐛 56 | 🌐 Python | 📅 2026-09-23 - A multitrack non-linear video editor for Linux.
 * [![Open-Source Software][oss icon]](https://github.com/ozmartian/vidcutter) ⭐ 1,990 | 🐛 297 | 🌐 Python | 📅 2025-04-24 [Vidcutter](https://github.com/ozmartian/vidcutter) ⭐ 1,990 | 🐛 297 | 🌐 Python | 📅 2025-04-24 - Cross-platform Qt5 based app for quick and easy video trimming/splitting and merging/joining for simple quick edits.
 * [![Open-Source Software][oss icon]](https://github.com/cinelerra-cv-team/cinelerra-cv) ⭐ 31 | 🐛 3 | 🌐 C | 📅 2025-01-23 [Cinelerra-cv](http://cinelerra-cv.wikidot.com/) - Professional video editing and compositing environment.
@@ -1057,12 +1057,12 @@
 
 #### Browser
 
-* [![Open-Source Software][oss icon]](https://github.com/zen-browser/desktop) ⭐ 44,568 | 🐛 708 | 🌐 C++ | 📅 2026-09-23 [Zen Browser](https://zen-browser.app/) - Zen is a firefox-based browser with the aim of pushing your productivity to a new level.
-* [![Open-Source Software][oss icon]](https://github.com/Eloston/ungoogled-chromium) ⭐ 27,777 | 🐛 184 | 🌐 Python | 📅 2026-09-21 [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) ⭐ 27,777 | 🐛 184 | 🌐 Python | 📅 2026-09-21 - ungoogled-chromium is Google Chromium, sans dependency on Google web services.
-* [![Open-Source Software][oss icon]](https://github.com/brave/brave-browser) ⭐ 23,703 | 🐛 10,858 | 📅 2026-09-24 [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux.
+* [![Open-Source Software][oss icon]](https://github.com/zen-browser/desktop) ⭐ 44,576 | 🐛 710 | 🌐 C++ | 📅 2026-09-23 [Zen Browser](https://zen-browser.app/) - Zen is a firefox-based browser with the aim of pushing your productivity to a new level.
+* [![Open-Source Software][oss icon]](https://github.com/Eloston/ungoogled-chromium) ⭐ 27,778 | 🐛 184 | 🌐 Python | 📅 2026-09-21 [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) ⭐ 27,778 | 🐛 184 | 🌐 Python | 📅 2026-09-21 - ungoogled-chromium is Google Chromium, sans dependency on Google web services.
+* [![Open-Source Software][oss icon]](https://github.com/brave/brave-browser) ⭐ 23,705 | 🐛 10,854 | 📅 2026-09-24 [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux.
 * [![Open-Source Software][oss icon]](https://github.com/qutebrowser/qutebrowser) ⭐ 11,708 | 🐛 1,335 | 🌐 Python | 📅 2026-09-21 [QuteBrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on PyQt5.
-* [![Open-Source Software][oss icon]](https://github.com/minbrowser/min) ⭐ 9,185 | 🐛 606 | 🌐 JavaScript | 📅 2026-08-30 [Min](https://minbrowser.org/min/) - A smarter, faster web browser.
-* [![Open-Source Software][oss icon]](https://github.com/WaterfoxCo/Waterfox) ⭐ 6,310 | 🐛 347 | 🌐 JavaScript | 📅 2026-09-22 [Waterfox](https://www.waterfox.net/) - Fork of Firefox. Waterfox gives you a sane way to browse the web. Built with you, the user, in mind.
+* [![Open-Source Software][oss icon]](https://github.com/minbrowser/min) ⭐ 9,185 | 🐛 607 | 🌐 JavaScript | 📅 2026-08-30 [Min](https://minbrowser.org/min/) - A smarter, faster web browser.
+* [![Open-Source Software][oss icon]](https://github.com/WaterfoxCo/Waterfox) ⭐ 6,313 | 🐛 348 | 🌐 JavaScript | 📅 2026-09-22 [Waterfox](https://www.waterfox.net/) - Fork of Firefox. Waterfox gives you a sane way to browse the web. Built with you, the user, in mind.
 * [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browser with a lot of plugins/apps.
 * [![Open-Source Software][oss icon]](https://chromium.googlesource.com/chromium/src.git) [Chromium](https://www.chromium.org/) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
 * [![Open-Source Software][oss icon]](https://invent.kde.org/network/falkon) [Falkon](https://www.falkon.org/) - Falkon aims to be a lightweight web browser available through all major platforms.
@@ -1082,18 +1082,18 @@
 
 #### Supportive Tool
 
-* [![Open-Source Software][oss icon]](https://github.com/spotDL/spotify-downloader) ⭐ 26,171 | 🐛 106 | 🌐 Python | 📅 2026-09-19 [spotDL](https://github.com/spotDL/spotify-downloader) ⭐ 26,171 | 🐛 106 | 🌐 Python | 📅 2026-09-19 - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+* [![Open-Source Software][oss icon]](https://github.com/spotDL/spotify-downloader) ⭐ 26,172 | 🐛 106 | 🌐 Python | 📅 2026-09-19 [spotDL](https://github.com/spotDL/spotify-downloader) ⭐ 26,172 | 🐛 106 | 🌐 Python | 📅 2026-09-19 - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 * [![Open-Source Software][oss icon]](https://github.com/zerotier/ZeroTierOne) ⭐ 17,125 | 🐛 407 | 🌐 C++ | 📅 2026-09-03 [Zerotier](https://my.zerotier.com) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encryption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
-* [![Open-Source Software][oss icon]](https://github.com/aandrew-me/ytdownloader/) ⭐ 10,391 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-24 [ytDownloader](https://ytdn.netlify.app/) - A cross-platform GUI for yt-dlp with advanced options and a modern UI.
-* [![Open-Source Software][oss icon]](https://github.com/NickvisionApps/Parabolic) ⭐ 7,138 | 🐛 99 | 🌐 C# | 📅 2026-06-29 [Parabolic](https://github.com/NickvisionApps/Parabolic) ⭐ 7,138 | 🐛 99 | 🌐 C# | 📅 2026-06-29 - Download web video and audio.
+* [![Open-Source Software][oss icon]](https://github.com/aandrew-me/ytdownloader/) ⭐ 10,393 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-24 [ytDownloader](https://ytdn.netlify.app/) - A cross-platform GUI for yt-dlp with advanced options and a modern UI.
+* [![Open-Source Software][oss icon]](https://github.com/NickvisionApps/Parabolic) ⭐ 7,144 | 🐛 100 | 🌐 C# | 📅 2026-06-29 [Parabolic](https://github.com/NickvisionApps/Parabolic) ⭐ 7,144 | 🐛 100 | 🌐 C# | 📅 2026-06-29 - Download web video and audio.
 * [![Open-Source Software][oss icon]](https://github.com/Unrud/video-downloader) ⭐ 1,206 | 🐛 199 | 🌐 Python | 📅 2026-09-11 [Video Downloader](https://github.com/Unrud/video-downloader) ⭐ 1,206 | 🐛 199 | 🌐 Python | 📅 2026-09-11 - Download videos from websites like YouTube and many others (based on yt-dlp).
 * [Clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
 
 #### Web Service Client
 
-* [![Open-Source Software][oss icon]](https://github.com/FreeTubeApp/FreeTube) ⭐ 21,978 | 🐛 303 | 🌐 Vue | 📅 2026-09-23 [FreeTube](https://freetubeapp.io/) - FreeTube is a YouTube client for Windows, Mac, and Linux built around using YouTube more privately.
+* [![Open-Source Software][oss icon]](https://github.com/FreeTubeApp/FreeTube) ⭐ 21,982 | 🐛 303 | 🌐 Vue | 📅 2026-09-24 [FreeTube](https://freetubeapp.io/) - FreeTube is a YouTube client for Windows, Mac, and Linux built around using YouTube more privately.
 * [![Open-Source Software][oss icon]](https://github.com/popcorn-official/popcorn-desktop) ⭐ 10,686 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-04 [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) ⭐ 10,686 | 🐛 65 | 🌐 TypeScript | 📅 2026-09-04 - Watch torrent movies instantly.
-* [![Open-Source Software][oss icon]](https://github.com/yang991178/fluent-reader) ⭐ 9,680 | 🐛 392 | 🌐 TypeScript | 📅 2026-09-16 [Fluent Reader](https://hyliu.me/fluent-reader/) - Modern desktop RSS reader built with Electron, React, and Fluent UI.
+* [![Open-Source Software][oss icon]](https://github.com/yang991178/fluent-reader) ⭐ 9,681 | 🐛 392 | 🌐 TypeScript | 📅 2026-09-16 [Fluent Reader](https://hyliu.me/fluent-reader/) - Modern desktop RSS reader built with Electron, React, and Fluent UI.
 * [![Open-Source Software][oss icon]](https://github.com/pystardust/ytfzf) ⭐ 4,153 | 🐛 66 | 🌐 Shell | 📅 2024-09-27 [ytfzf](https://github.com/pystardust/ytfzf) ⭐ 4,153 | 🐛 66 | 🌐 Shell | 📅 2024-09-27 - Terminal Youtube/Odysee client with thumbnails.
 * [![Open-Source Software][oss icon]](https://github.com/streamlink/streamlink-twitch-gui) ⭐ 2,872 | 🐛 25 | 🌐 JavaScript | 📅 2026-09-14 [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - A multi platform Twitch.tv browser for [Streamlink](https://streamlink.github.io/).
 * [![Open-Source Software][oss icon]](https://github.com/martinrotter/rssguard) ⭐ 2,762 | 🐛 75 | 🌐 C++ | 📅 2026-09-24 [RSS Guard](https://github.com/martinrotter/rssguard) ⭐ 2,762 | 🐛 75 | 🌐 C++ | 📅 2026-09-24 - Feed reader which supports RSS/ATOM/JSON and many web-based feed services.
@@ -1108,7 +1108,7 @@
 
 #### Accounting
 
-* [![Open-Source Software][oss icon]](https://github.com/simonmichael/hledger) ⭐ 4,731 | 🐛 324 | 🌐 Haskell | 📅 2026-09-23 [hledger](https://hledger.org/) - Easy-to-use command-line/curses/web plaintext accounting tool.
+* [![Open-Source Software][oss icon]](https://github.com/simonmichael/hledger) ⭐ 4,731 | 🐛 324 | 🌐 Haskell | 📅 2026-09-24 [hledger](https://hledger.org/) - Easy-to-use command-line/curses/web plaintext accounting tool.
 * [![Open-Source Software][oss icon]](https://github.com/Gnucash/) [GnuCash](https://www.gnucash.org/) - GnuCash is a free software accounting program that implements a double-entry bookkeeping system. It was initially aimed at developing capabilities similar to Intuit, Inc.'s Quicken application, but also has features for small business accounting.
 * [![Open-Source Software][oss icon]](https://code.launchpad.net/homebank) [HomeBank](https://homebank.free.fr/en/index.php) - HomeBank is a free software that will assist you to manage your personal accounting.
 * [![Open-Source Software][oss icon]](https://invent.kde.org/office/kmymoney) [KMyMoney](https://kmymoney.org/) - KMyMoney is the personal finance manager by KDE. Its operation is similar to Microsoft Money and Quicken.
@@ -1123,9 +1123,9 @@
 
 #### LaTeX
 
-* [![Open-Source Software][oss icon]](https://github.com/texstudio-org/texstudio) ⭐ 3,645 | 🐛 439 | 🌐 C++ | 📅 2026-09-21 [TeXstudio](https://www.texstudio.org/) - TeXstudio's goal is to make writing LaTeX documents as easy and comfortable as possible.
+* [![Open-Source Software][oss icon]](https://github.com/texstudio-org/texstudio) ⭐ 3,646 | 🐛 439 | 🌐 C++ | 📅 2026-09-21 [TeXstudio](https://www.texstudio.org/) - TeXstudio's goal is to make writing LaTeX documents as easy and comfortable as possible.
 * [![Open-Source Software][oss icon]](https://github.com/alexandervdm/gummi) ⭐ 803 | 🐛 93 | 🌐 C | 📅 2024-11-21 [Gummi](https://github.com/alexandervdm/gummi) ⭐ 803 | 🐛 93 | 🌐 C | 📅 2024-11-21 - Simple latex editor with templates, spell check, and wizards.
-* [![Open-Source Software][oss icon]](https://github.com/TeXworks/texworks) ⭐ 781 | 🐛 227 | 🌐 C++ | 📅 2026-09-24 [TeXworks](https://www.tug.org/texworks/) - TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean, simple interface accessible to casual and non-technical users.
+* [![Open-Source Software][oss icon]](https://github.com/TeXworks/texworks) ⭐ 781 | 🐛 228 | 🌐 C++ | 📅 2026-09-24 [TeXworks](https://www.tug.org/texworks/) - TeXworks is an environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean, simple interface accessible to casual and non-technical users.
 * [![Open-Source Software][oss icon]](https://gitlab.gnome.org/swilmet/gnome-latex) [GNOME LaTeX](https://gitlab.gnome.org/swilmet/gnome-latex) - GNOME LaTeX is a LaTeX editor for the GNOME desktop.
 * [![Open-Source Software][oss icon]](https://www.lyx.org/trac/browser) [LyX](https://www.lyx.org/) - Mature document editor that renders into LaTeX.
 * [![Open-Source Software][oss icon]](https://www.tug.org/texlive/build.html) [TexLive](https://www.tug.org/texlive/) - TeX Live is an easy way to get up and running with the TeX document production system.
@@ -1134,7 +1134,7 @@
 
 #### Markdown
 
-* [![Open-Source Software][oss icon]](https://github.com/marktext/marktext) ⭐ 61,807 | 🐛 384 | 🌐 TypeScript | 📅 2026-09-24 [MarkText](https://github.com/marktext/marktext) ⭐ 61,807 | 🐛 384 | 🌐 TypeScript | 📅 2026-09-24 - MarkText is a free and open-source realtime preview markdown editor which support both CommonMark Spec and GitHub Flavored Markdown Spec. It is a concise text editor, dedicated to improving your writing efficiency.
+* [![Open-Source Software][oss icon]](https://github.com/marktext/marktext) ⭐ 61,818 | 🐛 390 | 🌐 TypeScript | 📅 2026-09-24 [MarkText](https://github.com/marktext/marktext) ⭐ 61,818 | 🐛 390 | 🌐 TypeScript | 📅 2026-09-24 - MarkText is a free and open-source realtime preview markdown editor which support both CommonMark Spec and GitHub Flavored Markdown Spec. It is a concise text editor, dedicated to improving your writing efficiency.
 * [![Open-Source Software][oss icon]](https://github.com/wereturtle/ghostwriter) ⭐ 4,987 | 🐛 22 | 🌐 C++ | 📅 2026-09-23 [Ghost Writer](https://ghostwriter.kde.org/) - A distraction-free Markdown editor for Windows and Linux.
 * [![Open-Source Software][oss icon]](https://github.com/retext-project/retext) ⭐ 2,058 | 🐛 77 | 🌐 Python | 📅 2026-09-24 [Retext](https://github.com/retext-project/retext) ⭐ 2,058 | 🐛 77 | 🌐 Python | 📅 2026-09-24 - A Simple but powerful editor for Markdown and reStructuredText.
 * [![Open-Source Software][oss icon]](https://github.com/jamiemcg/remarkable) ⭐ 2,039 | 🐛 80 | 🌐 Python | 📅 2024-09-22 [Remarkable](https://remarkableapp.github.io/) - A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM).
@@ -1155,7 +1155,7 @@
 
 * [![Open-Source Software][oss icon]](https://github.com/federico-terzi/espanso) ⭐ 14,532 | 🐛 543 | 🌐 Rust | 📅 2026-09-20 [espanso](https://espanso.org/) - Cross-platform Text Expander written in Rust.
 * [![Open-Source Software][oss icon]](https://github.com/autokey/autokey) ⭐ 3,894 | 🐛 326 | 🌐 Python | 📅 2026-09-24 [Autokey](https://github.com/autokey/autokey) ⭐ 3,894 | 🐛 326 | 🌐 Python | 📅 2026-09-24 - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these.
-* [![Open-Source Software][oss icon]](https://github.com/rafaelmardojai/blanket) ⭐ 2,128 | 🐛 61 | 🌐 Python | 📅 2026-09-04 [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/) - Improve focus and increase your productivity by listening to different sounds.
+* [![Open-Source Software][oss icon]](https://github.com/rafaelmardojai/blanket) ⭐ 2,131 | 🐛 61 | 🌐 Python | 📅 2026-09-04 [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/) - Improve focus and increase your productivity by listening to different sounds.
 * [![Open-Source Software][oss icon]](https://github.com/Jmgr/actiona) ⭐ 738 | 🐛 45 | 🌐 C++ | 📅 2026-05-13 [Actiona](https://wiki.actiona.tools/doku.php?id=:en:start) - An utility for task automation Ubuntu/Linux. (Previously Actionaz)
 * [![Open-Source Software][oss icon]](https://github.com/robiot/xclicker) ⭐ 637 | 🐛 26 | 🌐 C | 📅 2026-08-23 [XClicker](https://xclicker.xyz/) - A blazing fast gui autoclicker for linux.
 * [![Open-Source Software][oss icon]](https://github.com/mautosoft/maxautoclicker/) ⭐ 11 | 🐛 0 | 📅 2024-03-08 [Max Auto Clicker](https://maxautoclicker.blogspot.com/) - Automate your mouse clicks easily with this awesome cross-platform application (for Windows and Linux Desktops).
@@ -1171,9 +1171,9 @@
 #### Local Search
 
 * [![Open-Source Software][oss icon]](https://github.com/KELiON/cerebro) ⭐ 8,563 | 🐛 77 | 🌐 JavaScript | 📅 2026-09-13 [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain / MacOS-Spotlight alternative.
-* [![Open-Source Software][oss icon]](https://github.com/albertlauncher/albert) ⭐ 7,998 | 🐛 6 | 🌐 C++ | 📅 2026-09-13 [Albert](https://albertlauncher.github.io/) - An awesome keyboard launcher for the Linux desktop.
-* [![Open-Source Software][oss icon]](https://github.com/Ulauncher/Ulauncher/) ⭐ 4,513 | 🐛 86 | 🌐 Python | 📅 2026-09-22 [Ulauncher](https://ulauncher.io/) - Ulauncher is a fast application launcher for Linux. It's is written in Python, using GTK+.
-* [![Open-Source Software][oss icon]](https://github.com/cboxdoerfer/fsearch) ⭐ 4,376 | 🐛 175 | 🌐 C | 📅 2026-09-22 [fsearch](https://github.com/cboxdoerfer/fsearch) ⭐ 4,376 | 🐛 175 | 🌐 C | 📅 2026-09-22 - A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support.
+* [![Open-Source Software][oss icon]](https://github.com/albertlauncher/albert) ⭐ 7,999 | 🐛 6 | 🌐 C++ | 📅 2026-09-13 [Albert](https://albertlauncher.github.io/) - An awesome keyboard launcher for the Linux desktop.
+* [![Open-Source Software][oss icon]](https://github.com/Ulauncher/Ulauncher/) ⭐ 4,514 | 🐛 86 | 🌐 Python | 📅 2026-09-22 [Ulauncher](https://ulauncher.io/) - Ulauncher is a fast application launcher for Linux. It's is written in Python, using GTK+.
+* [![Open-Source Software][oss icon]](https://github.com/cboxdoerfer/fsearch) ⭐ 4,377 | 🐛 175 | 🌐 C | 📅 2026-09-22 [fsearch](https://github.com/cboxdoerfer/fsearch) ⭐ 4,377 | 🐛 175 | 🌐 C | 📅 2026-09-22 - A fast file search utility for Unix-like systems based on GTK+3. Wildcard support, RegEx support, Filter support.
 * [![Open-Source Software][oss icon]](https://github.com/DoTheEvo/ANGRYsearch) ⭐ 1,161 | 🐛 45 | 🌐 Python | 📅 2024-07-07 [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) ⭐ 1,161 | 🐛 45 | 🌐 Python | 📅 2024-07-07 - Linux file search, instant results as you type.
 * [![Open-Source Software][oss icon]](https://github.com/p-e-w/plotinus) ⭐ 1,023 | 🐛 17 | 🌐 Vala | 📅 2021-05-24 [Plotinus](https://github.com/p-e-w/plotinus) ⭐ 1,023 | 🐛 17 | 🌐 Vala | 📅 2021-05-24 - A searchable command palette in every modern GTK+ application.
 * [![Open-Source Software][oss icon]](https://code.launchpad.net/catfish-search) [Catfish](https://launchpad.net/catfish-search) - Catfish is a versatile file searching tool.
@@ -1181,7 +1181,7 @@
 
 #### Miscellaneous
 
-* [![Open-Source Software][oss icon]](https://github.com/hluk/CopyQ) ⭐ 12,303 | 🐛 400 | 🌐 C++ | 📅 2026-09-20 [CopyQ](https://hluk.github.io/CopyQ/) -CopyQ is advanced clipboard manager with editing and scripting features.
+* [![Open-Source Software][oss icon]](https://github.com/hluk/CopyQ) ⭐ 12,303 | 🐛 401 | 🌐 C++ | 📅 2026-09-20 [CopyQ](https://hluk.github.io/CopyQ/) -CopyQ is advanced clipboard manager with editing and scripting features.
 * [![Open-Source Software][oss icon]](https://github.com/jonls/redshift) ⚠️ Archived [Redshift](http://jonls.dk/redshift/) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 * [![Open-Source Software][oss icon]](https://github.com/jarun/bcal) ⭐ 701 | 🐛 0 | 🌐 C | 📅 2026-09-17 [bcal](https://github.com/jarun/bcal) ⭐ 701 | 🐛 0 | 🌐 C | 📅 2026-09-17 - Perform storage conversions and calculations.
 * [![Open-Source Software][oss icon]](https://github.com/jml/undistract-me) ⭐ 550 | 🐛 34 | 🌐 Shell | 📅 2022-11-09 [Undistract me](https://github.com/jml/undistract-me) ⭐ 550 | 🐛 34 | 🌐 Shell | 📅 2022-11-09 - Notifies you when long-running terminal commands complete.
@@ -1194,19 +1194,19 @@
 
 #### Note Taking
 
-* [![Open-Source Software][oss icon]](https://github.com/toeverything/AFFiNE) ⭐ 72,930 | 🐛 757 | 🌐 TypeScript | 📅 2026-09-23 [AFFiNE](https://affine.pro/download) - Open source Alternative to Notion and Miro, A multi-platform, open-source, local-first, personal knowledge management(pkm) tool.
-* [![Open-Source Software][oss icon]](https://github.com/laurent22/joplin) ⭐ 56,476 | 🐛 646 | 🌐 TypeScript | 📅 2026-09-23 [Joplin](https://joplinapp.org/) - A note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
-* [![Open-Source Software][oss icon]](https://github.com/logseq/logseq) ⭐ 45,045 | 🐛 952 | 🌐 Clojure | 📅 2026-09-24 [Logseq](https://logseq.com/) - Logseq is a privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden.
-* [![Open-Source Software][oss icon]](https://github.com/streetwriters/notesnook) ⭐ 14,628 | 🐛 1,052 | 🌐 TypeScript | 📅 2026-09-24 [Notesnook](https://notesnook.com/) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-* [![Open-Source Software][oss icon]](https://github.com/anyproto/anytype-ts) ⭐ 8,846 | 🐛 215 | 🌐 TypeScript | 📅 2026-09-22 [Anytype](https://download.anytype.io/) - A multi-platform, open-source, local-first, personal knowledge base tool.
-* [![Open-Source Software][oss icon]](https://github.com/pbek/QOwnNotes) ⭐ 5,888 | 🐛 67 | 🌐 C++ | 📅 2026-09-24 [QOwnNotes](https://www.qownnotes.org/) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
-* [![Open-Source Software][oss icon]](https://github.com/alainm23/planify) ⭐ 5,704 | 🐛 181 | 🌐 Vala | 📅 2026-09-21 [Planify](https://github.com/alainm23/planify) ⭐ 5,704 | 🐛 181 | 🌐 Vala | 📅 2026-09-21 - Task manager with Todoist and Nextcloud support designed for GNU/Linux.
+* [![Open-Source Software][oss icon]](https://github.com/toeverything/AFFiNE) ⭐ 72,942 | 🐛 758 | 🌐 TypeScript | 📅 2026-09-23 [AFFiNE](https://affine.pro/download) - Open source Alternative to Notion and Miro, A multi-platform, open-source, local-first, personal knowledge management(pkm) tool.
+* [![Open-Source Software][oss icon]](https://github.com/laurent22/joplin) ⭐ 56,479 | 🐛 650 | 🌐 TypeScript | 📅 2026-09-23 [Joplin](https://joplinapp.org/) - A note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+* [![Open-Source Software][oss icon]](https://github.com/logseq/logseq) ⭐ 45,045 | 🐛 948 | 🌐 Clojure | 📅 2026-09-24 [Logseq](https://logseq.com/) - Logseq is a privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden.
+* [![Open-Source Software][oss icon]](https://github.com/streetwriters/notesnook) ⭐ 14,631 | 🐛 1,052 | 🌐 TypeScript | 📅 2026-09-24 [Notesnook](https://notesnook.com/) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+* [![Open-Source Software][oss icon]](https://github.com/anyproto/anytype-ts) ⭐ 8,848 | 🐛 215 | 🌐 TypeScript | 📅 2026-09-22 [Anytype](https://download.anytype.io/) - A multi-platform, open-source, local-first, personal knowledge base tool.
+* [![Open-Source Software][oss icon]](https://github.com/pbek/QOwnNotes) ⭐ 5,886 | 🐛 67 | 🌐 C++ | 📅 2026-09-24 [QOwnNotes](https://www.qownnotes.org/) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
+* [![Open-Source Software][oss icon]](https://github.com/alainm23/planify) ⭐ 5,704 | 🐛 182 | 🌐 Vala | 📅 2026-09-21 [Planify](https://github.com/alainm23/planify) ⭐ 5,704 | 🐛 182 | 🌐 Vala | 📅 2026-09-21 - Task manager with Todoist and Nextcloud support designed for GNU/Linux.
 * [![Open-Source Software][oss icon]](https://github.com/nuttyartist/notes) ⭐ 4,268 | 🐛 137 | 🌐 C++ | 📅 2026-05-15 [Notes](https://www.get-notes.com/) - A clean simple note taking app for Linux.
 * [![Open-Source Software][oss icon]](https://github.com/BoostIO/BoostNote-App) ⚠️ Archived [Boostnote](https://boostnote.io/) - Boostnote is an open source note-taking app made for programmers just like you.
 * [![Open-Source Software][oss icon]](https://github.com/giuspen/cherrytree) ⭐ 3,951 | 🐛 978 | 🌐 C++ | 📅 2026-09-19 [Cherrytree](https://www.giuspen.com/cherrytree/) - A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file.
 * [![Open-Source Software][oss icon]](https://github.com/klaussinani/tusk) ⭐ 3,152 | 🐛 191 | 🌐 JavaScript | 📅 2026-06-24 [Tusk](https://klaudiosinani.github.io/tusk/) - Refined Evernote desktop app.
 * [![Open-Source Software][oss icon]](https://github.com/TriliumNext/Notes) ⚠️ Archived [TriliumNext Notes](https://github.com/TriliumNext/Notes) ⚠️ Archived - TriliumNext Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
-* [![Open-Source Software][oss icon]](https://github.com/dvorka/mindforger) ⭐ 2,721 | 🐛 622 | 🌐 C++ | 📅 2026-09-23 [Mindforger](https://www.mindforger.com/) - Thinking notebook and Markdown editor.
+* [![Open-Source Software][oss icon]](https://github.com/dvorka/mindforger) ⭐ 2,721 | 🐛 620 | 🌐 C++ | 📅 2026-09-24 [Mindforger](https://www.mindforger.com/) - Thinking notebook and Markdown editor.
 * [![Open-Source Software][oss icon]](https://github.com/wizteam/wizqtclient) ⭐ 2,660 | 🐛 307 | 🌐 C | 📅 2021-05-26 [WizNote](https://github.com/wizteam/wizqtclient) ⭐ 2,660 | 🐛 307 | 🌐 C | 📅 2021-05-26 - A cross-platform cloud based note-taking client.
 * [![Open-Source Software][oss icon]](https://github.com/patrikx3/onenote) ⭐ 2,079 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-06 [OneNote](https://www.corifeus.com/onenote) - Linux Electron OneNote.
 * [![Open-Source Software][oss icon]](https://github.com/Daniele-rolli/Beaver-Notes) ⭐ 1,343 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-20 [Beaver Notes](https://beavernotes.com) - A multi-platform, open-source, privacy-first, community-driven, note-taking app and personal knowledge manager.
@@ -1225,12 +1225,12 @@
 
 #### Time and Task
 
-* [![Open-Source Software][oss icon]](https://github.com/johannesjo/super-productivity) ⭐ 22,227 | 🐛 1,454 | 🌐 TypeScript | 📅 2026-09-24 [Super Productivity](https://super-productivity.com/) - The simple free flexible ToDo List / Time Tracker / personal Jira and Github Task Manager.
-* [![Open-Source Software][oss icon]](https://github.com/klaussinani/taskbook) ⭐ 9,345 | 🐛 102 | 🌐 JavaScript | 📅 2025-11-03 [Taskbook](https://github.com/klaussinani/taskbook) ⭐ 9,345 | 🐛 102 | 🌐 JavaScript | 📅 2025-11-03 - Tasks, boards & notes for the command-line habitat.
-* [![Open-Source Software][oss icon]](https://github.com/GothenburgBitFactory/taskwarrior) ⭐ 6,085 | 🐛 441 | 🌐 C++ | 📅 2026-09-22 [TaskWarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from the command line.
-* [![Open-Source Software][oss icon]](https://github.com/codito/gnome-pomodoro) ⭐ 2,257 | 🐛 57 | 🌐 Vala | 📅 2026-09-20 [GNOME Pomodoro](https://gnomepomodoro.org/#download) - A full-featured pomodoro timer for GNOME.
-* [![Open-Source Software][oss icon]](https://github.com/ransome1/sleek) ⭐ 2,033 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-15 [sleek](https://github.com/ransome1/sleek) ⭐ 2,033 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-15 - Cross platform todo manager based on the todo.txt syntax.
-* [![Open-Source Software][oss icon]](https://github.com/tom-james-watson/breaktimer-app/) ⭐ 1,578 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-10 [BreakTimer](https://breaktimer.app/) - BreakTimer is a cross platform desktop application with nice UI for managing and enforcing periodic breaks.
+* [![Open-Source Software][oss icon]](https://github.com/johannesjo/super-productivity) ⭐ 22,236 | 🐛 1,429 | 🌐 TypeScript | 📅 2026-09-24 [Super Productivity](https://super-productivity.com/) - The simple free flexible ToDo List / Time Tracker / personal Jira and Github Task Manager.
+* [![Open-Source Software][oss icon]](https://github.com/klaussinani/taskbook) ⭐ 9,346 | 🐛 102 | 🌐 JavaScript | 📅 2025-11-03 [Taskbook](https://github.com/klaussinani/taskbook) ⭐ 9,346 | 🐛 102 | 🌐 JavaScript | 📅 2025-11-03 - Tasks, boards & notes for the command-line habitat.
+* [![Open-Source Software][oss icon]](https://github.com/GothenburgBitFactory/taskwarrior) ⭐ 6,086 | 🐛 441 | 🌐 C++ | 📅 2026-09-22 [TaskWarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from the command line.
+* [![Open-Source Software][oss icon]](https://github.com/codito/gnome-pomodoro) ⭐ 2,258 | 🐛 57 | 🌐 Vala | 📅 2026-09-20 [GNOME Pomodoro](https://gnomepomodoro.org/#download) - A full-featured pomodoro timer for GNOME.
+* [![Open-Source Software][oss icon]](https://github.com/ransome1/sleek) ⭐ 2,034 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-15 [sleek](https://github.com/ransome1/sleek) ⭐ 2,034 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-15 - Cross platform todo manager based on the todo.txt syntax.
+* [![Open-Source Software][oss icon]](https://github.com/tom-james-watson/breaktimer-app/) ⭐ 1,579 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-10 [BreakTimer](https://breaktimer.app/) - BreakTimer is a cross platform desktop application with nice UI for managing and enforcing periodic breaks.
 * [![Open-Source Software][oss icon]](https://github.com/todotxt/todo.txt-android) ⚠️ Archived [Todo.txt](http://todotxt.org/) - Todo.txt is a set of focused editors which help you manage your tasks with as few keystrokes and taps possible.
 * [![Open-Source Software][oss icon]](https://github.com/kamhix/todoist-linux) ⭐ 184 | 🐛 35 | 🌐 JavaScript | 📅 2022-12-10 [Todoist](https://github.com/kamhix/todoist-linux) ⭐ 184 | 🐛 35 | 🌐 JavaScript | 📅 2022-12-10 - Unofficial client of Todoist, the cross-platform to-do manager with mobile apps, great UI and has some optional premium features.
 * [![Open-Source Software][oss icon]](https://github.com/JMoerman/Go-For-It) ⭐ 154 | 🐛 49 | 🌐 Vala | 📅 2026-08-06 [Go For It](https://github.com/JMoerman/Go-For-It) ⭐ 154 | 🐛 49 | 🌐 Vala | 📅 2026-08-06 - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.
@@ -1247,7 +1247,7 @@
 
 #### Time and Usage Tracker
 
-* [![Open-Source Software][oss icon]](https://github.com/ActivityWatch/activitywatch) ⭐ 18,970 | 🐛 185 | 🌐 Python | 📅 2026-09-19 [ActivityWatch](https://activitywatch.net/) - ActivityWatch is an app that automatically tracks how you spend time on your devices.
+* [![Open-Source Software][oss icon]](https://github.com/ActivityWatch/activitywatch) ⭐ 18,974 | 🐛 185 | 🌐 Python | 📅 2026-09-24 [ActivityWatch](https://activitywatch.net/) - ActivityWatch is an app that automatically tracks how you spend time on your devices.
 * [![Open-Source Software][oss icon]](https://github.com/hamaluik/timecop) ⭐ 884 | 🐛 47 | 🌐 Dart | 📅 2026-08-17 [Time Cop](https://timecop.app/en/) - A time tracking app that respects your privacy and gets the job done without getting too fancy.
 * [![Nonfree][freeware icon]](https://toggl.com/track/)[Toggl Track](https://flathub.org/apps/details/com.toggl.TogglDesktop/) - Simple and Intuitive Time Tracking Software with cloud sync.
 
@@ -1260,7 +1260,7 @@
 
 ### Proxy
 
-* [![Open-Source Software][oss icon]](https://github.com/mitmproxy/mitmproxy) ⭐ 45,142 | 🐛 496 | 🌐 Python | 📅 2026-09-10 [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy.
+* [![Open-Source Software][oss icon]](https://github.com/mitmproxy/mitmproxy) ⭐ 45,144 | 🐛 496 | 🌐 Python | 📅 2026-09-10 [mitmproxy](https://mitmproxy.org/) - mitmproxy is a free and open source interactive HTTPS proxy.
 * [![Open-Source Software][oss icon]](https://github.com/haad/proxychains) ⭐ 7,960 | 🐛 18 | 🌐 C | 📅 2024-06-08 [ProxyChains](https://proxychains.sourceforge.net/) - A tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
 * [![Open-Source Software][oss icon]](https://github.com/shadowsocks/shadowsocks-qt5) ⚠️ Archived [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
 * [![Open-Source Software][oss icon]](https://sourceforge.net/projects/ijbswa/) [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
@@ -1273,12 +1273,12 @@
 
 #### Compartmentalization
 
-* [![Open-Source Software][oss icon]](https://github.com/quickemu-project/quickemu) ⭐ 16,256 | 🐛 70 | 🌐 Shell | 📅 2026-09-14 [Quickemu](https://github.com/quickemu-project/quickemu) ⭐ 16,256 | 🐛 70 | 🌐 Shell | 📅 2026-09-14 - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-* [![Open-Source Software][oss icon]](https://github.com/89luca89/distrobox) ⭐ 13,005 | 🐛 154 | 🌐 Go | 📅 2026-09-17 [Distrobox](https://distrobox.it/) - Use any linux distribution inside your terminal.
-* [![Open-Source Software][oss icon]](https://github.com/netblue30/firejail) ⭐ 7,666 | 🐛 525 | 🌐 C | 📅 2026-09-20 [Firejail](https://firejail.wordpress.com/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using [Linux namespaces](https://lwn.net/Articles/531114/) and [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/).
-* [![Open-Source Software][oss icon]](https://github.com/containers/toolbox) ⭐ 3,506 | 🐛 252 | 🌐 Go | 📅 2026-09-08 [Toolbx](https://containertoolbx.org/) - Tool for containerized command line environments on Linux.
-* [![Open-Source Software][oss icon]](https://github.com/virt-manager/virt-manager) ⭐ 3,255 | 🐛 158 | 🌐 Python | 📅 2026-09-04 [Virtual Machine Manager](https://virt-manager.org/) - Desktop tool for managing virtual machines via libvirt.
-* [![Open-Source Software][oss icon]](https://github.com/nanovms/ops/) ⭐ 1,517 | 🐛 143 | 🌐 Go | 📅 2026-09-22 [ops](https://ops.city/) - OPS is a tool that builds, runs and deploys ordinary linux applications as unikernels.
+* [![Open-Source Software][oss icon]](https://github.com/quickemu-project/quickemu) ⭐ 16,273 | 🐛 70 | 🌐 Shell | 📅 2026-09-14 [Quickemu](https://github.com/quickemu-project/quickemu) ⭐ 16,273 | 🐛 70 | 🌐 Shell | 📅 2026-09-14 - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+* [![Open-Source Software][oss icon]](https://github.com/89luca89/distrobox) ⭐ 13,006 | 🐛 155 | 🌐 Go | 📅 2026-09-17 [Distrobox](https://distrobox.it/) - Use any linux distribution inside your terminal.
+* [![Open-Source Software][oss icon]](https://github.com/netblue30/firejail) ⭐ 7,667 | 🐛 527 | 🌐 C | 📅 2026-09-20 [Firejail](https://firejail.wordpress.com/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using [Linux namespaces](https://lwn.net/Articles/531114/) and [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/).
+* [![Open-Source Software][oss icon]](https://github.com/containers/toolbox) ⭐ 3,509 | 🐛 252 | 🌐 Go | 📅 2026-09-08 [Toolbx](https://containertoolbx.org/) - Tool for containerized command line environments on Linux.
+* [![Open-Source Software][oss icon]](https://github.com/virt-manager/virt-manager) ⭐ 3,256 | 🐛 158 | 🌐 Python | 📅 2026-09-04 [Virtual Machine Manager](https://virt-manager.org/) - Desktop tool for managing virtual machines via libvirt.
+* [![Open-Source Software][oss icon]](https://github.com/nanovms/ops/) ⭐ 1,518 | 🐛 143 | 🌐 Go | 📅 2026-09-22 [ops](https://ops.city/) - OPS is a tool that builds, runs and deploys ordinary linux applications as unikernels.
 * [![Open-Source Software][oss icon]](https://github.com/marhkb/pods) ⭐ 1,093 | 🐛 41 | 🌐 Rust | 📅 2026-07-23 [Pods](https://github.com/marhkb/pods) ⭐ 1,093 | 🐛 41 | 🌐 Rust | 📅 2026-07-23 - Interact with Podman using an intuitive desktop application.
 * [![Open-Source Software][oss icon]](https://github.com/AtomsDevs/Atoms) ⭐ 447 | 🐛 1 | 🌐 Vala | 📅 2026-09-01 [Atoms](https://github.com/AtomsDevs/Atoms) ⭐ 447 | 🐛 1 | 🌐 Vala | 📅 2026-09-01 - Easily manage Linux Chroot(s) and Containers with Atoms.
 * [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gnome-boxes) [GNOME Boxes](https://apps.gnome.org/app/org.gnome.Boxes/) - Virtualization made simple.
@@ -1288,24 +1288,24 @@
 
 #### Firewall
 
-* [![Open-Source Software][oss icon]](https://github.com/evilsocket/opensnitch) ⭐ 14,087 | 🐛 194 | 🌐 Python | 📅 2026-07-26 [OpenSnitch](https://github.com/evilsocket/opensnitch) ⭐ 14,087 | 🐛 194 | 🌐 Python | 📅 2026-07-26 - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
-* [![Open-Source Software][oss icon]](https://github.com/safing/portmaster) ⭐ 13,793 | 🐛 101 | 🌐 Go | 📅 2026-09-10 [Portmaster](https://safing.io/) - Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer's network activity.
-* [![Open-Source Software][oss icon]](https://github.com/bunkerity/bunkerweb) ⭐ 10,997 | 🐛 153 | 🌐 Python | 📅 2026-09-24 [BunkerWeb](https://www.bunkerweb.io) - BunkerWeb is a next-generation Web Application Firewall (WAF).
+* [![Open-Source Software][oss icon]](https://github.com/evilsocket/opensnitch) ⭐ 14,089 | 🐛 194 | 🌐 Python | 📅 2026-07-26 [OpenSnitch](https://github.com/evilsocket/opensnitch) ⭐ 14,089 | 🐛 194 | 🌐 Python | 📅 2026-07-26 - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
+* [![Open-Source Software][oss icon]](https://github.com/safing/portmaster) ⭐ 13,804 | 🐛 101 | 🌐 Go | 📅 2026-09-10 [Portmaster](https://safing.io/) - Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer's network activity.
+* [![Open-Source Software][oss icon]](https://github.com/bunkerity/bunkerweb) ⭐ 10,999 | 🐛 156 | 🌐 Python | 📅 2026-09-24 [BunkerWeb](https://www.bunkerweb.io) - BunkerWeb is a next-generation Web Application Firewall (WAF).
 * [![Open-Source Software][oss icon]](https://github.com/firehol/firehol) ⭐ 1,603 | 🐛 237 | 🌐 Shell | 📅 2026-03-31 [FireHOL](https://firehol.org) - Linux firewall (`iptables`) manager for humans.
 * [![Open-Source Software][oss icon]](https://github.com/firewalld/firewalld) ⭐ 1,044 | 🐛 299 | 🌐 Python | 📅 2026-09-17 [Firewalld](https://github.com/firewalld/firewalld) ⭐ 1,044 | 🐛 299 | 🌐 Python | 📅 2026-09-17 - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
 * [![Open-Source Software][oss icon]](https://github.com/costales/gufw) ⭐ 219 | 🐛 8 | 🌐 Python | 📅 2025-11-22 [GuFW](https://github.com/costales/gufw) ⭐ 219 | 🐛 8 | 🌐 Python | 📅 2025-11-22 - One of the easiest firewalls in the world of Linux.
 
 #### Network Analysis
 
-* [![Open-Source Software][oss icon]](https://github.com/gcla/termshark) ⭐ 10,020 | 🐛 51 | 🌐 Go | 📅 2024-04-30 [Termshark](https://termshark.io/) - A terminal UI for tshark, inspired by Wireshark.
+* [![Open-Source Software][oss icon]](https://github.com/gcla/termshark) ⭐ 10,021 | 🐛 51 | 🌐 Go | 📅 2024-04-30 [Termshark](https://termshark.io/) - A terminal UI for tshark, inspired by Wireshark.
 * [![Open-Source Software][oss icon]](https://www.tcpdump.org/#source) [Tcpdump](https://www.tcpdump.org/) - TCP Debugging/Capture Tool.
 * [![Open-Source Software][oss icon]](https://gitlab.com/wireshark/wireshark/-/tree/master) [Wireshark](https://www.wireshark.org/) - Wireshark is the world's foremost network protocol analyzer. It lets you see what's happening on your network at a microscopic level. It is the de facto (and often de jure) standard across many industries and educational institutions.
 
 #### Password Manager
 
-* [![Open-Source Software][oss icon]](https://github.com/dani-garcia/vaultwarden) ⭐ 68,095 | 🐛 84 | 🌐 Rust | 📅 2026-09-23 [VaultWarden](https://github.com/dani-garcia/vaultwarden) ⭐ 68,095 | 🐛 84 | 🌐 Rust | 📅 2026-09-23 - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs.
-* [![Open-Source Software][oss icon]](https://github.com/keepassxreboot/keepassxc) ⭐ 28,928 | 🐛 891 | 🌐 C++ | 📅 2026-09-23 [KeePassXC](https://keepassxc.org/) - Cross platform password manager. A Community-maintained fork of KeePassX.
-* [![Open-Source Software][oss icon]](https://github.com/keeweb/keeweb) ⭐ 12,998 | 🐛 441 | 🌐 HTML | 📅 2026-05-08 [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass.
+* [![Open-Source Software][oss icon]](https://github.com/dani-garcia/vaultwarden) ⭐ 68,113 | 🐛 86 | 🌐 Rust | 📅 2026-09-23 [VaultWarden](https://github.com/dani-garcia/vaultwarden) ⭐ 68,113 | 🐛 86 | 🌐 Rust | 📅 2026-09-23 - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs.
+* [![Open-Source Software][oss icon]](https://github.com/keepassxreboot/keepassxc) ⭐ 28,936 | 🐛 891 | 🌐 C++ | 📅 2026-09-23 [KeePassXC](https://keepassxc.org/) - Cross platform password manager. A Community-maintained fork of KeePassX.
+* [![Open-Source Software][oss icon]](https://github.com/keeweb/keeweb) ⭐ 12,999 | 🐛 441 | 🌐 HTML | 📅 2026-05-08 [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass.
 * [![Open-Source Software][oss icon]](https://github.com/gopasspw/gopass) ⭐ 7,221 | 🐛 87 | 🌐 Go | 📅 2026-09-23 [gopass](https://www.gopass.pw/) - The slightly more awesome standard unix password manager for teams.
 * [![Open-Source Software][oss icon]](https://github.com/buttercup/buttercup-desktop) ⚠️ Archived [Buttercup](https://buttercup.pw/) - Buttercup is a free, open-source and cross-platform password manager, built on NodeJS with Typescript.
 * [![Open-Source Software][oss icon]](https://github.com/padloc/padloc) ⭐ 2,923 | 🐛 105 | 🌐 JavaScript | 📅 2025-03-29 [Padloc](https://padloc.app/) - A modern, open source password manager for individuals and teams.
@@ -1324,21 +1324,21 @@
 
 #### Reverse Engineering
 
-* [![Open-Source Software][oss icon]](https://github.com/NationalSecurityAgency/ghidra/releases) ⭐ 79,551 | 🐛 1,955 | 🌐 Java | 📅 2026-09-24 [ghidra](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission.
-* [![Open-Source Software][oss icon]](https://github.com/radareorg/radare2/releases) ⭐ 24,865 | 🐛 824 | 🌐 C | 📅 2026-09-24 [radare2](https://rada.re/n/radare2.html) - A free/libre toolchain for easing several low level tasks like forensics, software reverse engineering, exploiting, debugging.
+* [![Open-Source Software][oss icon]](https://github.com/NationalSecurityAgency/ghidra/releases) ⭐ 79,574 | 🐛 1,956 | 🌐 Java | 📅 2026-09-24 [ghidra](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission.
+* [![Open-Source Software][oss icon]](https://github.com/radareorg/radare2/releases) ⭐ 24,867 | 🐛 822 | 🌐 C | 📅 2026-09-24 [radare2](https://rada.re/n/radare2.html) - A free/libre toolchain for easing several low level tasks like forensics, software reverse engineering, exploiting, debugging.
 * [![Open-Source Software][oss icon]](https://github.com/rizinorg/cutter) ⭐ 19,801 | 🐛 495 | 🌐 C++ | 📅 2026-09-11 [cutter](https://cutter.re/) - Cutter's goal is to be an advanced FREE and open-source reverse-engineering platform while keeping the user experience at mind.
 * [![Open-Source Software][oss icon]](https://github.com/eteran/edb-debugger) ⭐ 2,964 | 🐛 67 | 🌐 C++ | 📅 2026-09-05 [edb-debugger](https://github.com/eteran/edb-debugger) ⭐ 2,964 | 🐛 67 | 🌐 C++ | 📅 2026-09-05 - edb is a cross platform AArch32/x86/x86-64 debugger. It was inspired by Ollydbg.
 * [![Open-Source Software][oss icon]](https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git) [GDB](https://www.sourceware.org/gdb/) - GDB, the GNU Project debugger, allows you to see what is going on \`inside' another program while it executes.
 
 #### Other
 
-* [![Open-Source Software][oss icon]](https://github.com/fail2ban/fail2ban) ⭐ 18,671 | 🐛 275 | 🌐 Python | 📅 2026-09-11 [Fail2ban](https://github.com/fail2ban/fail2ban) ⭐ 18,671 | 🐛 275 | 🌐 Python | 📅 2026-09-11 - Fail2ban scans log files (e.g. /var/log/apache/error\_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.
-* [![Open-Source Software][oss icon]](https://github.com/CISOfy/lynis) ⭐ 16,374 | 🐛 222 | 🌐 Shell | 📅 2026-09-16 [Lynis](https://cisofy.com/lynis/) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-* [![Open-Source Software][oss icon]](https://github.com/cryptomator/cryptomator) ⭐ 16,178 | 🐛 283 | 🌐 Java | 📅 2026-09-24 [Cryptomator](https://cryptomator.org/) - Multi-platform transparent client-side encryption of your files in the cloud.
-* [![Open-Source Software][oss icon]](https://github.com/zaproxy/zaproxy/) ⭐ 15,821 | 🐛 863 | 🌐 Java | 📅 2026-09-24 [OWASP ZAP](https://www.zaproxy.org) - OWASP Zed Attack Proxy (ZAP) web security testing tool.
-* [![Open-Source Software][oss icon]](https://github.com/veracrypt/VeraCrypt) ⭐ 11,676 | 🐛 496 | 🌐 C | 📅 2026-07-15 [VeraCrypt](https://veracrypt.fr/en/Home.html) - VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux.
-* [![Open-Source Software][oss icon]](https://github.com/Cisco-Talos/clamav-devel) ⭐ 7,270 | 🐛 400 | 🌐 C | 📅 2026-08-27 [ClamAV](https://www.clamav.net/) - ClamAV is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
-* [![Open-Source Software][oss icon]](https://github.com/firehol/blocklist-ipsets) ⭐ 3,927 | 🐛 259 | 🌐 Shell | 📅 2026-09-24 [Update-IPsets](https://iplists.firehol.org) - A manager for all cybercrime IP feeds that can download, convert and install netfilter `ipsets`.
+* [![Open-Source Software][oss icon]](https://github.com/fail2ban/fail2ban) ⭐ 18,672 | 🐛 275 | 🌐 Python | 📅 2026-09-11 [Fail2ban](https://github.com/fail2ban/fail2ban) ⭐ 18,672 | 🐛 275 | 🌐 Python | 📅 2026-09-11 - Fail2ban scans log files (e.g. /var/log/apache/error\_log) and bans IPs that show the malicious signs -- too many password failures, seeking for exploits, etc.
+* [![Open-Source Software][oss icon]](https://github.com/CISOfy/lynis) ⭐ 16,375 | 🐛 222 | 🌐 Shell | 📅 2026-09-16 [Lynis](https://cisofy.com/lynis/) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+* [![Open-Source Software][oss icon]](https://github.com/cryptomator/cryptomator) ⭐ 16,180 | 🐛 283 | 🌐 Java | 📅 2026-09-24 [Cryptomator](https://cryptomator.org/) - Multi-platform transparent client-side encryption of your files in the cloud.
+* [![Open-Source Software][oss icon]](https://github.com/zaproxy/zaproxy/) ⭐ 15,823 | 🐛 862 | 🌐 Java | 📅 2026-09-24 [OWASP ZAP](https://www.zaproxy.org) - OWASP Zed Attack Proxy (ZAP) web security testing tool.
+* [![Open-Source Software][oss icon]](https://github.com/veracrypt/VeraCrypt) ⭐ 11,681 | 🐛 496 | 🌐 C | 📅 2026-07-15 [VeraCrypt](https://veracrypt.fr/en/Home.html) - VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux.
+* [![Open-Source Software][oss icon]](https://github.com/Cisco-Talos/clamav-devel) ⭐ 7,272 | 🐛 397 | 🌐 C | 📅 2026-08-27 [ClamAV](https://www.clamav.net/) - ClamAV is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
+* [![Open-Source Software][oss icon]](https://github.com/firehol/blocklist-ipsets) ⭐ 3,925 | 🐛 259 | 🌐 Shell | 📅 2026-09-24 [Update-IPsets](https://iplists.firehol.org) - A manager for all cybercrime IP feeds that can download, convert and install netfilter `ipsets`.
 * [![Open-Source Software][oss icon]](https://github.com/mhogomchungu/sirikali) ⭐ 997 | 🐛 11 | 🌐 C++ | 📅 2026-09-04 [Sirikali](https://mhogomchungu.github.io/sirikali/) - A Qt/C++ GUI front end to cryfs,gocryptfs,securefs,ecryptfs and encfs.
 * [![Open-Source Software][oss icon]](https://github.com/jarun/spy) ⭐ 683 | 🐛 0 | 🌐 C | 📅 2022-04-15 [spy](https://github.com/jarun/spy) ⭐ 683 | 🐛 0 | 🌐 C | 📅 2022-04-15 - Linux kernel mode debugfs keylogger.
 * [![Open-Source Software][oss icon]](https://github.com/firehol/iprange) ⭐ 239 | 🐛 4 | 🌐 Go | 📅 2026-09-24 [IPrange](https://github.com/firehol/iprange) ⭐ 239 | 🐛 4 | 🌐 Go | 📅 2026-09-24 - A very fast command line utility for processing IP lists (merge, compare, exclude, etc).
@@ -1355,17 +1355,17 @@
 
 #### Cloud Drive
 
-* [![Open-Source Software][oss icon]](https://github.com/haiwen/seafile) ⭐ 15,272 | 🐛 98 | 🌐 C | 📅 2026-09-18 [Seafile](https://www.seafile.com/en/home/) - Seafile is an enterprise file hosting platform with high reliability and performance. Put files on your own server. Sync and share files across different devices, or access all the files as a virtual disk.
-* [![Open-Source Software][oss icon]](https://github.com/meganz/MEGAsync) ⭐ 1,903 | 🐛 376 | 🌐 C++ | 📅 2026-09-21 [MEGA](https://mega.io/desktop) - Easy automated syncing between your computers and your MEGA cloud drive.
+* [![Open-Source Software][oss icon]](https://github.com/haiwen/seafile) ⭐ 15,274 | 🐛 98 | 🌐 C | 📅 2026-09-18 [Seafile](https://www.seafile.com/en/home/) - Seafile is an enterprise file hosting platform with high reliability and performance. Put files on your own server. Sync and share files across different devices, or access all the files as a virtual disk.
+* [![Open-Source Software][oss icon]](https://github.com/meganz/MEGAsync) ⭐ 1,903 | 🐛 375 | 🌐 C++ | 📅 2026-09-21 [MEGA](https://mega.io/desktop) - Easy automated syncing between your computers and your MEGA cloud drive.
 * [Dropbox](https://www.dropbox.com/install?os=lnx) - Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily.
 * [![Open-Source Software][oss icon]](https://github.com/nextcloud) [nextCloud](https://nextcloud.com/) - An actively maintained fork of ownCloud, a suite of client-server software for creating and using file hosting services.
 * [![Open-Source Software][oss icon]](https://github.com/owncloud) [ownCloud](https://owncloud.com/client/) - The goal of ownCloud is to give you access to your files wherever you are.
 
 #### Download Manager
 
-* [![Open-Source Software][oss icon]](https://github.com/agalwood/Motrix/) ⭐ 55,829 | 🐛 141 | 🌐 TypeScript | 📅 2026-09-23 [Motrix](https://motrix.app/) - Motrix is a full-featured clean and easy to use interface download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.
-* [![Open-Source Software][oss icon]](https://github.com/aria2/aria2) ⭐ 42,684 | 🐛 1,178 | 🌐 C++ | 📅 2026-06-25 [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
-* [![Open-Source Software][oss icon]](https://github.com/subhra74/xdm) ⭐ 7,942 | 🐛 849 | 🌐 C# | 📅 2026-09-23 [Xtreme Download Manager](https://xtremedownloadmanager.com/) - A good download manager with fresh UI for Linux.
+* [![Open-Source Software][oss icon]](https://github.com/agalwood/Motrix/) ⭐ 55,838 | 🐛 140 | 🌐 TypeScript | 📅 2026-09-24 [Motrix](https://motrix.app/) - Motrix is a full-featured clean and easy to use interface download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.
+* [![Open-Source Software][oss icon]](https://github.com/aria2/aria2) ⭐ 42,692 | 🐛 1,179 | 🌐 C++ | 📅 2026-06-25 [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
+* [![Open-Source Software][oss icon]](https://github.com/subhra74/xdm) ⭐ 7,944 | 🐛 849 | 🌐 C# | 📅 2026-09-23 [Xtreme Download Manager](https://xtremedownloadmanager.com/) - A good download manager with fresh UI for Linux.
 * [![Open-Source Software][oss icon]](https://github.com/setvisible/ArrowDL) ⭐ 851 | 🐛 8 | 🌐 C++ | 📅 2026-05-04 [ArrowDL](https://www.arrow-dl.com/) - ArrowDL is a mass download manager for Windows, Mac OS X and Linux. It helps you to select, organize, prioritize and run your downloads in parallel.
 * [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
 * [Free Download Manager](https://www.freedownloadmanager.org/) - Free Download Manager is a powerful modern cross-platform download accelerator and organizer for Windows, Mac and Linux.
@@ -1375,10 +1375,10 @@
 
 #### File Sharing
 
-* [![Open-Source Software][oss icon]](https://github.com/localsend/localsend) ⭐ 92,587 | 🐛 1,134 | 🌐 Dart | 📅 2026-09-24 [LocalSend](https://localsend.org/) - An open-source cross-platform alternative to AirDrop.
-* [![Open-Source Software][oss icon]](https://github.com/syncthing/syncthing) ⭐ 88,891 | 🐛 383 | 🌐 Go | 📅 2026-09-23 [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
-* [![Open-Source Software][oss icon]](https://github.com/schollz/croc) ⭐ 40,434 | 🐛 2 | 🌐 Go | 📅 2026-09-22 [croc](https://schollz.com/blog/croc6/) - Easily and securely send things from one computer to another.
-* [![Open-Source Software][oss icon]](https://github.com/warner/magic-wormhole) ⭐ 22,946 | 🐛 182 | 🌐 Python | 📅 2026-09-23 [Wormhole](https://github.com/warner/magic-wormhole) ⭐ 22,946 | 🐛 182 | 🌐 Python | 📅 2026-09-23 - Get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely.
+* [![Open-Source Software][oss icon]](https://github.com/localsend/localsend) ⭐ 92,611 | 🐛 1,134 | 🌐 Dart | 📅 2026-09-24 [LocalSend](https://localsend.org/) - An open-source cross-platform alternative to AirDrop.
+* [![Open-Source Software][oss icon]](https://github.com/syncthing/syncthing) ⭐ 88,901 | 🐛 384 | 🌐 Go | 📅 2026-09-23 [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
+* [![Open-Source Software][oss icon]](https://github.com/schollz/croc) ⭐ 40,439 | 🐛 2 | 🌐 Go | 📅 2026-09-22 [croc](https://schollz.com/blog/croc6/) - Easily and securely send things from one computer to another.
+* [![Open-Source Software][oss icon]](https://github.com/warner/magic-wormhole) ⭐ 22,947 | 🐛 182 | 🌐 Python | 📅 2026-09-23 [Wormhole](https://github.com/warner/magic-wormhole) ⭐ 22,947 | 🐛 182 | 🌐 Python | 📅 2026-09-23 - Get arbitrary-sized files and directories (or short pieces of text) from one computer to another safely.
 * [![Open-Source Software][oss icon]](https://github.com/micahflee/onionshare) ⭐ 7,098 | 🐛 77 | 🌐 Python | 📅 2026-09-23 [OnionShare](https://onionshare.org/) - Securely and anonymously share a file of any size.
 * [![Open-Source Software][oss icon]](https://github.com/nitroshare/nitroshare-desktop) ⭐ 1,664 | 🐛 137 | 🌐 C++ | 📅 2025-07-12 [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application.
 * [![Open-Source Software][oss icon]](https://github.com/linuxmint/warpinator) ⭐ 1,591 | 🐛 74 | 🌐 C | 📅 2026-09-21 [Warpinator](https://github.com/linuxmint/warpinator) ⭐ 1,591 | 🐛 74 | 🌐 C | 📅 2026-09-21 - Share files across LAN.
@@ -1393,7 +1393,7 @@
 
 #### Remote Desktop
 
-* [![Open-Source Software][oss icon]](https://github.com/rustdesk/rustdesk) ⭐ 124,419 | 🐛 165 | 🌐 Rust | 📅 2026-09-24 [Rustdesk](https://rustdesk.com/) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
+* [![Open-Source Software][oss icon]](https://github.com/rustdesk/rustdesk) ⭐ 124,447 | 🐛 164 | 🌐 Rust | 📅 2026-09-24 [Rustdesk](https://rustdesk.com/) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
 * [![Open-Source Software][oss icon]](https://github.com/debauchee/barrier/) ⭐ 30,891 | 🐛 1,045 | 🌐 C | 📅 2024-06-22 [Barrier](https://github.com/debauchee/barrier/) ⭐ 30,891 | 🐛 1,045 | 🌐 C | 📅 2024-06-22 - Share mouse and keyboard over the local network.
 * [AnyDesk](https://anydesk.com/en) - AnyDesk ensures secure and reliable remote desktop connections for IT professionals and on-the-go individuals alike.
 * [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/connections) [Connections](https://apps.gnome.org/app/org.gnome.Connections/) - Connections allows you to connect to and use other desktops. This can be a great way to access content or software on a different desktop operating system.
@@ -1402,9 +1402,9 @@
 
 #### Torrent Client
 
-* [![Open-Source Software][oss icon]](https://github.com/qbittorrent/qBittorrent) ⭐ 40,284 | 🐛 2,700 | 🌐 C++ | 📅 2026-09-21 [qBittorent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide a Free Software alternative to µTorrent.
-* [![Open-Source Software][oss icon]](https://github.com/c0re100/qBittorrent-Enhanced-Edition) ⭐ 26,648 | 🐛 161 | 🌐 C++ | 📅 2026-08-19 [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) ⭐ 26,648 | 🐛 161 | 🌐 C++ | 📅 2026-08-19 - qBittorrent Enhanced is fork of qBittorrent that features peer whitelist/blacklist, auto update public tracker list and more.
-* [![Open-Source Software][oss icon]](https://github.com/webtorrent/webtorrent-desktop) ⭐ 10,122 | 🐛 80 | 🌐 JavaScript | 📅 2026-09-19 [Web Torrent Desktop](https://webtorrent.io/desktop/) - Web Torrent Desktop is for streaming torrents which connects to both BitTorrent and WebTorrent peers.
+* [![Open-Source Software][oss icon]](https://github.com/qbittorrent/qBittorrent) ⭐ 40,290 | 🐛 2,702 | 🌐 C++ | 📅 2026-09-21 [qBittorent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide a Free Software alternative to µTorrent.
+* [![Open-Source Software][oss icon]](https://github.com/c0re100/qBittorrent-Enhanced-Edition) ⭐ 26,649 | 🐛 161 | 🌐 C++ | 📅 2026-08-19 [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) ⭐ 26,649 | 🐛 161 | 🌐 C++ | 📅 2026-08-19 - qBittorrent Enhanced is fork of qBittorrent that features peer whitelist/blacklist, auto update public tracker list and more.
+* [![Open-Source Software][oss icon]](https://github.com/webtorrent/webtorrent-desktop) ⭐ 10,123 | 🐛 80 | 🌐 JavaScript | 📅 2026-09-19 [Web Torrent Desktop](https://webtorrent.io/desktop/) - Web Torrent Desktop is for streaming torrents which connects to both BitTorrent and WebTorrent peers.
 * [![Open-Source Software][oss icon]](https://github.com/transmission-remote-gui/transgui) ⭐ 3,464 | 🐛 467 | 🌐 Pascal | 📅 2026-09-13 [Transmission Remote GUI](https://sourceforge.net/projects/transgui/) - Transmission Remote GUI is a feature rich cross platform front-end to remotely control a Transmission Bit-Torrent client daemon via its RPC protocol.
 * [![Open-Source Software][oss icon]](https://git.deluge-torrent.org/deluge) [Deluge](https://deluge-torrent.org/) - Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
 * [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/Fragments) [Fragments](https://apps.gnome.org/app/de.haeckerfelix.Fragments/) - Fragments is an easy to use BitTorrent client for the GNOME desktop environment.
@@ -1415,24 +1415,24 @@
 
 ### Terminal
 
-* [![Open-Source Software][oss icon]](https://github.com/Eugeny/tabby) ⭐ 74,662 | 🐛 2,847 | 🌐 TypeScript | 📅 2026-09-24 [Tabby](https://tabby.sh) - Modern, highly configurable terminal app based on web technologies.
-* [![Open-Source Software][oss icon]](https://github.com/jwilm/alacritty) ⭐ 65,805 | 🐛 342 | 🌐 Rust | 📅 2026-08-31 [Alacritty](https://alacritty.org/) - A cross-platform, GPU-accelerated terminal emulator.
-* [![Open-Source Software][oss icon]](https://github.com/warpdotdev/Warp) ⭐ 65,150 | 🐛 5,287 | 🌐 Rust | 📅 2026-09-24 [Warp](https://www.warp.dev/) - Warp is the intelligent terminal with AI and your dev team's knowledge built-in.
-* [![Open-Source Software][oss icon]](https://github.com/ghostty-org/ghostty) ⭐ 61,498 | 🐛 256 | 🌐 Zig | 📅 2026-09-24 [Ghostty](https://ghostty.org/) - Cross-platform, GPU-accelerated terminal emulator. Available for macOS and Linux. Written in Zig.
+* [![Open-Source Software][oss icon]](https://github.com/Eugeny/tabby) ⭐ 74,671 | 🐛 2,840 | 🌐 TypeScript | 📅 2026-09-24 [Tabby](https://tabby.sh) - Modern, highly configurable terminal app based on web technologies.
+* [![Open-Source Software][oss icon]](https://github.com/jwilm/alacritty) ⭐ 65,809 | 🐛 342 | 🌐 Rust | 📅 2026-08-31 [Alacritty](https://alacritty.org/) - A cross-platform, GPU-accelerated terminal emulator.
+* [![Open-Source Software][oss icon]](https://github.com/warpdotdev/Warp) ⭐ 65,159 | 🐛 5,293 | 🌐 Rust | 📅 2026-09-24 [Warp](https://www.warp.dev/) - Warp is the intelligent terminal with AI and your dev team's knowledge built-in.
+* [![Open-Source Software][oss icon]](https://github.com/ghostty-org/ghostty) ⭐ 61,508 | 🐛 258 | 🌐 Zig | 📅 2026-09-24 [Ghostty](https://ghostty.org/) - Cross-platform, GPU-accelerated terminal emulator. Available for macOS and Linux. Written in Zig.
 * [![Open-Source Software][oss icon]](https://github.com/GitSquared/edex-ui) ⚠️ Archived [eDEX-UI](https://github.com/GitSquared/edex-ui) ⚠️ Archived - eDEX-UI is a fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
-* [![Open-Source Software][oss icon]](https://github.com/zeit/hyper) ⭐ 44,744 | 🐛 1,049 | 🌐 TypeScript | 📅 2026-08-21 [Hyper](https://hyper.is/) - A terminal built on web technologies.
-* [![Open-Source Software][oss icon]](https://github.com/zellij-org/zellij) ⭐ 35,522 | 🐛 1,942 | 🌐 Rust | 📅 2026-09-24 [Zellij](https://zellij.dev/) - A terminal workspace and multiplexer. Letting you open several panes and tabs to run different programs, share a terminal session with others and more. Very user friendly and intuitive.
-* [![Open-Source Software][oss icon]](https://github.com/kovidgoyal/kitty) ⭐ 35,053 | 🐛 16 | 🌐 Python | 📅 2026-09-24 [Kitty](https://sw.kovidgoyal.net/kitty/) - Cross-platform, fast, feature full, OpenGL based terminal emulator.
-* [![Open-Source Software][oss icon]](https://github.com/wez/wezterm) ⭐ 29,011 | 🐛 1,876 | 🌐 Rust | 📅 2026-09-21 [WezTerm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.
-* [![Open-Source Software][oss icon]](https://github.com/Swordfish90/cool-retro-term) ⭐ 26,438 | 🐛 569 | 🌐 QML | 📅 2026-05-31 [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) ⭐ 26,438 | 🐛 569 | 🌐 QML | 📅 2026-05-31 - A good looking terminal that mimicks the old cathode display.
-* [![Open-Source Software][oss icon]](https://github.com/wavetermdev/waveterm) ⭐ 22,357 | 🐛 582 | 🌐 Go | 📅 2026-09-10 [Wave Terminal](https://waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
+* [![Open-Source Software][oss icon]](https://github.com/zeit/hyper) ⭐ 44,745 | 🐛 1,049 | 🌐 TypeScript | 📅 2026-08-21 [Hyper](https://hyper.is/) - A terminal built on web technologies.
+* [![Open-Source Software][oss icon]](https://github.com/zellij-org/zellij) ⭐ 35,525 | 🐛 1,940 | 🌐 Rust | 📅 2026-09-24 [Zellij](https://zellij.dev/) - A terminal workspace and multiplexer. Letting you open several panes and tabs to run different programs, share a terminal session with others and more. Very user friendly and intuitive.
+* [![Open-Source Software][oss icon]](https://github.com/kovidgoyal/kitty) ⭐ 35,055 | 🐛 18 | 🌐 Python | 📅 2026-09-24 [Kitty](https://sw.kovidgoyal.net/kitty/) - Cross-platform, fast, feature full, OpenGL based terminal emulator.
+* [![Open-Source Software][oss icon]](https://github.com/wez/wezterm) ⭐ 29,015 | 🐛 1,876 | 🌐 Rust | 📅 2026-09-21 [WezTerm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.
+* [![Open-Source Software][oss icon]](https://github.com/Swordfish90/cool-retro-term) ⭐ 26,443 | 🐛 569 | 🌐 QML | 📅 2026-05-31 [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) ⭐ 26,443 | 🐛 569 | 🌐 QML | 📅 2026-05-31 - A good looking terminal that mimicks the old cathode display.
+* [![Open-Source Software][oss icon]](https://github.com/wavetermdev/waveterm) ⭐ 22,356 | 🐛 582 | 🌐 Go | 📅 2026-09-10 [Wave Terminal](https://waveterm.dev/) - Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 * [![Open-Source Software][oss icon]](https://github.com/saulpw/visidata) ⭐ 9,294 | 🐛 88 | 🌐 Python | 📅 2026-09-23 [Visidata](https://visidata.org/) - A terminal spreadsheet multitool for discovering and arranging data.
-* [![Open-Source Software][oss icon]](https://github.com/gnunn1/tilix) ⭐ 5,722 | 🐛 456 | 🌐 D | 📅 2026-07-01 [Tilix](https://gnunn1.github.io/tilix-web/) - A tiling terminal emulator for Linux using GTK+ 3.
+* [![Open-Source Software][oss icon]](https://github.com/gnunn1/tilix) ⭐ 5,723 | 🐛 456 | 🌐 D | 📅 2026-07-01 [Tilix](https://gnunn1.github.io/tilix-web/) - A tiling terminal emulator for Linux using GTK+ 3.
 * [![Open-Source Software][oss icon]](https://github.com/Guake/guake) ⭐ 4,669 | 🐛 459 | 🌐 Python | 📅 2026-08-19 [Guake](http://guake.org/) - Guake is a top-down terminal for GNOME.
-* [![Open-Source Software][oss icon]](https://github.com/contour-terminal/contour/) ⭐ 3,031 | 🐛 192 | 🌐 C++ | 📅 2026-09-24 [Contour](https://github.com/contour-terminal/contour/) ⭐ 3,031 | 🐛 192 | 🌐 C++ | 📅 2026-09-24 - Contour is a modern and actually fast, modal, virtual terminal emulator, for everyday use. It is aiming for power users with a modern feature mindset.
+* [![Open-Source Software][oss icon]](https://github.com/contour-terminal/contour/) ⭐ 3,031 | 🐛 191 | 🌐 C++ | 📅 2026-09-24 [Contour](https://github.com/contour-terminal/contour/) ⭐ 3,031 | 🐛 191 | 🌐 C++ | 📅 2026-09-24 - Contour is a modern and actually fast, modal, virtual terminal emulator, for everyday use. It is aiming for power users with a modern feature mindset.
 * [![Open-Source Software][oss icon]](https://github.com/gnome-terminator/terminator) ⭐ 2,662 | 🐛 173 | 🌐 Python | 📅 2026-09-07 [Terminator](https://github.com/gnome-terminator/terminator) ⭐ 2,662 | 🐛 173 | 🌐 Python | 📅 2026-09-07 - Feature filled terminal emulator that supports tabs and grids.
 * [![Open-Source Software][oss icon]](https://github.com/lanoxx/tilda) ⭐ 1,338 | 🐛 156 | 🌐 C | 📅 2026-01-10 [Tilda](https://github.com/lanoxx/tilda) ⭐ 1,338 | 🐛 156 | 🌐 C | 📅 2026-01-10 - A Gtk based drop down terminal for Linux and Unix.
-* [![Open-Source Software][oss icon]](https://github.com/cosmos72/twin) ⭐ 1,064 | 🐛 37 | 🌐 C | 📅 2026-08-03 [Twin](https://github.com/cosmos72/twin/) ⭐ 1,064 | 🐛 37 | 🌐 C | 📅 2026-08-03 - Fast, lightweight text-mode window environment with mouse support. Enables multiple terminals in a single Linux console, terminal or X11 window. It can be detached (keeps running in background) and reattached to a different console, terminal or X11 server. Works on Linux, Mac OS X and BSD.
+* [![Open-Source Software][oss icon]](https://github.com/cosmos72/twin) ⭐ 1,065 | 🐛 37 | 🌐 C | 📅 2026-08-03 [Twin](https://github.com/cosmos72/twin/) ⭐ 1,065 | 🐛 37 | 🌐 C | 📅 2026-08-03 - Fast, lightweight text-mode window environment with mouse support. Enables multiple terminals in a single Linux console, terminal or X11 window. It can be detached (keeps running in background) and reattached to a different console, terminal or X11 server. Works on Linux, Mac OS X and BSD.
 * [![Open-Source Software][oss icon]](https://github.com/billiob/terminology) ⭐ 738 | 🐛 36 | 🌐 C | 📅 2026-09-22 [Terminology](https://www.enlightenment.org/about-terminology) - The pretty and lightweight terminal from the Enlightenment Desktop, it's highly configurable, it works in X11, under a Wayland compositor and even directly in the framebuffer on Linux. Replace your boring text-mode VT with a graphical one that requires no display system.
 * [![Open-Source Software][oss icon]](https://github.com/orhun/kermit) ⭐ 152 | 🐛 4 | 🌐 C | 📅 2024-06-10 [Kermit](https://github.com/orhun/kermit) ⭐ 152 | 🐛 4 | 🌐 C | 📅 2024-06-10 - A VTE-based, simple and froggy terminal emulator.
 * [![Open-Source Software][oss icon]](https://github.com/nonstop/termit) ⭐ 144 | 🐛 10 | 🌐 C | 📅 2025-09-23 [Termit](https://github.com/nonstop/termit) ⭐ 144 | 🐛 10 | 🌐 C | 📅 2025-09-23 - Simple terminal emulator based on vte library, extensible via Lua.
@@ -1454,14 +1454,14 @@
 
 #### Integrated Development Environment inspired / Common User Access based
 
-* [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode) ⭐ 192,848 | 🐛 21,188 | 🌐 TypeScript | 📅 2026-09-24 [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.
-* [![Open-Source Software][oss icon]](https://github.com/helix-editor/helix) ⭐ 46,317 | 🐛 1,682 | 🌐 Rust | 📅 2026-09-22 [Helix](https://helix-editor.com/) - A post-modern modal text editor.
-* [![Open-Source Software][oss icon]](https://github.com/lapce/lapce) ⭐ 38,865 | 🐛 905 | 🌐 Rust | 📅 2026-09-24 [Lapce](https://lap.dev/lapce/) - Lightning-fast and Powerful Code Editor written in Rust.
+* [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode) ⭐ 192,864 | 🐛 21,225 | 🌐 TypeScript | 📅 2026-09-24 [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.
+* [![Open-Source Software][oss icon]](https://github.com/helix-editor/helix) ⭐ 46,323 | 🐛 1,682 | 🌐 Rust | 📅 2026-09-22 [Helix](https://helix-editor.com/) - A post-modern modal text editor.
+* [![Open-Source Software][oss icon]](https://github.com/lapce/lapce) ⭐ 38,867 | 🐛 905 | 🌐 Rust | 📅 2026-09-24 [Lapce](https://lap.dev/lapce/) - Lightning-fast and Powerful Code Editor written in Rust.
 * [![Open-Source Software][oss icon]](https://github.com/VSCodium/vscodium) ⭐ 33,360 | 🐛 151 | 🌐 Shell | 📅 2026-09-23 [VSCodium](https://vscodium.com/) - Binary releases of VS Code without MS branding/telemetry/licensing.
 * [![Open-Source Software][oss icon]](https://github.com/adobe/brackets) ⚠️ Archived [Brackets](https://brackets.io/) - A modern text editor that understands web design.
 * [![Open-Source Software][oss icon]](https://github.com/LightTable/LightTable) ⚠️ Archived [Lighttable](http://lighttable.com/) - The next generation code editor! Support live coding.
-* [![Open-Source Software][oss icon]](https://github.com/pulsar-edit/pulsar) ⭐ 4,157 | 🐛 330 | 🌐 JavaScript | 📅 2026-09-24 [Pulsar](https://pulsar-edit.dev/) - A Community-led Hyper-Hackable Text Editor, Forked from Atom, built on Electron.
-* [![Open-Source Software][oss icon]](https://github.com/Alexey-T/CudaText) ⭐ 3,201 | 🐛 40 | 🌐 Python | 📅 2026-09-23 [CudaText](https://cudatext.github.io/) - CudaText is a cross-platform text editor, written in Object Pascal.
+* [![Open-Source Software][oss icon]](https://github.com/pulsar-edit/pulsar) ⭐ 4,158 | 🐛 330 | 🌐 JavaScript | 📅 2026-09-24 [Pulsar](https://pulsar-edit.dev/) - A Community-led Hyper-Hackable Text Editor, Forked from Atom, built on Electron.
+* [![Open-Source Software][oss icon]](https://github.com/Alexey-T/CudaText) ⭐ 3,201 | 🐛 38 | 🌐 Python | 📅 2026-09-23 [CudaText](https://cudatext.github.io/) - CudaText is a cross-platform text editor, written in Object Pascal.
 * [![Open-Source Software][oss icon]](https://github.com/pkulchenko/ZeroBraneStudio) ⭐ 2,769 | 🐛 111 | 🌐 Lua | 📅 2026-09-06 [ZeroBrane Studio](https://studio.zerobrane.com/) - A mature, lightweight, cross-platform Lua IDE with modern development features.
 * [![Open-Source Software][oss icon]](https://github.com/Komodo/KomodoEdit) ⭐ 2,204 | 🐛 1,189 | 🌐 Python | 📅 2023-11-15 [Komodo Edit](https://www.activestate.com/products/komodo-edit/) - Free and open source multilanguage development environment.
 * [![Open-Source Software][oss icon]](https://github.com/orbitalquark/textadept) ⭐ 918 | 🐛 13 | 🌐 Lua | 📅 2026-09-01 [Textadept](https://orbitalquark.github.io/textadept/) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language.
@@ -1475,22 +1475,22 @@
 
 #### Modal editors & derivatives
 
-* [![Open-Source Software][oss icon]](https://github.com/neovim/neovim) ⭐ 102,552 | 🐛 1,917 | 🌐 Vim Script | 📅 2026-09-24 [Neovim](https://neovim.io/) - Neovim is a fork of Vim aiming to improve user experience, plugins, and GUIs.
-* [![Open-Source Software][oss icon]](https://github.com/vim/vim) ⭐ 40,927 | 🐛 1,635 | 🌐 Vim Script | 📅 2026-09-21 [Vim](https://www.vim.org) - Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor.
-* [![Open-Source Software][oss icon]](https://github.com/NvChad/NvChad) ⭐ 28,491 | 🐛 3 | 🌐 Lua | 📅 2026-07-03 [NvChad](https://nvchad.com/) - An attempt to make neovim cli functional like an IDE while being very beautiful and blazing fast.
-* [![Open-Source Software][oss icon]](https://github.com/syl20bnr/spacemacs) ⭐ 24,561 | 🐛 64 | 🌐 Emacs Lisp | 📅 2026-09-22 [Spacemacs](https://www.spacemacs.org/) - A community-driven Emacs distribution.
-* [![Open-Source Software][oss icon]](https://github.com/doomemacs/doomemacs) ⭐ 22,699 | 🐛 481 | 🌐 Emacs Lisp | 📅 2026-09-06 [Doom Emacs](https://github.com/doomemacs/doomemacs) ⭐ 22,699 | 🐛 481 | 🌐 Emacs Lisp | 📅 2026-09-06 - An Emacs framework for the stubborn martian hacker.
+* [![Open-Source Software][oss icon]](https://github.com/neovim/neovim) ⭐ 102,553 | 🐛 1,918 | 🌐 Vim Script | 📅 2026-09-24 [Neovim](https://neovim.io/) - Neovim is a fork of Vim aiming to improve user experience, plugins, and GUIs.
+* [![Open-Source Software][oss icon]](https://github.com/vim/vim) ⭐ 40,933 | 🐛 1,629 | 🌐 Vim Script | 📅 2026-09-24 [Vim](https://www.vim.org) - Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor.
+* [![Open-Source Software][oss icon]](https://github.com/NvChad/NvChad) ⭐ 28,492 | 🐛 3 | 🌐 Lua | 📅 2026-07-03 [NvChad](https://nvchad.com/) - An attempt to make neovim cli functional like an IDE while being very beautiful and blazing fast.
+* [![Open-Source Software][oss icon]](https://github.com/syl20bnr/spacemacs) ⭐ 24,563 | 🐛 64 | 🌐 Emacs Lisp | 📅 2026-09-22 [Spacemacs](https://www.spacemacs.org/) - A community-driven Emacs distribution.
+* [![Open-Source Software][oss icon]](https://github.com/doomemacs/doomemacs) ⭐ 22,701 | 🐛 481 | 🌐 Emacs Lisp | 📅 2026-09-06 [Doom Emacs](https://github.com/doomemacs/doomemacs) ⭐ 22,701 | 🐛 481 | 🌐 Emacs Lisp | 📅 2026-09-06 - An Emacs framework for the stubborn martian hacker.
 * [![Open-Source Software][oss icon]](https://github.com/SpaceVim/SpaceVim) ⚠️ Archived [SpaceVim](https://spacevim.org/) - A community-driven modular vim distribution.
 * [![Open-Source Software][oss icon]](https://github.com/LunarVim/LunarVim) ⭐ 19,266 | 🐛 33 | 🌐 Lua | 📅 2025-06-05 [LunarVim](https://www.lunarvim.org/#opinionated) - LunarVim is an opinionated, extensible, and fast IDE layer for Neovim.
-* [![Open-Source Software][oss icon]](https://github.com/neovide/neovide/) ⭐ 15,216 | 🐛 296 | 🌐 Rust | 📅 2026-09-20 [Neovide](https://neovide.dev/) - Neovide is a cross-platform GUI for Neovim written in Rust with graphical improvements and more visual flair.
-* [![Open-Source Software][oss icon]](https://github.com/AstroNvim/AstroNvim) ⭐ 14,441 | 🐛 1 | 🌐 Lua | 📅 2026-09-04 [AstroNvim](https://astronvim.com/) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins.
+* [![Open-Source Software][oss icon]](https://github.com/neovide/neovide/) ⭐ 15,217 | 🐛 296 | 🌐 Rust | 📅 2026-09-20 [Neovide](https://neovide.dev/) - Neovide is a cross-platform GUI for Neovim written in Rust with graphical improvements and more visual flair.
+* [![Open-Source Software][oss icon]](https://github.com/AstroNvim/AstroNvim) ⭐ 14,442 | 🐛 1 | 🌐 Lua | 📅 2026-09-04 [AstroNvim](https://astronvim.com/) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins.
 * [![Open-Source Software][oss icon]](https://github.com/mawww/kakoune) ⭐ 11,068 | 🐛 924 | 🌐 C++ | 📅 2026-09-15 [Kakoune](https://kakoune.org/) - Kakoune code editor - Vim inspired. Faster as in less keystrokes. Multiple selections. Orthogonal design. Has a strong focus on interactivity.
 * [![Open-Source Software][oss icon]](https://github.com/emacs-mirror/emacs) ⭐ 5,208 | 🐛 16 | 🌐 Emacs Lisp | 📅 2026-09-24 [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
 
 #### Other editors
 
-* [![Open-Source Software][oss icon]](https://github.com/zyedidia/micro) ⭐ 29,635 | 🐛 915 | 🌐 Go | 📅 2026-09-24 [Micro](https://micro-editor.github.io) - Micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.
-* [![Open-Source Software][oss icon]](https://github.com/dail8859/NotepadNext) ⭐ 14,606 | 🐛 91 | 🌐 C++ | 📅 2026-09-24 [Notepad Next](https://github.com/dail8859/NotepadNext) ⭐ 14,606 | 🐛 91 | 🌐 C++ | 📅 2026-09-24 - A cross-platform, reimplementation of Notepad++.
+* [![Open-Source Software][oss icon]](https://github.com/zyedidia/micro) ⭐ 29,635 | 🐛 914 | 🌐 Go | 📅 2026-09-24 [Micro](https://micro-editor.github.io) - Micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.
+* [![Open-Source Software][oss icon]](https://github.com/dail8859/NotepadNext) ⭐ 14,605 | 🐛 91 | 🌐 C++ | 📅 2026-09-24 [Notepad Next](https://github.com/dail8859/NotepadNext) ⭐ 14,605 | 🐛 91 | 🌐 C++ | 📅 2026-09-24 - A cross-platform, reimplementation of Notepad++.
 * [![Open-Source Software][oss icon]](https://github.com/notepadqq/notepadqq) ⭐ 2,329 | 🐛 340 | 🌐 JavaScript | 📅 2026-08-03 [Notepadqq](https://notepadqq.com/wp/) - Notepadqq is a Notepad++-like editor for the Linux desktop.
 * [![Open-Source Software][oss icon]](http://git.savannah.gnu.org/cgit/nano.git/) [Nano](https://www.nano-editor.org/) - GNU Nano is a text editor which aims to introduce a simple interface and intuitive command options to console based text editing.
 * [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/kate) [KWrite](https://apps.kde.org/kwrite/) - KWrite is a text editor by KDE, based on the Kate's editor component.
@@ -1499,8 +1499,8 @@
 
 #### Disk Utilities
 
-* [![Open-Source Software][oss icon]](https://github.com/ventoy/Ventoy) ⭐ 79,509 | 🐛 1,035 | 🌐 C | 📅 2026-08-06 [Ventoy](https://www.ventoy.net/en/index.html) - A new bootable USB solution.
-* [![Open-Source Software][oss icon]](https://github.com/balena-io/etcher) ⭐ 34,414 | 🐛 695 | 🌐 TypeScript | 📅 2026-09-18 [Etcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives, safely and easily.
+* [![Open-Source Software][oss icon]](https://github.com/ventoy/Ventoy) ⭐ 79,513 | 🐛 1,035 | 🌐 C | 📅 2026-08-06 [Ventoy](https://www.ventoy.net/en/index.html) - A new bootable USB solution.
+* [![Open-Source Software][oss icon]](https://github.com/balena-io/etcher) ⭐ 34,416 | 🐛 695 | 🌐 TypeScript | 📅 2026-09-18 [Etcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives, safely and easily.
 * [![Open-Source Software][oss icon]](https://github.com/imsnif/diskonaut) ⭐ 3,134 | 🐛 45 | 🌐 Rust | 📅 2024-03-07 [Diskonaut](https://github.com/imsnif/diskonaut) ⭐ 3,134 | 🐛 45 | 🌐 Rust | 📅 2024-03-07 - A disk space visualizer and navigator for the terminal.
 * [![Open-Source Software][oss icon]](https://github.com/unetbootin/unetbootin) ⭐ 2,459 | 🐛 261 | 🌐 C++ | 📅 2024-08-07 [Unetbootin](https://unetbootin.github.io) - UNetbootin allows you to create bootable Live USB drives for Ubuntu and other Linux distributions. You can either let UNetbootin download one of the many distributions supported out-of-the-box for you, or supply your own Linux .iso file.
 * [![Open-Source Software][oss icon]](https://github.com/JonMagon/KDiskMark) ⭐ 1,702 | 🐛 44 | 🌐 C++ | 📅 2026-08-22 [KDiskMark](https://github.com/JonMagon/KDiskMark) ⭐ 1,702 | 🐛 44 | 🌐 C++ | 📅 2026-08-22 - A simple open-source disk benchmark tool for Linux distros, similar to CrystalDiskmark on Windows.
@@ -1515,12 +1515,12 @@
 
 #### System Maintenance
 
-* [![Open-Source Software][oss icon]](https://github.com/NixOS/nix) ⭐ 17,772 | 🐛 2,976 | 🌐 C++ | 📅 2026-09-24 [Nix](https://nixos.org/download.html) - Nix is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
-* [![Open-Source Software][oss icon]](https://github.com/Jguer/yay) ⭐ 13,762 | 🐛 213 | 🌐 Go | 📅 2026-09-22 [Yay](https://github.com/Jguer/yay) ⭐ 13,762 | 🐛 213 | 🌐 Go | 📅 2026-09-22 - Yet another Yogurt - An AUR Helper written in Go.
+* [![Open-Source Software][oss icon]](https://github.com/NixOS/nix) ⭐ 17,775 | 🐛 2,977 | 🌐 C++ | 📅 2026-09-24 [Nix](https://nixos.org/download.html) - Nix is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+* [![Open-Source Software][oss icon]](https://github.com/Jguer/yay) ⭐ 13,757 | 🐛 214 | 🌐 Go | 📅 2026-09-22 [Yay](https://github.com/Jguer/yay) ⭐ 13,757 | 🐛 214 | 🌐 Go | 📅 2026-09-22 - Yet another Yogurt - An AUR Helper written in Go.
 * [![Open-Source Software][oss icon]](https://github.com/oguzhaninan/Stacer) ⭐ 9,327 | 🐛 173 | 🌐 C++ | 📅 2024-02-10 [Stacer](https://oguzhaninan.github.io/Stacer-Web/) - The most well known Ubuntu System Optimizer.
-* [![Open-Source Software][oss icon]](https://github.com/morganamilo/paru) ⭐ 8,995 | 🐛 205 | 🌐 Rust | 📅 2026-01-09 [Paru](https://github.com/morganamilo/paru) ⭐ 8,995 | 🐛 205 | 🌐 Rust | 📅 2026-01-09 - Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction.
+* [![Open-Source Software][oss icon]](https://github.com/morganamilo/paru) ⭐ 8,998 | 🐛 205 | 🌐 Rust | 📅 2026-01-09 [Paru](https://github.com/morganamilo/paru) ⭐ 8,998 | 🐛 205 | 🌐 Rust | 📅 2026-01-09 - Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction.
 * [![Open-Source Software][oss icon]](https://github.com/TheAssassin/AppImageLauncher) ⭐ 8,320 | 🐛 205 | 🌐 C++ | 📅 2026-03-09 [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) ⭐ 8,320 | 🐛 205 | 🌐 C++ | 📅 2026-03-09 - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages.
-* [![Open-Source Software][oss icon]](https://github.com/bleachbit/bleachbit) ⭐ 6,984 | 🐛 315 | 🌐 Python | 📅 2026-09-24 [BleachBit](https://www.bleachbit.org/) - BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more.
+* [![Open-Source Software][oss icon]](https://github.com/bleachbit/bleachbit) ⭐ 6,985 | 🐛 314 | 🌐 Python | 📅 2026-09-24 [BleachBit](https://www.bleachbit.org/) - BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more.
 * [![Open-Source Software][oss icon]](https://github.com/sahib/rmlint) ⭐ 2,428 | 🐛 110 | 🌐 C | 📅 2026-09-19 [rmlint](https://rmlint.readthedocs.io/en/latest/) - rmlint finds space waste and other broken things on your filesystem and offers to remove it.
 * [![Open-Source Software][oss icon]](https://github.com/vinifmor/bauh) ⭐ 1,406 | 🐛 107 | 🌐 Python | 📅 2024-10-13 [bauh](https://github.com/vinifmor/bauh) ⭐ 1,406 | 🐛 107 | 🌐 Python | 📅 2024-10-13 - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications.
 * [![Open-Source Software][oss icon]](https://github.com/prateekmedia/appimagepool) ⭐ 724 | 🐛 28 | 🌐 Dart | 📅 2026-03-12 [AppImage Pool](https://github.com/prateekmedia/appimagepool) ⭐ 724 | 🐛 28 | 🌐 Dart | 📅 2026-03-12 - A simple, modern AppImageHub Client.
@@ -1532,7 +1532,7 @@
 
 #### System Monitoring
 
-* [![Open-Source Software][oss icon]](https://github.com/netdata/netdata) ⭐ 80,641 | 🐛 409 | 🌐 Go | 📅 2026-09-24 [NetData](https://www.netdata.cloud/) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring).
+* [![Open-Source Software][oss icon]](https://github.com/netdata/netdata) ⭐ 80,644 | 🐛 415 | 🌐 Go | 📅 2026-09-24 [NetData](https://www.netdata.cloud/) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring).
 * [![Open-Source Software][oss icon]](https://github.com/imsnif/bandwhich) ⭐ 11,986 | 🐛 54 | 🌐 Rust | 📅 2026-08-01 [bandwhich](https://github.com/imsnif/bandwhich) ⭐ 11,986 | 🐛 54 | 🌐 Rust | 📅 2026-08-01 - Terminal bandwidth utilization tool.
 * [![Open-Source Software][oss icon]](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) ⭐ 2,655 | 🐛 3 | 🌐 C | 📅 2026-09-13 [CPU-X](https://thetumultuousunicornofdarkness.github.io/CPU-X/) - CPU-X is a Free software that gathers information on CPU, motherboard and more.
 * [![Open-Source Software][oss icon]](https://github.com/vergoh/vnstat) ⭐ 1,774 | 🐛 8 | 🌐 C | 📅 2026-08-07 [vnStat](https://humdi.net/vnstat/) - vnStat is a console-based network traffic monitor that uses the network interface statistics provided by the kernel as information source. This means that vnStat won't actually be sniffing any traffic and also ensures light use of system resources regardless of network traffic rate.
@@ -1550,31 +1550,31 @@
 
 #### Other
 
-* [![Open-Source Software][oss icon]](https://github.com/Genymobile/scrcpy) ⭐ 150,312 | 🐛 2,906 | 🌐 C | 📅 2026-09-22 [scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 150,312 | 🐛 2,906 | 🌐 C | 📅 2026-09-22 - Display and control your Android device.
-* [![Open-Source Software][oss icon]](https://github.com/nomic-ai/gpt4all) ⭐ 77,389 | 🐛 773 | 🌐 C++ | 📅 2025-05-27 [GPT4All](https://www.nomic.ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collection of clean assistant data including code, stories and dialogue
-* [![Open-Source Software][oss icon]](https://github.com/pi-hole/pi-hole) ⭐ 61,053 | 🐛 43 | 🌐 Shell | 📅 2026-09-23 [Pi-Hole](https://pi-hole.net) - Network-wide ad blocking via your own Linux hardware, using DNS filtering and re-direction Pi-Hole can block ads on a whole network, so Smartphones and Game Consoles can benefit from it in addition to computers.
-* [![Open-Source Software][oss icon]](https://github.com/upscayl/upscayl) ⭐ 49,866 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-15 [Upscayl](https://www.upscayl.org/) - Free and Open Source AI Image Upscaler.
+* [![Open-Source Software][oss icon]](https://github.com/Genymobile/scrcpy) ⭐ 150,334 | 🐛 2,906 | 🌐 C | 📅 2026-09-22 [scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 150,334 | 🐛 2,906 | 🌐 C | 📅 2026-09-22 - Display and control your Android device.
+* [![Open-Source Software][oss icon]](https://github.com/nomic-ai/gpt4all) ⭐ 77,385 | 🐛 773 | 🌐 C++ | 📅 2025-05-27 [GPT4All](https://www.nomic.ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collection of clean assistant data including code, stories and dialogue
+* [![Open-Source Software][oss icon]](https://github.com/pi-hole/pi-hole) ⭐ 61,055 | 🐛 45 | 🌐 Shell | 📅 2026-09-24 [Pi-Hole](https://pi-hole.net) - Network-wide ad blocking via your own Linux hardware, using DNS filtering and re-direction Pi-Hole can block ads on a whole network, so Smartphones and Game Consoles can benefit from it in addition to computers.
+* [![Open-Source Software][oss icon]](https://github.com/upscayl/upscayl) ⭐ 49,869 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-15 [Upscayl](https://www.upscayl.org/) - Free and Open Source AI Image Upscaler.
 * [![Open-Source Software][oss icon]](https://github.com/jiahaog/nativefier) ⚠️ Archived [Nativefier](https://github.com/jiahaog/nativefier) ⚠️ Archived - Make any web page a desktop application.
-* [![Open-Source Software][oss icon]](https://charm.sh/apps/) [Glow](https://github.com/charmbracelet/glow) ⭐ 27,450 | 🐛 235 | 🌐 Go | 📅 2026-09-22 - Render markdown on the CLI, with pizzazz! 💅🏻
-* [![Open-Source Software][oss icon]](https://github.com/davatorium/rofi) ⭐ 16,413 | 🐛 115 | 🌐 C | 📅 2026-09-17 [rofi](https://github.com/davatorium/rofi) ⭐ 16,413 | 🐛 115 | 🌐 C | 📅 2026-09-17 - A window switcher, Application launcher and dmenu replacement.
-* [![Open-Source Software][oss icon]](https://github.com/mobile-shell/mosh) ⭐ 14,510 | 🐛 230 | 🌐 C++ | 📅 2026-03-22 [Mosh](https://mosh.org) - Mosh is a Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.
-* [![Open-Source Software][oss icon]](https://github.com/FreeRDP/FreeRDP) ⭐ 13,723 | 🐛 168 | 🌐 C | 📅 2026-09-24 [FreeRDP](https://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP).
-* [![Open-Source Software][oss icon]](https://github.com/nmap/nmap) ⭐ 13,662 | 🐛 703 | 🌐 C | 📅 2026-09-24 [Nmap](https://nmap.org/) - Nmap is a free, open-source tool for network exploration, management, and security auditing.
+* [![Open-Source Software][oss icon]](https://charm.sh/apps/) [Glow](https://github.com/charmbracelet/glow) ⭐ 27,457 | 🐛 235 | 🌐 Go | 📅 2026-09-22 - Render markdown on the CLI, with pizzazz! 💅🏻
+* [![Open-Source Software][oss icon]](https://github.com/davatorium/rofi) ⭐ 16,414 | 🐛 115 | 🌐 C | 📅 2026-09-17 [rofi](https://github.com/davatorium/rofi) ⭐ 16,414 | 🐛 115 | 🌐 C | 📅 2026-09-17 - A window switcher, Application launcher and dmenu replacement.
+* [![Open-Source Software][oss icon]](https://github.com/mobile-shell/mosh) ⭐ 14,512 | 🐛 230 | 🌐 C++ | 📅 2026-03-22 [Mosh](https://mosh.org) - Mosh is a Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.
+* [![Open-Source Software][oss icon]](https://github.com/FreeRDP/FreeRDP) ⭐ 13,726 | 🐛 166 | 🌐 C | 📅 2026-09-24 [FreeRDP](https://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP).
+* [![Open-Source Software][oss icon]](https://github.com/nmap/nmap) ⭐ 13,661 | 🐛 700 | 🌐 C | 📅 2026-09-24 [Nmap](https://nmap.org/) - Nmap is a free, open-source tool for network exploration, management, and security auditing.
 * [![Open-Source Software][oss icon]](https://github.com/cheat/cheat) ⭐ 13,467 | 🐛 34 | 🌐 Go | 📅 2026-05-19 [Cheat](https://github.com/cheat/cheat) ⭐ 13,467 | 🐛 34 | 🌐 Go | 📅 2026-05-19 - Cheat allows you to create and view interactive cheatsheets on the command-line.
-* [![Open-Source Software][oss icon]](https://github.com/pwr-Solaar/Solaar) ⭐ 9,402 | 🐛 109 | 🌐 Python | 📅 2026-08-18 [Solaar](https://github.com/pwr-Solaar/Solaar) ⭐ 9,402 | 🐛 109 | 🌐 Python | 📅 2026-08-18 - Logitech Unifying Receiver peripherals manager for Linux.
+* [![Open-Source Software][oss icon]](https://github.com/pwr-Solaar/Solaar) ⭐ 9,402 | 🐛 110 | 🌐 Python | 📅 2026-08-18 [Solaar](https://github.com/pwr-Solaar/Solaar) ⭐ 9,402 | 🐛 110 | 🌐 Python | 📅 2026-08-18 - Logitech Unifying Receiver peripherals manager for Linux.
 * [![Open-Source Software][oss icon]](https://github.com/rastapasta/mapscii) ⭐ 9,240 | 🐛 52 | 🌐 JavaScript | 📅 2024-11-03 [mapscii](https://github.com/rastapasta/mapscii) ⭐ 9,240 | 🐛 52 | 🌐 JavaScript | 📅 2024-11-03 - MapSCII is a Braille & ASCII world map renderer for your console.
 * [![Open-Source Software][oss icon]](https://github.com/angryip/ipscan) ⭐ 5,125 | 🐛 197 | 🌐 Java | 📅 2026-09-01 [Angry IP Scanner](https://angryip.org/) - Fast and friendly network scanner.
 * [![Open-Source Software][oss icon]](https://github.com/AntiMicroX/antimicrox/) ⭐ 3,991 | 🐛 176 | 🌐 C++ | 📅 2026-08-18 [AntiMicroX](https://github.com/AntiMicroX/antimicrox/) ⭐ 3,991 | 🐛 176 | 🌐 C++ | 📅 2026-08-18 - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 * [![Open-Source Software][oss icon]](https://github.com/cheesecakeufo/komorebi) ⭐ 3,763 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 [Komorebi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,763 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 - Komorebi is a background manager for all Linux platforms, provides fully customizable backgrounds that can be tweaked at any time.
-* [![Open-Source Software][oss icon]](https://github.com/GSConnect/gnome-shell-extension-gsconnect) ⭐ 3,723 | 🐛 248 | 🌐 JavaScript | 📅 2026-09-23 [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - KDE Connect implementation for GNOME.
-* [![Open-Source Software][oss icon]](https://github.com/gramps-project/gramps) ⭐ 3,106 | 🐛 175 | 🌐 Python | 📅 2026-09-13 [Gramps](https://gramps-project.org/blog/) - Research, organize and share your family tree with Gramps.
+* [![Open-Source Software][oss icon]](https://github.com/GSConnect/gnome-shell-extension-gsconnect) ⭐ 3,725 | 🐛 246 | 🌐 JavaScript | 📅 2026-09-24 [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - KDE Connect implementation for GNOME.
+* [![Open-Source Software][oss icon]](https://github.com/gramps-project/gramps) ⭐ 3,106 | 🐛 177 | 🌐 Python | 📅 2026-09-13 [Gramps](https://gramps-project.org/blog/) - Research, organize and share your family tree with Gramps.
 * [![Open-Source Software][oss icon]](https://github.com/sindresorhus/fast-cli) ⭐ 2,882 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-02 [fast-cli](https://github.com/sindresorhus/fast-cli) ⭐ 2,882 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-02 - Test your download and upload speed using fast.com.
 * [![Open-Source Software][oss icon]](https://github.com/FreeRDP/Remmina) ⭐ 2,551 | 🐛 334 | 🌐 C | 📅 2026-02-08 [Remmina](https://remmina.org/) - A feature-rich remote desktop application for Linux and other UNIXes.
 * [![Open-Source Software][oss icon]](https://github.com/oniony/TMSU) ⭐ 2,245 | 🐛 7 | 🌐 Go | 📅 2025-11-12 [TMSU](https://tmsu.org/) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
-* [![Open-Source Software][oss icon]](https://github.com/rcaelers/workrave) ⭐ 1,822 | 🐛 219 | 🌐 C++ | 📅 2026-09-23 [Workrave](https://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI).
-* [![Open-Source Software][oss icon]](https://github.com/tchx84/flatseal) ⭐ 1,785 | 🐛 98 | 🌐 JavaScript | 📅 2026-09-22 [Flatseal](https://github.com/tchx84/flatseal) ⭐ 1,785 | 🐛 98 | 🌐 JavaScript | 📅 2026-09-22 - Flatseal is a graphical utility to review and modify permissions from your Flatpak applications.
-* [![Open-Source Software][oss icon]](https://github.com/wimpysworld/deb-get) ⭐ 1,758 | 🐛 147 | 🌐 Shell | 📅 2026-09-20 [deb-get](https://github.com/wimpysworld/deb-get) ⭐ 1,758 | 🐛 147 | 🌐 Shell | 📅 2026-09-20 - Deb-get makes is easy to install and update .debs published in 3rd party apt repositories or made available via direct download on websites or GitHub release pages.
-* [![Open-Source Software][oss icon]](https://github.com/varietywalls/variety) ⭐ 1,705 | 🐛 240 | 🌐 Python | 📅 2026-09-20 [Variety](https://github.com/varietywalls/variety/) ⭐ 1,705 | 🐛 240 | 🌐 Python | 📅 2026-09-20 - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use.
+* [![Open-Source Software][oss icon]](https://github.com/rcaelers/workrave) ⭐ 1,822 | 🐛 219 | 🌐 C++ | 📅 2026-09-24 [Workrave](https://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI).
+* [![Open-Source Software][oss icon]](https://github.com/tchx84/flatseal) ⭐ 1,787 | 🐛 98 | 🌐 JavaScript | 📅 2026-09-22 [Flatseal](https://github.com/tchx84/flatseal) ⭐ 1,787 | 🐛 98 | 🌐 JavaScript | 📅 2026-09-22 - Flatseal is a graphical utility to review and modify permissions from your Flatpak applications.
+* [![Open-Source Software][oss icon]](https://github.com/wimpysworld/deb-get) ⭐ 1,758 | 🐛 148 | 🌐 Shell | 📅 2026-09-20 [deb-get](https://github.com/wimpysworld/deb-get) ⭐ 1,758 | 🐛 148 | 🌐 Shell | 📅 2026-09-20 - Deb-get makes is easy to install and update .debs published in 3rd party apt repositories or made available via direct download on websites or GitHub release pages.
+* [![Open-Source Software][oss icon]](https://github.com/varietywalls/variety) ⭐ 1,706 | 🐛 240 | 🌐 Python | 📅 2026-09-20 [Variety](https://github.com/varietywalls/variety/) ⭐ 1,706 | 🐛 240 | 🌐 Python | 📅 2026-09-20 - Variety is an open-source wallpaper changer for Linux, packed with great features, yet slim and easy to use.
 * [![Open-Source Software][oss icon]](https://github.com/fenrus75/powertop) ⭐ 1,338 | 🐛 102 | 🌐 C++ | 📅 2026-09-15 [Powertop](https://github.com/fenrus75/powertop) ⭐ 1,338 | 🐛 102 | 🌐 C++ | 📅 2026-09-15 - A tool that can help diagnose issues with power consumption in Linux.
 * [![Open-Source Software][oss icon]](https://github.com/dev47apps/droidcam) ⭐ 1,222 | 🐛 35 | 🌐 C | 📅 2026-02-19 [Droidcam](https://www.dev47apps.com/) - DroidCam turns your Android device into a wireless webcam for your PC.
 * [![Open-Source Software][oss icon]](https://github.com/popey/unsnap) ⚠️ Archived [unsnap](https://github.com/popey/unsnap) ⚠️ Archived - Quickly migrate from using snap packages to flatpaks.
@@ -1605,12 +1605,12 @@
 
 ### Video
 
-* [![Open-Source Software][oss icon]](https://github.com/FFmpeg/FFmpeg) ⭐ 64,481 | 🐛 3 | 🌐 C | 📅 2026-09-24 [FFmpeg](https://www.ffmpeg.org/) - FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
-* [![Open-Source Software][oss icon]](https://github.com/mifi/lossless-cut) ⭐ 44,014 | 🐛 310 | 🌐 TypeScript | 📅 2026-09-23 [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 44,014 | 🐛 310 | 🌐 TypeScript | 📅 2026-09-23 - The swiss army knife of lossless video/audio editing.
-* [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv) ⭐ 37,099 | 🐛 1,158 | 🌐 C | 📅 2026-09-23 [MPV](https://www.mpv.io) - A free, open source, and cross-platform media player.
-* [![Open-Source Software][oss icon]](https://github.com/xbmc/xbmc) ⭐ 21,248 | 🐛 442 | 🌐 C++ | 📅 2026-09-24 [Kodi](https://kodi.tv/about/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more.
+* [![Open-Source Software][oss icon]](https://github.com/FFmpeg/FFmpeg) ⭐ 64,487 | 🐛 3 | 🌐 C | 📅 2026-09-24 [FFmpeg](https://www.ffmpeg.org/) - FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+* [![Open-Source Software][oss icon]](https://github.com/mifi/lossless-cut) ⭐ 44,023 | 🐛 310 | 🌐 TypeScript | 📅 2026-09-23 [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 44,023 | 🐛 310 | 🌐 TypeScript | 📅 2026-09-23 - The swiss army knife of lossless video/audio editing.
+* [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv) ⭐ 37,107 | 🐛 1,159 | 🌐 C | 📅 2026-09-23 [MPV](https://www.mpv.io) - A free, open source, and cross-platform media player.
+* [![Open-Source Software][oss icon]](https://github.com/xbmc/xbmc) ⭐ 21,249 | 🐛 443 | 🌐 C++ | 📅 2026-09-24 [Kodi](https://kodi.tv/about/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more.
 * [![Open-Source Software][oss icon]](https://github.com/jellyfin/jellyfin-media-player) ⭐ 5,788 | 🐛 366 | 🌐 C++ | 📅 2026-08-31 [Jellyfin Media Player](https://jellyfin.org/) - Jellyfin Desktop Client based on Plex Media Player.
-* [![Open-Source Software][oss icon]](https://github.com/celluloid-player/celluloid) ⭐ 1,469 | 🐛 292 | 🌐 C | 📅 2026-08-29 [Celluloid](https://celluloid-player.github.io/) - Simple GTK+ frontend for mpv.
+* [![Open-Source Software][oss icon]](https://github.com/celluloid-player/celluloid) ⭐ 1,468 | 🐛 292 | 🌐 C | 📅 2026-08-29 [Celluloid](https://celluloid-player.github.io/) - Simple GTK+ frontend for mpv.
 * [![Open-Source Software][oss icon]](https://github.com/Rafostar/clapper) ⭐ 971 | 🐛 134 | 🌐 C | 📅 2026-07-20 [Clapper](https://rafostar.github.io/clapper/) - A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
 * [![Open-Source Software][oss icon]](https://github.com/lettier/movie-monad) ⭐ 436 | 🐛 11 | 🌐 Haskell | 📅 2020-03-07 [Movie Monad](https://lettier.github.io/movie-monad) - A free and simple to use video player made with Haskell.
 * [![Open-Source Software][oss icon]](https://github.com/xylosper/bomi) ⚠️ Archived [Bomi Player](https://bomi-player.github.io/) - A powerful and easy-to-use multimedia player.
@@ -1629,9 +1629,9 @@
 
 ### VPN
 
-* ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/mullvad/mullvadvpn-app) ⭐ 7,596 | 🐛 154 | 🌐 Rust | 📅 2026-09-24 [Mullvad](https://mullvad.net/en/) - Mullvad is a VPN service that helps keep your online activity, identity, and location private.
+* ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/mullvad/mullvadvpn-app) ⭐ 7,596 | 🐛 149 | 🌐 Rust | 📅 2026-09-24 [Mullvad](https://mullvad.net/en/) - Mullvad is a VPN service that helps keep your online activity, identity, and location private.
 * ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/Windscribe/Desktop-App) ⭐ 1,096 | 🐛 96 | 🌐 C++ | 📅 2026-09-21 [Windscribe](https://windscribe.net/) - Browse the web privately as it was meant to be.
-* ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/mozilla-mobile/mozilla-vpn-client) ⭐ 637 | 🐛 780 | 🌐 C++ | 📅 2026-09-24 [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/) - Protect your web history, feel safer on public Wi-Fi, and limit ad tracking by increasing the security of your network connection.
+* ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/mozilla-mobile/mozilla-vpn-client) ⭐ 637 | 🐛 779 | 🌐 C++ | 📅 2026-09-24 [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/) - Protect your web history, feel safer on public Wi-Fi, and limit ad tracking by increasing the security of your network connection.
 * ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/pia-foss/desktop) ⭐ 334 | 🐛 43 | 🌐 C++ | 📅 2026-05-26 [Private Internet Access](https://www.privateinternetaccess.com/) - Private Internet Access provides state of the art, multi-layered security with advanced privacy protection using VPN tunneling.
 * ![Nonfree][money icon][CyberGhost](https://www.cyberghostvpn.com/en_US/) - CyberGhost VPN allows you to surf the Internet freely, as if in disguise, regardless of the type of application you use and from where you log in.
 * ![Nonfree][money icon][ExpressVPN](https://www.expressvpn.com/) - ExpressVPN is the worlds fastest VPN service. It is both safe and reliable to watch and stream movies abroad, or simply access your favourite sites.
@@ -1646,16 +1646,16 @@
 
 ### Wiki Software
 
-* [![Open-Source Software][oss icon]](https://github.com/splitbrain/dokuwiki) ⭐ 4,721 | 🐛 487 | 🌐 PHP | 📅 2026-09-16 [DokuWiki](https://www.dokuwiki.org/dokuwiki) - A popular self-hostable wiki software with a large number of plugins.
+* [![Open-Source Software][oss icon]](https://github.com/splitbrain/dokuwiki) ⭐ 4,722 | 🐛 487 | 🌐 PHP | 📅 2026-09-16 [DokuWiki](https://www.dokuwiki.org/dokuwiki) - A popular self-hostable wiki software with a large number of plugins.
 * [![Open-Source Software][oss icon]](https://github.com/Jermolene/TiddlyDesktop) ⭐ 1,912 | 🐛 146 | 🌐 JavaScript | 📅 2026-09-01 [TiddlyDesktop](https://tiddlywiki.com/#TiddlyDesktop) - A desktop app for TiddlyWiki, an open-source personal wiki written in javascript, great if you're still searching for a good note-taking (and more) app.
 * [![Open-Source Software][oss icon]](https://git.joeyh.name/git/ikiwiki.git/) [ikiwiki](https://ikiwiki.info/) - ikiwiki is a wiki compiler. It converts wiki pages into HTML pages suitable for publishing on a website. Ikiwiki stores pages and history in a revision control system such as Subversion or Git.
 * [![Open-Source Software][oss icon]](https://git.launchpad.net/zim) [Zim](https://zim-wiki.org/) - A graphical text editor used to maintain a collection of wiki pages, great for notes and documents. Stored in plain text files for easy version control.
 
 ### Others
 
-* [![Open-Source Software][oss icon]](https://github.com/fontforge/fontforge) ⭐ 7,975 | 🐛 1,041 | 🌐 C | 📅 2026-09-23 [FontForge](https://fontforge.org/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
+* [![Open-Source Software][oss icon]](https://github.com/fontforge/fontforge) ⭐ 7,977 | 🐛 1,042 | 🌐 C | 📅 2026-09-23 [FontForge](https://fontforge.org/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
 * [![Open-Source Software][oss icon]](https://github.com/MycroftAI/mycroft-core) ⚠️ Archived [Mycroft](https://community.openconversational.ai/c/mycroft-project) - Mycroft is a hackable open source voice assistant.
-* [![Open-Source Software][oss icon]](https://github.com/libratbag/piper) ⭐ 6,000 | 🐛 225 | 🌐 Python | 📅 2026-08-12 [Piper](https://github.com/libratbag/piper) ⭐ 6,000 | 🐛 225 | 🌐 Python | 📅 2026-08-12 - Piper is a GTK+ application to configure gaming mice.
+* [![Open-Source Software][oss icon]](https://github.com/libratbag/piper) ⭐ 6,001 | 🐛 225 | 🌐 Python | 📅 2026-08-12 [Piper](https://github.com/libratbag/piper) ⭐ 6,001 | 🐛 225 | 🌐 Python | 📅 2026-08-12 - Piper is a GTK+ application to configure gaming mice.
 * [![Open-Source Software][oss icon]](https://github.com/polychromatic/polychromatic) ⭐ 1,242 | 🐛 63 | 🌐 Python | 📅 2026-09-12 [Polychromatic](https://polychromatic.app/) - Graphical front end and tray applet for configuring Razer peripherals on GNU/Linux.
 * [![Open-Source Software][oss icon]](https://github.com/z411/trackma) ⭐ 891 | 🐛 129 | 🌐 Python | 📅 2026-09-21 [trackma](https://z411.github.io/trackma/) - Open multi-site list manager for Unix-like systems.
 * [![Open-Source Software][oss icon]](https://displaycal.net/#download) [DisplayCAL](https://displaycal.net/) - Open Source Display Calibration and Characterization powered by ArgyllCMS.
@@ -1668,15 +1668,15 @@
 
 ### Internet
 
-* [![Open-Source Software][oss icon]](https://github.com/yt-dlp/yt-dlp) ⭐ 193,322 | 🐛 2,675 | 🌐 Python | 📅 2026-09-16 [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 193,322 | 🐛 2,675 | 🌐 Python | 📅 2026-09-16 - A youtube-dl fork with additional features and fixes.
-* [![Open-Source Software][oss icon]](https://github.com/rg3/youtube-dl) ⭐ 141,337 | 🐛 4,126 | 🌐 Python | 📅 2026-02-19 [youtube-dl](https://rg3.github.io/youtube-dl/) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific.
-* [![Open-Source Software][oss icon]](https://github.com/mikf/gallery-dl) ⭐ 19,820 | 🐛 1,135 | 🌐 Python | 📅 2026-09-19 [gallery-dl](https://github.com/mikf/gallery-dl) ⭐ 19,820 | 🐛 1,135 | 🌐 Python | 📅 2026-09-19 - Command-line program to download image galleries and collections from pixiv, exhentai, danbooru and more.
-* [![Open-Source Software][oss icon]](https://dnscrypt.info/) [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,684 | 🐛 4 | 🌐 Go | 📅 2026-09-24 - DNS proxy with support for encrypted DNS protocols,cross platform.
-* [![Open-Source Software][oss icon]](https://github.com/streamlink/streamlink) ⭐ 11,798 | 🐛 74 | 🌐 Python | 📅 2026-09-22 [Streamlink](https://streamlink.github.io/) - Streamlink is a CLI utility which pipes video streams from various services into a video player.
+* [![Open-Source Software][oss icon]](https://github.com/yt-dlp/yt-dlp) ⭐ 193,392 | 🐛 2,677 | 🌐 Python | 📅 2026-09-16 [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 193,392 | 🐛 2,677 | 🌐 Python | 📅 2026-09-16 - A youtube-dl fork with additional features and fixes.
+* [![Open-Source Software][oss icon]](https://github.com/rg3/youtube-dl) ⭐ 141,342 | 🐛 4,126 | 🌐 Python | 📅 2026-02-19 [youtube-dl](https://rg3.github.io/youtube-dl/) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites. It requires the Python interpreter (2.6, 2.7, or 3.2+), and it is not platform specific.
+* [![Open-Source Software][oss icon]](https://github.com/mikf/gallery-dl) ⭐ 19,831 | 🐛 1,136 | 🌐 Python | 📅 2026-09-19 [gallery-dl](https://github.com/mikf/gallery-dl) ⭐ 19,831 | 🐛 1,136 | 🌐 Python | 📅 2026-09-19 - Command-line program to download image galleries and collections from pixiv, exhentai, danbooru and more.
+* [![Open-Source Software][oss icon]](https://dnscrypt.info/) [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,685 | 🐛 4 | 🌐 Go | 📅 2026-09-24 - DNS proxy with support for encrypted DNS protocols,cross platform.
+* [![Open-Source Software][oss icon]](https://github.com/streamlink/streamlink) ⭐ 11,799 | 🐛 77 | 🌐 Python | 📅 2026-09-24 [Streamlink](https://streamlink.github.io/) - Streamlink is a CLI utility which pipes video streams from various services into a video player.
 * [![Open-Source Software][oss icon]](https://github.com/mps-youtube/mps-youtube) ⭐ 8,792 | 🐛 227 | 🌐 Python | 📅 2026-03-04 [mps-youtube](https://github.com/mps-youtube/mps-youtube) ⭐ 8,792 | 🐛 227 | 🌐 Python | 📅 2026-03-04 - A terminal based program for searching, streaming and downloading music. This implementation uses YouTube as a source of content and can play and download video as well as audio.
-* [![Open-Source Software][oss icon]](https://github.com/soimort/translate-shell) ⭐ 7,511 | 🐛 117 | 🌐 Awk | 📅 2024-12-10 [translate-shell](https://www.soimort.org/translate-shell) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+* [![Open-Source Software][oss icon]](https://github.com/soimort/translate-shell) ⭐ 7,512 | 🐛 117 | 🌐 Awk | 📅 2024-12-10 [translate-shell](https://www.soimort.org/translate-shell) - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 * [![Open-Source Software][oss icon]](https://github.com/jarun/googler) ⚠️ Archived [Googler](https://github.com/jarun/googler) ⚠️ Archived - A program that can Google anything right in the command line.
-* [![Open-Source Software][oss icon]](https://i2pd.website/) [i2pd](https://github.com/PurpleI2P/i2pd) ⭐ 4,207 | 🐛 163 | 🌐 C++ | 📅 2026-09-24 - I2P daemon written in C++.
+* [![Open-Source Software][oss icon]](https://i2pd.website/) [i2pd](https://github.com/PurpleI2P/i2pd) ⭐ 4,206 | 🐛 163 | 🌐 C++ | 📅 2026-09-24 - I2P daemon written in C++.
 * [![Open-Source Software][oss icon]](https://github.com/sdushantha/tmpmail) ⭐ 4,186 | 🐛 7 | 🌐 Shell | 📅 2024-08-17 [tmpmail](https://github.com/sdushantha/tmpmail) ⭐ 4,186 | 🐛 7 | 🌐 Shell | 📅 2024-08-17 - A temporary email right from your terminal written in POSIX sh.
 * [![Open-Source Software][oss icon]](https://github.com/newsboat/newsboat) ⭐ 3,913 | 🐛 417 | 🌐 C++ | 📅 2026-09-20 [Newsboat](https://newsboat.org/) - Newsboat is a fork of Newsbeuter, an RSS/Atom feed reader for the text console.
 * [![Open-Source Software][oss icon]](https://github.com/jarun/ddgr) ⭐ 3,559 | 🐛 1 | 🌐 Python | 📅 2026-08-16 [ddgr](https://github.com/jarun/ddgr) ⭐ 3,559 | 🐛 1 | 🌐 Python | 📅 2026-08-16 - DuckDuckGo from the command line.
@@ -1691,10 +1691,10 @@
 
 ### System Info / Monitoring
 
-* [![Open-Source Software][oss icon]](https://github.com/aristocratos/btop) ⭐ 34,736 | 🐛 549 | 🌐 C++ | 📅 2026-09-19 [btop](https://github.com/aristocratos/btop) ⭐ 34,736 | 🐛 549 | 🌐 C++ | 📅 2026-09-19 - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
-* [![Open-Source Software][oss icon]](https://github.com/nicolargo/glances) ⭐ 33,670 | 🐛 106 | 🌐 Python | 📅 2026-09-24 [Glances](https://nicolargo.github.io/glances/) - Glances is a system monitoring terminal application that shows you your disk usage, ram usage, and cpu usage in a very friendly way using the Ncurses programming library. It is tolerant to windows resizing, and very low on system ram usage.
-* [![Open-Source Software][oss icon]](https://github.com/sharkdp/hyperfine) ⭐ 28,899 | 🐛 101 | 🌐 Rust | 📅 2026-04-30 [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,899 | 🐛 101 | 🌐 Rust | 📅 2026-04-30 - A command-line benchmarking tool.
-* [![Open-Source Software][oss icon]](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,751 | 🐛 95 | 🌐 C | 📅 2026-09-23 [Fastfetch](https://github.com/fastfetch-cli/fastfetch/) ⭐ 24,751 | 🐛 95 | 🌐 C | 📅 2026-09-23 - Fastfetch is a Neofetch-like tool for fetching system information and displaying it prettily. It is written mainly in C, with performance and customizability in mind.
+* [![Open-Source Software][oss icon]](https://github.com/aristocratos/btop) ⭐ 34,739 | 🐛 549 | 🌐 C++ | 📅 2026-09-19 [btop](https://github.com/aristocratos/btop) ⭐ 34,739 | 🐛 549 | 🌐 C++ | 📅 2026-09-19 - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
+* [![Open-Source Software][oss icon]](https://github.com/nicolargo/glances) ⭐ 33,671 | 🐛 106 | 🌐 Python | 📅 2026-09-24 [Glances](https://nicolargo.github.io/glances/) - Glances is a system monitoring terminal application that shows you your disk usage, ram usage, and cpu usage in a very friendly way using the Ncurses programming library. It is tolerant to windows resizing, and very low on system ram usage.
+* [![Open-Source Software][oss icon]](https://github.com/sharkdp/hyperfine) ⭐ 28,901 | 🐛 101 | 🌐 Rust | 📅 2026-04-30 [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,901 | 🐛 101 | 🌐 Rust | 📅 2026-04-30 - A command-line benchmarking tool.
+* [![Open-Source Software][oss icon]](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,756 | 🐛 95 | 🌐 C | 📅 2026-09-24 [Fastfetch](https://github.com/fastfetch-cli/fastfetch/) ⭐ 24,756 | 🐛 95 | 🌐 C | 📅 2026-09-24 - Fastfetch is a Neofetch-like tool for fetching system information and displaying it prettily. It is written mainly in C, with performance and customizability in mind.
 * [![Open-Source Software][oss icon]](https://github.com/ClementTsang/bottom) ⭐ 14,055 | 🐛 106 | 🌐 Rust | 📅 2026-09-23 [bottom](https://clementtsang.github.io/bottom/nightly/) - Yet another cross-platform graphical process/system monitor.
 * [![Open-Source Software][oss icon]](https://github.com/Syllo/nvtop) ⭐ 11,023 | 🐛 134 | 🌐 C | 📅 2026-09-20 [NVTOP](https://github.com/Syllo/nvtop) ⭐ 11,023 | 🐛 134 | 🌐 C | 📅 2026-09-20 - GPUs process monitoring for AMD, Intel and NVIDIA.
 * [![Open-Source Software][oss icon]](https://github.com/aristocratos/bpytop) ⭐ 10,929 | 🐛 99 | 🌐 Python | 📅 2025-06-01 [bpytop](https://github.com/aristocratos/bpytop) ⭐ 10,929 | 🐛 99 | 🌐 Python | 📅 2025-06-01 - Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port and continuation of bashtop.
@@ -1708,34 +1708,34 @@
 
 ### Tools
 
-* [![Open-Source Software][oss icon]](https://github.com/nvbn/thefuck) ⭐ 97,877 | 🐛 461 | 🌐 Python | 📅 2024-07-19 [TheFuck](https://github.com/nvbn/thefuck) ⭐ 97,877 | 🐛 461 | 🌐 Python | 📅 2024-07-19 - Magnificent app which corrects your previous console command.
-* [![Open-Source Software][oss icon]](https://github.com/junegunn/fzf) ⭐ 83,229 | 🐛 331 | 🌐 Go | 📅 2026-09-21 [fzf](https://github.com/junegunn/fzf) ⭐ 83,229 | 🐛 331 | 🌐 Go | 📅 2026-09-21 - A general-purpose command-line fuzzy finder with interactive filter and preview feature for things like files, command history, git commits, hostnames, etc.
-* [![Open-Source Software][oss icon]](https://github.com/BurntSushi/ripgrep) ⭐ 68,564 | 🐛 201 | 🌐 Rust | 📅 2026-08-04 [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 68,564 | 🐛 201 | 🌐 Rust | 📅 2026-08-04 - Ripgrep is a line-oriented search tool that recursively searches the current directory for a regex pattern.
-* [![Open-Source Software][oss icon]](https://github.com/tldr-pages/tldr) ⭐ 63,730 | 🐛 296 | 🌐 Markdown | 📅 2026-09-24 [tldr-pages](https://tldr.sh/) - The tldr-pages project is a collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional man pages.
-* [![Open-Source Software][oss icon]](https://github.com/sharkdp/bat) ⭐ 60,558 | 🐛 518 | 🌐 Rust | 📅 2026-09-22 [bat](https://github.com/sharkdp/bat) ⭐ 60,558 | 🐛 518 | 🌐 Rust | 📅 2026-09-22 - A cat clone with syntax highlighting and Git integration.
-* [![Open-Source Software][oss icon]](https://starship.rs/) [Starship](https://github.com/starship/starship) ⭐ 60,032 | 🐛 1,057 | 🌐 Rust | 📅 2026-09-24 - A minimal, blazingly fast and infinitely customizable prompt for any shell, cross-platform.
-* [![Open-Source Software][oss icon]](https://github.com/tmux/tmux) ⭐ 49,466 | 🐛 40 | 🌐 C | 📅 2026-09-24 [Tmux](https://github.com/tmux/tmux) ⭐ 49,466 | 🐛 40 | 🌐 C | 📅 2026-09-24 - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.
-* [![Open-Source Software][oss icon]](https://github.com/sharkdp/fd) ⭐ 44,527 | 🐛 198 | 🌐 Rust | 📅 2026-09-24 [fd](https://github.com/sharkdp/fd) ⭐ 44,527 | 🐛 198 | 🌐 Rust | 📅 2026-09-24 - A simple, fast and user-friendly alternative to 'find'.
-* [![Open-Source Software][oss icon]](https://github.com/ajeetdsouza/zoxide) ⭐ 39,673 | 🐛 147 | 🌐 Rust | 📅 2026-09-21 [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 39,673 | 🐛 147 | 🌐 Rust | 📅 2026-09-21 - A better way to navigate your filesystem written in Rust.
-* [![Open-Source Software][oss icon]](https://github.com/hashicorp/vagrant) ⭐ 27,209 | 🐛 758 | 🌐 Ruby | 📅 2026-09-21 [vagrant](https://www.vagrantup.com/) - Vagrant is a tool for building and distributing development environments.
+* [![Open-Source Software][oss icon]](https://github.com/nvbn/thefuck) ⭐ 97,878 | 🐛 461 | 🌐 Python | 📅 2024-07-19 [TheFuck](https://github.com/nvbn/thefuck) ⭐ 97,878 | 🐛 461 | 🌐 Python | 📅 2024-07-19 - Magnificent app which corrects your previous console command.
+* [![Open-Source Software][oss icon]](https://github.com/junegunn/fzf) ⭐ 83,235 | 🐛 331 | 🌐 Go | 📅 2026-09-21 [fzf](https://github.com/junegunn/fzf) ⭐ 83,235 | 🐛 331 | 🌐 Go | 📅 2026-09-21 - A general-purpose command-line fuzzy finder with interactive filter and preview feature for things like files, command history, git commits, hostnames, etc.
+* [![Open-Source Software][oss icon]](https://github.com/BurntSushi/ripgrep) ⭐ 68,573 | 🐛 202 | 🌐 Rust | 📅 2026-08-04 [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 68,573 | 🐛 202 | 🌐 Rust | 📅 2026-08-04 - Ripgrep is a line-oriented search tool that recursively searches the current directory for a regex pattern.
+* [![Open-Source Software][oss icon]](https://github.com/tldr-pages/tldr) ⭐ 63,736 | 🐛 262 | 🌐 Markdown | 📅 2026-09-24 [tldr-pages](https://tldr.sh/) - The tldr-pages project is a collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional man pages.
+* [![Open-Source Software][oss icon]](https://github.com/sharkdp/bat) ⭐ 60,563 | 🐛 519 | 🌐 Rust | 📅 2026-09-22 [bat](https://github.com/sharkdp/bat) ⭐ 60,563 | 🐛 519 | 🌐 Rust | 📅 2026-09-22 - A cat clone with syntax highlighting and Git integration.
+* [![Open-Source Software][oss icon]](https://starship.rs/) [Starship](https://github.com/starship/starship) ⭐ 60,038 | 🐛 1,056 | 🌐 Rust | 📅 2026-09-24 - A minimal, blazingly fast and infinitely customizable prompt for any shell, cross-platform.
+* [![Open-Source Software][oss icon]](https://github.com/tmux/tmux) ⭐ 49,474 | 🐛 33 | 🌐 C | 📅 2026-09-24 [Tmux](https://github.com/tmux/tmux) ⭐ 49,474 | 🐛 33 | 🌐 C | 📅 2026-09-24 - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.
+* [![Open-Source Software][oss icon]](https://github.com/sharkdp/fd) ⭐ 44,530 | 🐛 198 | 🌐 Rust | 📅 2026-09-24 [fd](https://github.com/sharkdp/fd) ⭐ 44,530 | 🐛 198 | 🌐 Rust | 📅 2026-09-24 - A simple, fast and user-friendly alternative to 'find'.
+* [![Open-Source Software][oss icon]](https://github.com/ajeetdsouza/zoxide) ⭐ 39,676 | 🐛 147 | 🌐 Rust | 📅 2026-09-21 [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 39,676 | 🐛 147 | 🌐 Rust | 📅 2026-09-21 - A better way to navigate your filesystem written in Rust.
+* [![Open-Source Software][oss icon]](https://github.com/hashicorp/vagrant) ⭐ 27,211 | 🐛 758 | 🌐 Ruby | 📅 2026-09-21 [vagrant](https://www.vagrantup.com/) - Vagrant is a tool for building and distributing development environments.
 * [![Open-Source Software][oss icon]](https://github.com/ggreer/the_silver_searcher) ⭐ 27,125 | 🐛 563 | 🌐 C | 📅 2024-06-16 [The Silver Searcher / Ag](https://geoff.greer.fm/ag/) - A code-searching tool similar to ack, but faster.
-* [![Open-Source Software][oss icon]](https://github.com/FiloSottile/age) ⭐ 23,695 | 🐛 19 | 🌐 Go | 📅 2026-08-29 [Age](https://github.com/FiloSottile/age) ⭐ 23,695 | 🐛 19 | 🌐 Go | 📅 2026-08-29 - Simple, Modern, Secure encryption tool.
-* [![Open-Source Software][oss icon]](https://github.com/AlDanial/cloc) ⭐ 23,554 | 🐛 26 | 🌐 Perl | 📅 2026-09-20 [Cloc](https://github.com/AlDanial/cloc) ⭐ 23,554 | 🐛 26 | 🌐 Perl | 📅 2026-09-20 - Count Lines of Code: cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
-* [![Open-Source Software][oss icon]](https://github.com/eza-community/eza) ⭐ 23,360 | 🐛 454 | 🌐 Rust | 📅 2026-08-06 [eza](https://eza.rocks/) - eza is a modern replacement for ls, written in Rust.
-* [![Open-Source Software][oss icon]](https://github.com/charmbracelet/vhs) ⭐ 20,969 | 🐛 173 | 🌐 Go | 📅 2026-09-24 [VHS](https://github.com/charmbracelet/vhs) ⭐ 20,969 | 🐛 173 | 🌐 Go | 📅 2026-09-24 - Your CLI home video recorder vhs
-* [![Open-Source Software][oss icon]](https://github.com/denisidoro/navi) ⭐ 17,623 | 🐛 111 | 🌐 Rust | 📅 2026-09-20 [navi](https://github.com/denisidoro/navi) ⭐ 17,623 | 🐛 111 | 🌐 Rust | 📅 2026-09-20 - An interactive cheatsheet tool for the command-line.
-* [![Open-Source Software][oss icon]](https://github.com/Peltoche/lsd) ⭐ 16,238 | 🐛 210 | 🌐 Rust | 📅 2026-08-17 [lsd](https://github.com/Peltoche/lsd) ⭐ 16,238 | 🐛 210 | 🌐 Rust | 📅 2026-08-17 - The next gen ls command.
-* [![Open-Source Software][oss icon]](https://github.com/muesli/duf) ⭐ 15,318 | 🐛 81 | 🌐 Go | 📅 2026-01-13 [duf](https://github.com/muesli/duf) ⭐ 15,318 | 🐛 81 | 🌐 Go | 📅 2026-01-13 - Disk Usage/Free Utility - a better 'df' alternative.
-* [![Open-Source Software][oss icon]](https://github.com/Canop/broot) ⭐ 12,956 | 🐛 100 | 🌐 Rust | 📅 2026-09-23 [broot](https://dystroy.org/broot/) - A new way to see and navigate directory trees.
-* [![Open-Source Software][oss icon]](https://github.com/orf/gping) ⭐ 12,691 | 🐛 42 | 🌐 Rust | 📅 2026-09-23 [gping](https://github.com/orf/gping) ⭐ 12,691 | 🐛 42 | 🌐 Rust | 📅 2026-09-23 - ping but with graph, cross platform.
+* [![Open-Source Software][oss icon]](https://github.com/FiloSottile/age) ⭐ 23,701 | 🐛 19 | 🌐 Go | 📅 2026-08-29 [Age](https://github.com/FiloSottile/age) ⭐ 23,701 | 🐛 19 | 🌐 Go | 📅 2026-08-29 - Simple, Modern, Secure encryption tool.
+* [![Open-Source Software][oss icon]](https://github.com/AlDanial/cloc) ⭐ 23,555 | 🐛 26 | 🌐 Perl | 📅 2026-09-20 [Cloc](https://github.com/AlDanial/cloc) ⭐ 23,555 | 🐛 26 | 🌐 Perl | 📅 2026-09-20 - Count Lines of Code: cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+* [![Open-Source Software][oss icon]](https://github.com/eza-community/eza) ⭐ 23,361 | 🐛 454 | 🌐 Rust | 📅 2026-08-06 [eza](https://eza.rocks/) - eza is a modern replacement for ls, written in Rust.
+* [![Open-Source Software][oss icon]](https://github.com/charmbracelet/vhs) ⭐ 20,975 | 🐛 173 | 🌐 Go | 📅 2026-09-24 [VHS](https://github.com/charmbracelet/vhs) ⭐ 20,975 | 🐛 173 | 🌐 Go | 📅 2026-09-24 - Your CLI home video recorder vhs
+* [![Open-Source Software][oss icon]](https://github.com/denisidoro/navi) ⭐ 17,625 | 🐛 111 | 🌐 Rust | 📅 2026-09-20 [navi](https://github.com/denisidoro/navi) ⭐ 17,625 | 🐛 111 | 🌐 Rust | 📅 2026-09-20 - An interactive cheatsheet tool for the command-line.
+* [![Open-Source Software][oss icon]](https://github.com/Peltoche/lsd) ⭐ 16,239 | 🐛 210 | 🌐 Rust | 📅 2026-08-17 [lsd](https://github.com/Peltoche/lsd) ⭐ 16,239 | 🐛 210 | 🌐 Rust | 📅 2026-08-17 - The next gen ls command.
+* [![Open-Source Software][oss icon]](https://github.com/muesli/duf) ⭐ 15,321 | 🐛 81 | 🌐 Go | 📅 2026-01-13 [duf](https://github.com/muesli/duf) ⭐ 15,321 | 🐛 81 | 🌐 Go | 📅 2026-01-13 - Disk Usage/Free Utility - a better 'df' alternative.
+* [![Open-Source Software][oss icon]](https://github.com/Canop/broot) ⭐ 12,958 | 🐛 100 | 🌐 Rust | 📅 2026-09-23 [broot](https://dystroy.org/broot/) - A new way to see and navigate directory trees.
+* [![Open-Source Software][oss icon]](https://github.com/orf/gping) ⭐ 12,692 | 🐛 42 | 🌐 Rust | 📅 2026-09-23 [gping](https://github.com/orf/gping) ⭐ 12,692 | 🐛 42 | 🌐 Rust | 📅 2026-09-23 - ping but with graph, cross platform.
 * [![Open-Source Software][oss icon]](https://github.com/o2sh/onefetch) ⭐ 12,051 | 🐛 63 | 🌐 Rust | 📅 2026-09-24 [Onefetch](https://onefetch.dev/) - Git repository summary on your terminal.
-* [![Open-Source Software][oss icon]](https://github.com/maaslalani/slides) ⭐ 11,665 | 🐛 77 | 🌐 Go | 📅 2026-07-08 [slides](https://maaslalani.com/slides/) - Terminal based presentation tool.
+* [![Open-Source Software][oss icon]](https://github.com/maaslalani/slides) ⭐ 11,666 | 🐛 77 | 🌐 Go | 📅 2026-07-08 [slides](https://maaslalani.com/slides/) - Terminal based presentation tool.
 * [![Open-Source Software][oss icon]](https://github.com/BurntSushi/xsv) ⚠️ Archived [xsv](https://github.com/BurntSushi/xsv) ⚠️ Archived - A fast CSV command line toolkit written in Rust.
 * [![Open-Source Software][oss icon]](https://github.com/dylanaraps/pywal) ⚠️ Archived [pywal](https://github.com/dylanaraps/pywal) ⚠️ Archived - pywal is a script that takes an image (or a directory of images), generates a colorscheme (using imagemagick) and then changes all of your open terminal's colors to the new colorscheme on the fly, allowing you to have your terminal colors change with your wallpaper, or other criteria.
 * [![Open-Source Software][oss icon]](https://github.com/jarun/Buku) ⭐ 7,207 | 🐛 2 | 🌐 Python | 📅 2026-09-15 [Buku](https://github.com/jarun/Buku) ⭐ 7,207 | 🐛 2 | 🌐 Python | 📅 2026-09-15 - A Command line bookmark manager.
 * [![Open-Source Software][oss icon]](https://github.com/sindresorhus/fkill-cli) ⭐ 7,006 | 🐛 6 | 🌐 JavaScript | 📅 2025-11-09 [fkill](https://github.com/sindresorhus/fkill-cli) ⭐ 7,006 | 🐛 6 | 🌐 JavaScript | 📅 2025-11-09 - Fabulously kill processes. Cross-platform.
 * [![Open-Source Software][oss icon]](https://github.com/busyloop/lolcat) ⭐ 6,579 | 🐛 33 | 🌐 Ruby | 📅 2024-03-05 [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,579 | 🐛 33 | 🌐 Ruby | 📅 2024-03-05 - Displays text in rainbow colors.
-* [![Open-Source Software][oss icon]](https://github.com/dbrgn/tealdeer) ⭐ 6,546 | 🐛 15 | 🌐 Rust | 📅 2026-08-25 [tealdeer](https://tealdeer-rs.github.io/tealdeer/) - A very fast implementation of tldr written in Rust.
+* [![Open-Source Software][oss icon]](https://github.com/dbrgn/tealdeer) ⭐ 6,547 | 🐛 15 | 🌐 Rust | 📅 2026-08-25 [tealdeer](https://tealdeer-rs.github.io/tealdeer/) - A very fast implementation of tldr written in Rust.
 * [![Open-Source Software][oss icon]](https://github.com/Slackadays/Clipboard) ⭐ 5,909 | 🐛 26 | 🌐 C++ | 📅 2026-05-06 [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,909 | 🐛 26 | 🌐 C++ | 📅 2026-05-06 - Cut, copy, and paste anything, anywhere, anytime.
 * [![Open-Source Software][oss icon]](https://github.com/facebook/PathPicker) ⭐ 5,237 | 🐛 26 | 🌐 Python | 📅 2024-09-05 [PathPicker](https://github.com/facebook/PathPicker) ⭐ 5,237 | 🐛 26 | 🌐 Python | 📅 2024-09-05 - A command that lets you select files that were output from a previous command in the command line, so you can then run another command or edit them.
 * [![Open-Source Software][oss icon]](https://github.com/athityakumar/colorls) ⭐ 5,139 | 🐛 87 | 🌐 Ruby | 📅 2026-07-27 [Color LS](https://github.com/athityakumar/colorls) ⭐ 5,139 | 🐛 87 | 🌐 Ruby | 📅 2026-07-27 - Color Ls is a Ruby Gem that spices up the ls command and shows more visually than ls does without additional commands.
@@ -1752,17 +1752,17 @@
 
 ## Custom Linux Kernels
 
-* [![Open-Source Software][oss icon]](https://github.com/zen-kernel/zen-kernel) ⭐ 2,601 | 🐛 7 | 🌐 C | 📅 2026-09-21 [Zen](https://github.com/zen-kernel/zen-kernel) ⭐ 2,601 | 🐛 7 | 🌐 C | 📅 2026-09-21 - Result of a collaborative effort of kernel hackers to provide the best Linux kernel possible for everyday systems.
+* [![Open-Source Software][oss icon]](https://github.com/zen-kernel/zen-kernel) ⭐ 2,599 | 🐛 7 | 🌐 C | 📅 2026-09-21 [Zen](https://github.com/zen-kernel/zen-kernel) ⭐ 2,599 | 🐛 7 | 🌐 C | 📅 2026-09-21 - Result of a collaborative effort of kernel hackers to provide the best Linux kernel possible for everyday systems.
 * [![Open-Source Software][oss icon]](https://github.com/Frogging-Family/linux-tkg) ⭐ 1,605 | 🐛 68 | 🌐 Shell | 📅 2026-09-24 [linux-tkg](https://github.com/Frogging-Family/linux-tkg) ⭐ 1,605 | 🐛 68 | 🌐 Shell | 📅 2026-09-24 - Scripts to automatically download, patch and compile the Linux Kernel from the official Linux git repository, with a selection of patches aiming for better desktop/gaming experience.
 * [![Open-Source Software][oss icon]](https://github.com/anthraxx/linux-hardened) ⭐ 743 | 🐛 40 | 🌐 C | 📅 2026-09-24 [Linux-Hardened](https://github.com/anthraxx/linux-hardened) ⭐ 743 | 🐛 40 | 🌐 C | 📅 2026-09-24 - A security-focused Linux kernel applying a set of hardening patches to mitigate kernel and userspace exploits. It also enables more upstream kernel hardening features than linux.
-* [![Open-Source Software][oss icon]](https://github.com/damentz/liquorix-package) ⭐ 353 | 🐛 1 | 🌐 Python | 📅 2026-09-22 [Liquorix](https://liquorix.net) - Liquorix is a distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
+* [![Open-Source Software][oss icon]](https://github.com/damentz/liquorix-package) ⭐ 352 | 🐛 1 | 🌐 Python | 📅 2026-09-22 [Liquorix](https://liquorix.net) - Liquorix is a distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
 * [![Open-Source Software][oss icon]](https://linux-libre.fsfla.org/pub/linux-libre/releases/) [GNU Linux-libre](https://www.fsfla.org/ikiwiki/selibre/linux-libre/) - GNU Linux-libre is a project to maintain and publish 100% Free distributions of Linux, suitable for use in Free System Distributions.
 * [![Open-Source Software][oss icon]](https://sourceforge.net/projects/xanmod/) [XanMod](https://xanmod.org/) - XanMod is a general-purpose Linux kernel distribution with custom settings and new features. Built to provide a stable, responsive and smooth desktop experience.
 
 ## Desktop Environments
 
-* [![Open-Source Software][oss icon]](https://github.com/pop-os/cosmic-epoch) ⭐ 6,831 | 🐛 1,817 | 🌐 Just | 📅 2026-09-23 [COSMIC](https://system76.com/cosmic) - COSMIC is a desktop environment offering performance, efficiency, and personalization to empower a wide variety of use cases.
-* [![Open-Source Software][oss icon]](https://github.com/linuxmint/Cinnamon) ⭐ 5,590 | 🐛 909 | 🌐 JavaScript | 📅 2026-09-23 [Cinnamon](https://projects.linuxmint.com/cinnamon/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
+* [![Open-Source Software][oss icon]](https://github.com/pop-os/cosmic-epoch) ⭐ 6,836 | 🐛 1,817 | 🌐 Just | 📅 2026-09-23 [COSMIC](https://system76.com/cosmic) - COSMIC is a desktop environment offering performance, efficiency, and personalization to empower a wide variety of use cases.
+* [![Open-Source Software][oss icon]](https://github.com/linuxmint/Cinnamon) ⭐ 5,589 | 🐛 906 | 🌐 JavaScript | 📅 2026-09-24 [Cinnamon](https://projects.linuxmint.com/cinnamon/) - Cinnamon strives to provide a traditional user experience. Cinnamon is a fork of GNOME 3.
 * [![Open-Source Software][oss icon]](https://github.com/lxqt/lxqt) ⭐ 1,868 | 🐛 173 | 🌐 Shell | 📅 2026-09-16 [LXQt](https://lxqt-project.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment.
 * [![Open-Source Software][oss icon]](https://github.com/BuddiesOfBudgie/budgie-desktop) ⭐ 1,334 | 🐛 76 | 🌐 Vala | 📅 2026-09-23 [Budgie](https://buddiesofbudgie.org/) - Budgie is a desktop environment designed with the modern user in mind, it focuses on simplicity and elegance.
 * [![Open-Source Software][oss icon]](https://github.com/linuxdeepin/dde-file-manager/tree/develop2.0) ⭐ 415 | 🐛 14 | 🌐 C++ | 📅 2026-09-24 [Deepin DE](https://www.deepin.org/en/dde/) - DDE (Deepin Desktop Environment) is the default desktop environment originally created for the Linux Deepin distribution.
@@ -1791,7 +1791,7 @@
 
 * [![Open-Source Software][oss icon]](https://github.com/sddm/sddm) ⭐ 2,353 | 🐛 753 | 🌐 C++ | 📅 2026-08-19 [SDDM](https://github.com/sddm/sddm) ⭐ 2,353 | 🐛 753 | 🌐 C++ | 📅 2026-08-19 - The QML-based display manager and successor to KDE4's kdm; recommended for Plasma 5 and LXQt.
 * [![Open-Source Software][oss icon]](https://github.com/canonical/lightdm) ⭐ 1,006 | 🐛 238 | 🌐 C | 📅 2026-09-06 [LightDM](https://www.freedesktop.org/wiki/Software/LightDM) - A cross-desktop display manager, can use various front-ends written in any toolkit.
-* [![Open-Source Software][oss icon]](https://github.com/GNOME/gdm) ⭐ 112 | 🐛 0 | 🌐 C | 📅 2026-09-22 [GDM](https://wiki.gnome.org/Projects/GDM) - The GNOME display manager.
+* [![Open-Source Software][oss icon]](https://github.com/GNOME/gdm) ⭐ 112 | 🐛 0 | 🌐 C | 📅 2026-09-24 [GDM](https://wiki.gnome.org/Projects/GDM) - The GNOME display manager.
 * [![Open-Source Software][oss icon]](https://github.com/linuxmint/mdm) ⚠️ Archived [MDM](https://github.com/linuxmint/mdm) ⚠️ Archived - The MDM display manager, used in Linux Mint, a fork of GDM 2.
 * [![Open-Source Software][oss icon]](https://github.com/gsingh93/slim-display-manager) ⭐ 16 | 🐛 1 | 🌐 C++ | 📅 2015-01-29 [SLiM](https://sourceforge.net/projects/slim.berlios/) - Lightweight and elegant graphical login solution. (Discontinued)
 * [![Open-Source Software][oss icon]](https://github.com/tomas/entrance) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2021-03-21 [Entrance](https://enlightenment.org) - An EFL based display manager, highly experimental.
@@ -1802,34 +1802,34 @@
 
 ### Compositors
 
-* [![Open-Source Software][oss icon]](https://github.com/hyprwm/Hyprland) ⭐ 38,666 | 🐛 203 | 🌐 C++ | 📅 2026-09-23 [Hyprland](https://hyprland.org/) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-* [![Open-Source Software][oss icon]](https://github.com/swaywm/sway) ⭐ 17,346 | 🐛 1,388 | 🌐 C | 📅 2026-09-21 [Sway](https://swaywm.org) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
+* [![Open-Source Software][oss icon]](https://github.com/hyprwm/Hyprland) ⭐ 38,668 | 🐛 204 | 🌐 C++ | 📅 2026-09-23 [Hyprland](https://hyprland.org/) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+* [![Open-Source Software][oss icon]](https://github.com/swaywm/sway) ⭐ 17,347 | 🐛 1,388 | 🌐 C | 📅 2026-09-21 [Sway](https://swaywm.org) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
 * [![Open-Source Software][oss icon]](https://github.com/Plagman/gamescope) ⭐ 5,116 | 🐛 969 | 🌐 C++ | 📅 2026-09-23 [Gamescope](https://github.com/Plagman/gamescope) ⭐ 5,116 | 🐛 969 | 🌐 C++ | 📅 2026-09-23 - Gamescope is a micro-compositor that provides a sandboxed Xwayland desktop with independent input, resolution, and refresh rate.
-* [![Open-Source Software][oss icon]](https://github.com/yshui/picom) ⭐ 4,804 | 🐛 277 | 🌐 C | 📅 2026-09-22 [Picom](https://github.com/yshui/picom) ⭐ 4,804 | 🐛 277 | 🌐 C | 📅 2026-09-22 - Picom is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
-* [![Open-Source Software][oss icon]](https://github.com/riverwm/river) ⭐ 4,289 | 🐛 67 | 🌐 Zig | 📅 2026-09-23 [River](https://github.com/riverwm/river) ⭐ 4,289 | 🐛 67 | 🌐 Zig | 📅 2026-09-23 - River is a dynamic tiling Wayland compositor with flexible runtime configuration.
+* [![Open-Source Software][oss icon]](https://github.com/yshui/picom) ⭐ 4,805 | 🐛 277 | 🌐 C | 📅 2026-09-22 [Picom](https://github.com/yshui/picom) ⭐ 4,805 | 🐛 277 | 🌐 C | 📅 2026-09-22 - Picom is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
+* [![Open-Source Software][oss icon]](https://github.com/riverwm/river) ⭐ 4,290 | 🐛 67 | 🌐 Zig | 📅 2026-09-23 [River](https://github.com/riverwm/river) ⭐ 4,290 | 🐛 67 | 🌐 Zig | 📅 2026-09-23 - River is a dynamic tiling Wayland compositor with flexible runtime configuration.
 * [![Open-Source Software][oss icon]](https://github.com/WayfireWM/wayfire) ⭐ 3,055 | 🐛 124 | 🌐 C++ | 📅 2026-09-20 [Wayfire](https://wayfire.org/) - Wayfire is a wayland compositor based on wlroots. It aims to create a customizable, extendable and lightweight environment without sacrificing its appearance.
 * [![Open-Source Software][oss icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency.
 
 ### Stacking Window Managers
 
 * [![Open-Source Software][oss icon]](https://github.com/venam/2bwm) ⭐ 855 | 🐛 0 | 🌐 C | 📅 2026-09-03 [2bwm](https://github.com/venam/2bwm) ⭐ 855 | 🐛 0 | 🌐 C | 📅 2026-09-03 - A fast floating WM, with the particularity of having 2 borders, written over the XCB library and derived from mcwm.
-* [![Open-Source Software][oss icon]](https://github.com/danakj/openbox) ⭐ 730 | 🐛 20 | 🌐 C | 📅 2026-06-03 [Openbox](http://openbox.org) - A highly configurable, next generation window manager with extensive standards support.
+* [![Open-Source Software][oss icon]](https://github.com/danakj/openbox) ⭐ 731 | 🐛 20 | 🌐 C | 📅 2026-06-03 [Openbox](http://openbox.org) - A highly configurable, next generation window manager with extensive standards support.
 * [![Open-Source Software][oss icon]](https://github.com/fluxbox/fluxbox) ⭐ 437 | 🐛 21 | 🌐 C++ | 📅 2026-02-15 [Fluxbox](http://fluxbox.org) - A window manager for X that was based on the Blackbox 0.61.1 code.
-* [![Open-Source Software][oss icon]](https://github.com/ice-wm/icewm) ⭐ 416 | 🐛 3 | 🌐 C++ | 📅 2026-08-06 [IceWM](https://ice-wm.org) - A window manager for the X Window System. The goal of IceWM is speed, simplicity, and not getting in the user’s way.
+* [![Open-Source Software][oss icon]](https://github.com/ice-wm/icewm) ⭐ 417 | 🐛 3 | 🌐 C++ | 📅 2026-08-06 [IceWM](https://ice-wm.org) - A window manager for the X Window System. The goal of IceWM is speed, simplicity, and not getting in the user’s way.
 * [![Open-Source Software][oss icon]](https://github.com/bbidulock/blackboxwm) ⭐ 196 | 🐛 11 | 🌐 C++ | 📅 2024-03-10 [Blackbox](https://github.com/bbidulock/blackboxwm) ⭐ 196 | 🐛 11 | 🌐 C++ | 📅 2024-03-10 - A fast, lightweight window manager for the X Window System, without all those annoying library dependencies.
 
 ### Tiling Window Managers
 
 * [![Open-Source Software][oss icon]](https://github.com/i3/i3) ⭐ 10,570 | 🐛 373 | 🌐 C | 📅 2026-09-21 [i3 WM](https://i3wm.org/) - A better tiling and dynamic window manager. It's completely written from scratch. The target platforms are GNU/Linux and BSD operating systems.
 * [![Open-Source Software][oss icon]](https://github.com/baskerville/bspwm) ⭐ 8,317 | 🐛 348 | 🌐 C | 📅 2026-06-19 [Bspwm](https://github.com/baskerville/bspwm/wiki) ⭐ 8,317 | 🐛 348 | 🌐 C | 📅 2026-06-19 - Bspwm is a tiling window manager that represents windows as the leaves of a full binary tree.
-* [![Open-Source Software][oss icon]](https://github.com/qtile/qtile) ⭐ 5,300 | 🐛 207 | 🌐 Python | 📅 2026-09-20 [Qtile](https://qtile.org/) - Qtile is a full-featured, hackable tiling window manager written and configured in Python.
+* [![Open-Source Software][oss icon]](https://github.com/qtile/qtile) ⭐ 5,299 | 🐛 209 | 🌐 Python | 📅 2026-09-20 [Qtile](https://qtile.org/) - Qtile is a full-featured, hackable tiling window manager written and configured in Python.
 * [![Open-Source Software][oss icon]](https://github.com/pop-os/shell) ⭐ 5,283 | 🐛 453 | 🌐 TypeScript | 📅 2026-08-20 [Pop!\_OS Shell](https://github.com/pop-os/shell) ⭐ 5,283 | 🐛 453 | 🌐 TypeScript | 📅 2026-08-20 - Pop Shell is a keyboard-driven auto-tiling window manager that run on top of the GNOME shell.
 * [![Open-Source Software][oss icon]](https://github.com/Bismuth-Forge/bismuth) ⚠️ Archived [Bismuth](https://bismuth-forge.github.io/bismuth/) - Making tiling window management easy. On KDE Plasma.
 * [![Open-Source Software][oss icon]](https://github.com/herbstluftwm/herbstluftwm) ⭐ 1,165 | 🐛 134 | 🌐 C++ | 📅 2026-09-21 [Herbstluftwm](https://herbstluftwm.org) - Is a Manual tiling window manager for X11 using Xlib and Glib.
 
 ### Dynamic Window Managers
 
-* [![Open-Source Software][oss icon]](https://github.com/awesomeWM/awesome) ⭐ 6,964 | 🐛 571 | 🌐 Lua | 📅 2026-08-28 [awesome](https://awesomewm.org) - A highly configurable, next generation framework window manager for X.
+* [![Open-Source Software][oss icon]](https://github.com/awesomeWM/awesome) ⭐ 6,964 | 🐛 572 | 🌐 Lua | 📅 2026-08-28 [awesome](https://awesomewm.org) - A highly configurable, next generation framework window manager for X.
 * [![Open-Source Software][oss icon]](https://github.com/xmonad/xmonad) ⭐ 3,598 | 🐛 63 | 🌐 Haskell | 📅 2026-06-28 [xmonad](https://xmonad.org) - A dynamically tiling X11 window manager that is written and configured in Haskell.
 * [![Open-Source Software][oss icon]](https://github.com/esjeon/krohnkite) ⭐ 2,177 | 🐛 127 | 🌐 TypeScript | 📅 2023-08-09 [Kröhnkite](https://github.com/esjeon/krohnkite) ⭐ 2,177 | 🐛 127 | 🌐 TypeScript | 📅 2023-08-09 - A dynamic tiling extension for KWin.
 * [![Open-Source Software][oss icon]](https://github.com/conformal/spectrwm) ⭐ 1,410 | 🐛 34 | 🌐 C | 📅 2026-07-20 [spectrwm](https://github.com/conformal/spectrwm) ⭐ 1,410 | 🐛 34 | 🌐 C | 📅 2026-07-20 - A small dynamic tiling window manager for X11, largely inspired by xmonad and dwm.
